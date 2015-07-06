@@ -34,6 +34,8 @@
     * [Redux router](https://github.com/stolbov/redux-router)
     * [redux-example](https://github.com/tsingson/redux-example)
     * [Another universal example](https://github.com/quangbuule/redux-example)
+    * [Ideas log](https://github.com/insin/ideas-md)
+    * [React tutorial tool](https://github.com/insin/react-lessons)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
