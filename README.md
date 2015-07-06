@@ -36,6 +36,7 @@
     * [Another universal example](https://github.com/quangbuule/redux-example)
     * [Ideas log](https://github.com/insin/ideas-md)
     * [React tutorial tool](https://github.com/insin/react-lessons)
+    * [Webpack Redux Boilerplate](https://github.com/ernieturner/webpack-redux-boilerplate)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
