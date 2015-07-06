@@ -3,13 +3,13 @@
 ## [Redux](https://github.com/gaearon/redux)
 
 ### [React](http://facebook.github.io/react)
-* [Middlewares]()
+* Middlewares
     * [reduce-transduce](https://github.com/acdlite/redux-transduce)
     * [redux-actions](https://github.com/acdlite/redux-actions)
     * [redux-promise](https://github.com/acdlite/redux-promise)
     * [redux-rx](https://github.com/acdlite/redux-rx)
     * [reselect](https://github.com/faassen/reselect)
-* [Examples]()
+* Examples
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [GraphQL + Redux](https://github.com/broucz/threads-redux)
     * [Counter](https://github.com/andimarek/redux-counter-tested)
@@ -36,5 +36,5 @@
     * [Another universal example](https://github.com/quangbuule/redux-example)
     
 ### [Deku](https://github.com/dekujs/deku)
-* [Examples]()
+* Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
