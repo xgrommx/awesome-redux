@@ -39,6 +39,7 @@
     * [Webpack Redux Boilerplate](https://github.com/ernieturner/webpack-redux-boilerplate)
     * [redux-example](https://github.com/phated/redux-example)
     * [Yet another isomorphic](https://github.com/bananaoomarang/isomorphic-redux)
+    * [react-template](https://github.com/ironbay/react-template)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
