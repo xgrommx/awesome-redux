@@ -47,6 +47,11 @@
     * [phillybike.me.redux](https://github.com/iktl/phillybike.me.redux)
     * [Orange game](https://github.com/SBUtltmedia/orange-game)
     * [Visualize language usage in the Norwegian parliament](https://github.com/holderdeord/hdo-transcript-search)
+    * [Reversi](https://github.com/jhewlett/react-reversi)
+    * [Payments UI from Mozilla](https://github.com/mozilla/payments-ui)
+    * [Chords](https://github.com/allanhortle/chords)
+    * [HSTracker](https://github.com/fortruce/HSTracker)
+    * [Metastarter](https://github.com/ralph-pichler/metastarter)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
