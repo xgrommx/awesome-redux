@@ -9,6 +9,8 @@
     * [redux-promise](https://github.com/acdlite/redux-promise)
     * [redux-rx](https://github.com/acdlite/redux-rx)
     * [reselect](https://github.com/faassen/reselect)
+* Frameworks
+    * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [GraphQL + Redux](https://github.com/broucz/threads-redux)
@@ -40,6 +42,8 @@
     * [redux-example](https://github.com/phated/redux-example)
     * [Yet another isomorphic](https://github.com/bananaoomarang/isomorphic-redux)
     * [react-template](https://github.com/ironbay/react-template)
+    * [Universal Starter-kit](https://github.com/cdebotton/react-universal)
+    * [Exploring Redux](https://github.com/GertjanReynaert/TimeLoop)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
