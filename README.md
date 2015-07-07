@@ -53,6 +53,7 @@
     * [HSTracker](https://github.com/fortruce/HSTracker)
     * [Metastarter](https://github.com/ralph-pichler/metastarter)
     * [Amun](https://github.com/sbekti/amun)
+    * [Electron template](https://github.com/ironbay/electron-template)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
