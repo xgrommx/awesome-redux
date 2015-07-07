@@ -44,6 +44,9 @@
     * [react-template](https://github.com/ironbay/react-template)
     * [Universal Starter-kit](https://github.com/cdebotton/react-universal)
     * [Exploring Redux](https://github.com/GertjanReynaert/TimeLoop)
+    * [phillybike.me.redux](https://github.com/iktl/phillybike.me.redux)
+    * [Orange game](https://github.com/SBUtltmedia/orange-game)
+    * [Visualize language usage in the Norwegian parliament](https://github.com/holderdeord/hdo-transcript-search)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
