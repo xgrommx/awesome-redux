@@ -39,7 +39,7 @@
     * [Ideas log](https://github.com/insin/ideas-md)
     * [React tutorial tool](https://github.com/insin/react-lessons)
     * [Webpack Redux Boilerplate](https://github.com/ernieturner/webpack-redux-boilerplate)
-    * [redux-example](https://github.com/phated/redux-example)
+    * [redux + redux-promise + sovereign + when](https://github.com/phated/redux-example)
     * [Yet another isomorphic](https://github.com/bananaoomarang/isomorphic-redux)
     * [react-template](https://github.com/ironbay/react-template)
     * [Universal Starter-kit](https://github.com/cdebotton/react-universal)
