@@ -52,6 +52,7 @@
     * [Chords](https://github.com/allanhortle/chords)
     * [HSTracker](https://github.com/fortruce/HSTracker)
     * [Metastarter](https://github.com/ralph-pichler/metastarter)
+    * [Amun](https://github.com/sbekti/amun)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
