@@ -60,6 +60,7 @@
     * [Mush web](https://github.com/ironbay/mush-web)
     * [react-isomorphic-bundle](https://github.com/lancetw/react-isomorphic-bundle)
     * [loggit](https://github.com/kevinrobinson/loggit)
+    * [redux-example](https://github.com/chentsulin/redux-example)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
