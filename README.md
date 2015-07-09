@@ -58,6 +58,7 @@
     * [Sofar](https://github.com/zallek/sofar)
     * [Mush web](https://github.com/ironbay/mush-web)
     * [react-isomorphic-bundle](https://github.com/lancetw/react-isomorphic-bundle)
+    * [loggit](https://github.com/kevinrobinson/loggit)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
