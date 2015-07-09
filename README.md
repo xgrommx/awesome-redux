@@ -55,6 +55,9 @@
     * [Amun](https://github.com/sbekti/amun)
     * [Electron template](https://github.com/ironbay/electron-template)
     * [Personal website of timedoes](https://github.com/timdoes/timdoes)
+    * [Sofar](https://github.com/zallek/sofar)
+    * [Mush web](https://github.com/ironbay/mush-web)
+    * [react-isomorphic-bundle](https://github.com/lancetw/react-isomorphic-bundle)
     
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
