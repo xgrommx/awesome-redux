@@ -9,6 +9,7 @@
     * [redux-promise](https://github.com/acdlite/redux-promise)
     * [redux-rx](https://github.com/acdlite/redux-rx)
     * [reselect](https://github.com/faassen/reselect)
+    * [redux-react-connector](https://github.com/pluralsight/redux-react-connector)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
