@@ -13,6 +13,8 @@
     * [react-redux](https://github.com/gaearon/react-redux)
     * [redux-react-router](https://github.com/acdlite/redux-react-router)
     * [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware)
+    * [redux-delegator](https://github.com/lapanoid/redux-delegator)
+    * [redux-thunk](https://github.com/gaearon/redux-thunk)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
@@ -76,6 +78,10 @@
     * [l-and-l-demo-vm](https://github.com/PenguinKingGames/l-and-l-demo-vm)
     * [Example Reducer for Redux, without the switches](https://github.com/damassi/redux-reducer-layout)
     * [KanBan board for GitHub issues](https://github.com/andrew-codes/community-board)
+    * [react-training](https://github.com/matystl/react-training/tree/master/03)
+    * [cinematica](https://github.com/UXtemple/cinematic)
+    * [React Redux Universal Hot Example](https://github.com/royletron/Ito)
+    * [panels-runtime](https://github.com/UXtemple/panels-runtime)
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
