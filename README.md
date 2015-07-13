@@ -79,6 +79,7 @@
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
+
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
