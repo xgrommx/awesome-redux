@@ -75,6 +75,7 @@
     * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
     * [l-and-l-demo-vm](https://github.com/PenguinKingGames/l-and-l-demo-vm)
     * [Example Reducer for Redux, without the switches](https://github.com/damassi/redux-reducer-layout)
+    * [KanBan board for GitHub issues](https://github.com/andrew-codes/community-board)
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
