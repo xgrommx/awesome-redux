@@ -10,6 +10,9 @@
     * [redux-rx](https://github.com/acdlite/redux-rx)
     * [reselect](https://github.com/faassen/reselect)
     * [redux-react-connector](https://github.com/pluralsight/redux-react-connector)
+    * [react-redux](https://github.com/gaearon/react-redux)
+    * [redux-react-router](https://github.com/acdlite/redux-react-router)
+    * [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
@@ -28,7 +31,7 @@
     * [Dice game](https://github.com/unbracketed/redux-yahtzee)
     * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example)
     * [Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
-    * [Isomorphic](https://github.com/emmenko/redux-react-router-async-example)
+    * [A showcase of the Redux architecture with React Router](https://github.com/emmenko/redux-react-router-async-example)
     * [TodoMVC (ES5)](https://github.com/insin/redux-todomvc-es5)
     * [trailerzoo-redux](https://github.com/bshyong/trailerzoo-redux)
     * [Isomorphic](https://github.com/tommy351/redux-example)
@@ -61,7 +64,20 @@
     * [react-isomorphic-bundle](https://github.com/lancetw/react-isomorphic-bundle)
     * [loggit](https://github.com/kevinrobinson/loggit)
     * [redux-example](https://github.com/chentsulin/redux-example)
+    * [Encrypted chat using Redux and the Web Crypto API](https://github.com/kmoe/crypto-chat)
+    * [Example from comparison of flux](https://github.com/voronianski/flux-comparison/tree/master/redux)
+    * [playing-with-react-and-redux](https://github.com/danharper/playing-with-react-and-redux)
+    * [Redux Multiple Reducers Example](https://github.com/suin/redux-multiple-reducers-example)
+    * [Platform for self-publishing of literary worlds](https://github.com/bananaoomarang/chapters)
+    * [habits](https://github.com/normalstar/habits)
+    * [nwjs-emoji-app](https://github.com/lyrictenor/nwjs-emoji-app)
+    * [expense](https://github.com/iurii-kondratiuk/expense)
+    * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
+    * [l-and-l-demo-vm](https://github.com/PenguinKingGames/l-and-l-demo-vm)
+    * [Example Reducer for Redux, without the switches](https://github.com/damassi/redux-reducer-layout)
     
+* Similar libraries
+    * [flux-ts](https://github.com/BobBuehler/flux-ts)
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
