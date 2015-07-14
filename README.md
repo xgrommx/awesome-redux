@@ -15,6 +15,8 @@
     * [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware)
     * [redux-delegator](https://github.com/lapanoid/redux-delegator)
     * [redux-thunk](https://github.com/gaearon/redux-thunk)
+* Tools
+    * [redux-devtools](https://github.com/gaearon/redux-devtools)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
@@ -90,3 +92,7 @@
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
+    
+### [Incremental DOM](http://google.github.io/incremental-dom)
+* Examples
+    * [Incremental DOM + Redux Flux = Todo App](https://github.com/joshthecoder/idom-redux-todomvc-app)
