@@ -82,6 +82,7 @@
     * [cinematica](https://github.com/UXtemple/cinematic)
     * [React Redux Universal Hot Example](https://github.com/royletron/Ito)
     * [panels-runtime](https://github.com/UXtemple/panels-runtime)
+    * [An implementation of TodoMVC using React, Redux, React-Router, and more!](https://github.com/tough-griff/redux-react-router-todomvc)
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
