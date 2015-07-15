@@ -22,6 +22,7 @@
 * Examples
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [GraphQL + Redux](https://github.com/broucz/threads-redux)
+    * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
     * [Counter](https://github.com/andimarek/redux-counter-tested)
     * [Trivia game](https://github.com/gtfiorentino/you-know-it)
     * [Git Watch (Node webkit + Redux)](https://github.com/Dean177/git-watch)
