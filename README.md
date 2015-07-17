@@ -19,8 +19,11 @@
     * [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware)
     * [redux-delegator](https://github.com/lapanoid/redux-delegator)
     * [redux-thunk](https://github.com/gaearon/redux-thunk)
+    * [redux-delegator](https://github.com/lapanoid/redux-delegator)
 * Tools
     * [redux-devtools](https://github.com/gaearon/redux-devtools)
+    * [redux-devtools-gentest-plugin](https://github.com/lapanoid/redux-devtools-gentest-plugin)
+    * [redux-action-utils](https://github.com/insin/redux-action-utils)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
@@ -97,6 +100,8 @@
     * [web](https://github.com/aopdex/web)
     * [reactive-stock-ticker-demo](https://github.com/banderson/reactive-stock-ticker-demo)
     * [budgtize](https://github.com/wyze/budgtize)
+    * [appler-react](https://github.com/saurshaz/appler-react)
+    * [leaflet-redux](https://github.com/volkanunsal/leaflet-redux)
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
