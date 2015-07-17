@@ -105,6 +105,7 @@
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
+    * [chopped-redux](https://github.com/acstll/chopped-redux)
 
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
