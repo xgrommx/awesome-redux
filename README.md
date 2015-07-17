@@ -102,6 +102,7 @@
     * [budgtize](https://github.com/wyze/budgtize)
     * [appler-react](https://github.com/saurshaz/appler-react)
     * [leaflet-redux](https://github.com/volkanunsal/leaflet-redux)
+    * [router-experiments](https://github.com/andreogle/router-experiments)
     
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
