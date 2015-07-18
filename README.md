@@ -17,7 +17,6 @@
     * [react-redux](https://github.com/gaearon/react-redux)
     * [redux-react-router](https://github.com/acdlite/redux-react-router)
     * [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware)
-    * [redux-delegator](https://github.com/lapanoid/redux-delegator)
     * [redux-thunk](https://github.com/gaearon/redux-thunk)
     * [redux-delegator](https://github.com/lapanoid/redux-delegator)
     * [routex](https://github.com/michalkvasnicak/routex)
