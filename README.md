@@ -20,10 +20,13 @@
     * [redux-delegator](https://github.com/lapanoid/redux-delegator)
     * [redux-thunk](https://github.com/gaearon/redux-thunk)
     * [redux-delegator](https://github.com/lapanoid/redux-delegator)
+    * [routex](https://github.com/michalkvasnicak/routex)
 * Tools
     * [redux-devtools](https://github.com/gaearon/redux-devtools)
     * [redux-devtools-gentest-plugin](https://github.com/lapanoid/redux-devtools-gentest-plugin)
     * [redux-action-utils](https://github.com/insin/redux-action-utils)
+    * [generator-redux](https://github.com/banderson/generator-redux)
+    * [redux-loader](https://github.com/sporto/redux-loader)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
