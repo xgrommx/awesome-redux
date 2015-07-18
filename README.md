@@ -8,7 +8,7 @@
 
 ### [React](http://facebook.github.io/react)
 * Middlewares
-    * [reduce-transduce](https://github.com/acdlite/redux-transduce)
+    * [redux-transduce](https://github.com/acdlite/redux-transduce)
     * [redux-actions](https://github.com/acdlite/redux-actions)
     * [redux-promise](https://github.com/acdlite/redux-promise)
     * [redux-rx](https://github.com/acdlite/redux-rx)
