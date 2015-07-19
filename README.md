@@ -105,7 +105,9 @@
     * [appler-react](https://github.com/saurshaz/appler-react)
     * [leaflet-redux](https://github.com/volkanunsal/leaflet-redux)
     * [router-experiments](https://github.com/andreogle/router-experiments)
-    
+    * [list-redux](https://github.com/christopherscott/list-redux)
+    * [redux-experiments](https://github.com/jlongster/redux-experiments)
+
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
     * [chopped-redux](https://github.com/acstll/chopped-redux)
