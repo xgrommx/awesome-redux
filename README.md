@@ -108,6 +108,7 @@
     * [list-redux](https://github.com/christopherscott/list-redux)
     * [redux-experiments](https://github.com/jlongster/redux-experiments)
     * [React/Redux/Immutable.js playground](https://github.com/sapegin/redux-demo)
+    * [Tasks4Squares.client](https://github.com/stremlenye/Tasks4Squares.client)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
