@@ -107,6 +107,7 @@
     * [router-experiments](https://github.com/andreogle/router-experiments)
     * [list-redux](https://github.com/christopherscott/list-redux)
     * [redux-experiments](https://github.com/jlongster/redux-experiments)
+    * [React/Redux/Immutable.js playground](https://github.com/sapegin/redux-demo)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
