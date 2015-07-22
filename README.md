@@ -4,7 +4,7 @@
 
 ### [Reactive Native](https://facebook.github.io/react-native)
 * Examples
-    * [noder-react-native](https://github.com/soliury/noder-react-native/tree/redux)
+    * [noder-react-native](https://github.com/soliury/noder-react-native)
 
 ### [React](http://facebook.github.io/react)
 * Middlewares
