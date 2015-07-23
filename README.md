@@ -2,6 +2,9 @@
 
 ## [Redux](https://github.com/gaearon/redux)
 
+### Articles And Tutorials
+* [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
+
 ### [Reactive Native](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native](https://github.com/soliury/noder-react-native)
