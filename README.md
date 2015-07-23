@@ -20,6 +20,7 @@
     * [redux-thunk](https://github.com/gaearon/redux-thunk)
     * [redux-delegator](https://github.com/lapanoid/redux-delegator)
     * [routex](https://github.com/michalkvasnicak/routex)
+    * [redux-persist-store](https://github.com/rt2zz/redux-persist-store)
 * Tools
     * [redux-devtools](https://github.com/gaearon/redux-devtools)
     * [redux-devtools-gentest-plugin](https://github.com/lapanoid/redux-devtools-gentest-plugin)
@@ -110,6 +111,10 @@
     * [React/Redux/Immutable.js playground](https://github.com/sapegin/redux-demo)
     * [Tasks4Squares.client](https://github.com/stremlenye/Tasks4Squares.client)
     * [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
+    * [Simple Pokedex app to start learning Redux](https://github.com/davidchang/redux-pokedex)
+    * [Universal app with redux as Flux library and redux-devtools hot-reload tools](https://github.com/savemysmartphone/universal-redux-boilerplate)
+    * [Redux socket.io](https://github.com/voby/chatte)
+    * [repair-redux](https://github.com/khairold/repair-redux)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
@@ -126,3 +131,7 @@
 ### [WinJS](http://try.buildwinjs.com)
 * Examples
     * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
+    
+### [Angular 2](https://angular.io)
+* Examples
+    * [Angular 2 + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
