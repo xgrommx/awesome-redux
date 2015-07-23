@@ -118,6 +118,7 @@
     * [Universal app with redux as Flux library and redux-devtools hot-reload tools](https://github.com/savemysmartphone/universal-redux-boilerplate)
     * [Redux socket.io](https://github.com/voby/chatte)
     * [repair-redux](https://github.com/khairold/repair-redux)
+    * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
