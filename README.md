@@ -122,3 +122,7 @@
 ### [Incremental DOM](http://google.github.io/incremental-dom)
 * Examples
     * [Incremental DOM + Redux Flux = Todo App](https://github.com/joshthecoder/idom-redux-todomvc-app)
+
+### [WinJS](http://try.buildwinjs.com)
+* Examples
+    * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
