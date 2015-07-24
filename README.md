@@ -120,10 +120,12 @@
     * [repair-redux](https://github.com/khairold/repair-redux)
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
     * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
+    * [react + redux(flux) + react-router + async(fetch)](https://github.com/tsingson/redux-async-learning)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
     * [chopped-redux](https://github.com/acstll/chopped-redux)
+    * [fluxette](https://github.com/edge/fluxette)
 
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
