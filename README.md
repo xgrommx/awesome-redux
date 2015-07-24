@@ -121,6 +121,8 @@
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
     * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
     * [react + redux(flux) + react-router + async(fetch)](https://github.com/tsingson/redux-async-learning)
+    * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
+    * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
