@@ -119,6 +119,7 @@
     * [Redux socket.io](https://github.com/voby/chatte)
     * [repair-redux](https://github.com/khairold/repair-redux)
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
+    * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
