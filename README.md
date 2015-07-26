@@ -125,6 +125,7 @@
     * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
+    * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
