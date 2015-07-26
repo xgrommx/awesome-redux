@@ -106,7 +106,6 @@
     * [web](https://github.com/aopdex/web)
     * [reactive-stock-ticker-demo](https://github.com/banderson/reactive-stock-ticker-demo)
     * [budgtize](https://github.com/wyze/budgtize)
-    * [appler-react](https://github.com/saurshaz/appler-react)
     * [leaflet-redux](https://github.com/volkanunsal/leaflet-redux)
     * [router-experiments](https://github.com/andreogle/router-experiments)
     * [list-redux](https://github.com/christopherscott/list-redux)
@@ -121,12 +120,14 @@
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
     * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
     * [react + redux(flux) + react-router + async(fetch)](https://github.com/tsingson/redux-async-learning)
-    * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
     * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
     * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
     * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux)
+    * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch)
+    * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
+    * [chat-example](https://github.com/ForbesLindesay/chat-example)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
@@ -148,3 +149,11 @@
 ### [Angular 2](https://angular.io)
 * Examples
     * [Angular 2 + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
+    
+### [Vue](http://vuejs.org)
+* Examples
+    * [Vue + Redux](https://github.com/yang-wei/vue-flux)
+    
+### [Polymer](https://www.polymer-project.org)
+* Examples
+    * [appler-react](https://github.com/saurshaz/appler-react)
