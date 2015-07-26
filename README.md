@@ -128,6 +128,7 @@
     * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch)
     * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
     * [chat-example](https://github.com/ForbesLindesay/chat-example)
+    * [redux-example](https://github.com/Rhadow/redux-example)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
