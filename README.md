@@ -126,6 +126,7 @@
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
     * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
+    * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
