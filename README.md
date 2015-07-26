@@ -125,6 +125,7 @@
     * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
+    * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
