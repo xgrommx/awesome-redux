@@ -25,6 +25,7 @@
     * [routex](https://github.com/michalkvasnicak/routex)
     * [redux-persist-store](https://github.com/rt2zz/redux-persist-store)
     * [redux-graphql](https://github.com/gyzerok/redux-graphql)
+    * [redux-localstorage](https://github.com/elgerlambert/redux-localstorage)
 * Tools
     * [redux-devtools](https://github.com/gaearon/redux-devtools)
     * [redux-devtools-gentest-plugin](https://github.com/lapanoid/redux-devtools-gentest-plugin)
