@@ -135,6 +135,8 @@
     * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
     * [chat-example](https://github.com/ForbesLindesay/chat-example)
     * [redux-example](https://github.com/Rhadow/redux-example)
+    * [past.ebin](https://github.com/code-n-beer/past.ebin)
+    * [color-contrast](https://github.com/moroshko/color-contrast)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
@@ -165,3 +167,7 @@
 ### [Polymer](https://www.polymer-project.org)
 * Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
+    
+### Chrome Extensions
+* Examples
+    * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
