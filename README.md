@@ -136,6 +136,7 @@
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
     * [chopped-redux](https://github.com/acstll/chopped-redux)
     * [fluxette](https://github.com/edge/fluxette)
+    * [A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
 
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
