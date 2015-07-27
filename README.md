@@ -32,6 +32,7 @@
     * [redux-action-utils](https://github.com/insin/redux-action-utils)
     * [generator-redux](https://github.com/banderson/generator-redux)
     * [redux-loader](https://github.com/sporto/redux-loader)
+    * [redux-rest](https://github.com/Kvoti/redux-rest)
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 * Examples
@@ -150,9 +151,9 @@
 * Examples
     * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
     
-### [Angular 2](https://angular.io)
+### [Angular](https://angularjs.org)
 * Examples
-    * [Angular 2 + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
+    * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     
 ### [Vue](http://vuejs.org)
 * Examples
