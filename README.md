@@ -26,6 +26,7 @@
     * [redux-persist-store](https://github.com/rt2zz/redux-persist-store)
     * [redux-graphql](https://github.com/gyzerok/redux-graphql)
     * [redux-localstorage](https://github.com/elgerlambert/redux-localstorage)
+
 * Tools
     * [redux-devtools](https://github.com/gaearon/redux-devtools)
     * [redux-devtools-gentest-plugin](https://github.com/lapanoid/redux-devtools-gentest-plugin)
@@ -33,8 +34,10 @@
     * [generator-redux](https://github.com/banderson/generator-redux)
     * [redux-loader](https://github.com/sporto/redux-loader)
     * [redux-rest](https://github.com/Kvoti/redux-rest)
+
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
+
 * Examples
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [GraphQL + Redux](https://github.com/broucz/threads-redux)
