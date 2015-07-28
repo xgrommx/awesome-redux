@@ -5,6 +5,9 @@
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 
+### Boilerplate
+* [React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
+
 ### [Reactive Native](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native](https://github.com/soliury/noder-react-native)
@@ -39,6 +42,7 @@
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 
 * Examples
+    * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [GraphQL + Redux](https://github.com/broucz/threads-redux)
     * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
@@ -149,7 +153,7 @@
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
-    
+
 ### [Incremental DOM](http://google.github.io/incremental-dom)
 * Examples
     * [Incremental DOM + Redux Flux = Todo App](https://github.com/joshthecoder/idom-redux-todomvc-app)
@@ -157,19 +161,19 @@
 ### [WinJS](http://try.buildwinjs.com)
 * Examples
     * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
-    
+
 ### [Angular](https://angularjs.org)
 * Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
-    
+
 ### [Vue](http://vuejs.org)
 * Examples
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
-    
+
 ### [Polymer](https://www.polymer-project.org)
 * Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
-    
+
 ### Chrome Extensions
 * Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
