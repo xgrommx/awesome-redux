@@ -137,6 +137,8 @@
     * [redux-example](https://github.com/Rhadow/redux-example)
     * [past.ebin](https://github.com/code-n-beer/past.ebin)
     * [color-contrast](https://github.com/moroshko/color-contrast)
+    * [redux-react-router-example-app](https://github.com/knowbody/redux-react-router-example-app)
+    * [like-counter](https://github.com/rob-balfre/like-counter)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
