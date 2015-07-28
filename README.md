@@ -143,6 +143,7 @@
     * [color-contrast](https://github.com/moroshko/color-contrast)
     * [redux-react-router-example-app](https://github.com/knowbody/redux-react-router-example-app)
     * [like-counter](https://github.com/rob-balfre/like-counter)
+    * [test-redux-flickr](https://github.com/nchaulet/test-redux-flickr)
 
 * Similar libraries
     * [flux-ts](https://github.com/BobBuehler/flux-ts)
