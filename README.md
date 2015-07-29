@@ -5,13 +5,19 @@
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 
+---
+
 ### Boilerplate
 * [React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
 * [React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
 
+---
+
 ### [Reactive Native](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native](https://github.com/soliury/noder-react-native)
+
+---
 
 ### [React](http://facebook.github.io/react)
 * Middlewares
@@ -147,36 +153,52 @@
     * [like-counter](https://github.com/rob-balfre/like-counter)
     * [test-redux-flickr](https://github.com/nchaulet/test-redux-flickr)
 
-* Similar libraries
-    * [flux-ts](https://github.com/BobBuehler/flux-ts)
-    * [chopped-redux](https://github.com/acstll/chopped-redux)
-    * [fluxette](https://github.com/edge/fluxette)
-    * [A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
+---
+
+### Similar libraries
+   * [flux-ts](https://github.com/BobBuehler/flux-ts)
+   * [chopped-redux](https://github.com/acstll/chopped-redux)
+   * [fluxette](https://github.com/edge/fluxette)
+   * [A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
+
+---
 
 ### [Deku](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
 
+---
+
 ### [Incremental DOM](http://google.github.io/incremental-dom)
 * Examples
     * [Incremental DOM + Redux Flux = Todo App](https://github.com/joshthecoder/idom-redux-todomvc-app)
 
+---
+
 ### [WinJS](http://try.buildwinjs.com)
 * Examples
     * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
+
+---
 
 ### [Angular](https://angularjs.org)
 * Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
 
+---
+
 ### [Vue](http://vuejs.org)
 * Examples
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
 
+---
+
 ### [Polymer](https://www.polymer-project.org)
 * Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
+
+---
 
 ### Chrome Extensions
 * Examples
