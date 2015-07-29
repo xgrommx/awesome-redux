@@ -1,4 +1,6 @@
-# Awesome Redux - List of repositories which use Redux
+# Awesome Redux
+
+> List of repositories which use Redux
 
 ## [Redux](https://github.com/gaearon/redux)
 
