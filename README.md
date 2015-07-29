@@ -17,13 +17,13 @@
 
 ---
 
-### [Reactive Native](https://facebook.github.io/react-native)
+### [Reactive Native - A framework for building native apps using React](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
 
 ---
 
-### [React](http://facebook.github.io/react)
+### [React - A JavaScript library for building user interfaces](http://facebook.github.io/react)
 * Middlewares
     * [redux-transduce - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [redux-actions - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
@@ -54,15 +54,21 @@
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 
 * Examples
-    * Koa
-    * Express
-    * Hapi
+    * [Koa](https://github.com/koajs/koa)
+        * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example)
+        * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa)
+    * [Express](https://github.com/strongloop/express)
+    * [Hapi](https://github.com/hapijs/hapi)
         * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
         * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
         * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux)
-    * GraphQL
+    * [GraphQL](https://github.com/graphql/graphql-js)
         * [GraphQL + Redux](https://github.com/broucz/threads-redux)
         * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
+    * [Omniscient](https://github.com/omniscientjs/omniscient)
+        * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
+    * [Datascript](https://github.com/tonsky/datascript)
+        * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
@@ -76,7 +82,6 @@
     * [Official example (TodoMVC)](https://github.com/gaearon/redux/tree/master/examples/todomvc)
     * [Pacman viewer (Redux + Electron + Material-UI + Radium)](https://github.com/jonathanewerner/pac)
     * [Dice game](https://github.com/unbracketed/redux-yahtzee)
-    * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example)
     * [Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
     * [A showcase of the Redux architecture with React Router](https://github.com/emmenko/redux-react-router-async-example)
     * [TodoMVC (ES5)](https://github.com/insin/redux-todomvc-es5)
@@ -146,9 +151,7 @@
     * [Redux socket.io](https://github.com/voby/chatte)
     * [repair-redux](https://github.com/khairold/repair-redux)
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
-    * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
     * [react + redux(flux) + react-router + async(fetch)](https://github.com/tsingson/redux-async-learning)
-    * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
     * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
@@ -162,7 +165,6 @@
     * [like-counter](https://github.com/rob-balfre/like-counter)
     * [test-redux-flickr](https://github.com/nchaulet/test-redux-flickr)
     * [reactapus](https://github.com/joshhunt/reactapus)
-    * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa)
     * [redux-auth-demo](https://github.com/iktl/redux-auth-demo)
     * [react-redux-robot-game](https://github.com/sambs/react-redux-robot-game)
     * [react-redux-async-example](https://github.com/jasonslyvia/react-redux-async-example)
