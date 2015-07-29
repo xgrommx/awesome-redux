@@ -152,6 +152,12 @@
     * [redux-react-router-example-app](https://github.com/knowbody/redux-react-router-example-app)
     * [like-counter](https://github.com/rob-balfre/like-counter)
     * [test-redux-flickr](https://github.com/nchaulet/test-redux-flickr)
+    * [reactapus](https://github.com/joshhunt/reactapus)
+    * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa)
+    * [redux-auth-demo](https://github.com/iktl/redux-auth-demo)
+    * [react-redux-robot-game](https://github.com/sambs/react-redux-robot-game)
+    * [react-redux-async-example](https://github.com/jasonslyvia/react-redux-async-example)
+    * [super-duper-redux](https://github.com/jarsbe/super-duper-redux)
 
 ---
 
