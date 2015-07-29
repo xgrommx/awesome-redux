@@ -7,6 +7,7 @@
 
 ### Boilerplate
 * [React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
+* [React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
 
 ### [Reactive Native](https://facebook.github.io/react-native)
 * Examples
