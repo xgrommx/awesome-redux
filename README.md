@@ -179,38 +179,38 @@
 
 ---
 
-### [Deku](https://github.com/dekujs/deku)
+### [Deku - Functional view library for building UI components as an alternative to React](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
 
 ---
 
-### [Incremental DOM](http://google.github.io/incremental-dom)
+### [Incremental DOM - Incremental DOM is a library for building up DOM trees and updating them in-place when data changes](http://google.github.io/incremental-dom)
 * Examples
     * [Incremental DOM + Redux Flux = Todo App](https://github.com/joshthecoder/idom-redux-todomvc-app)
 
 ---
 
-### [WinJS](http://try.buildwinjs.com)
+### [WinJS - Windows Library for JavaScript](http://try.buildwinjs.com)
 * Examples
     * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
 
 ---
 
-### [Angular](https://angularjs.org)
+### [Angular - HTML enhanced for web apps](https://angularjs.org)
 * Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
 
 ---
 
-### [Vue](http://vuejs.org)
+### [Vue - A library for building modern web interfaces](http://vuejs.org)
 * Examples
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
 
 ---
 
-### [Polymer](https://www.polymer-project.org)
+### [Polymer - Build modern apps using web components](https://www.polymer-project.org)
 * Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
 
