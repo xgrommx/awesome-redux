@@ -19,7 +19,7 @@
 
 ### [Reactive Native](https://facebook.github.io/react-native)
 * Examples
-    * [noder-react-native](https://github.com/soliury/noder-react-native)
+    * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
 
 ---
 
