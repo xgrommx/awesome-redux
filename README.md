@@ -69,7 +69,6 @@
         * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
     * [Datascript](https://github.com/tonsky/datascript)
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
-    
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [Counter](https://github.com/andimarek/redux-counter-tested)
