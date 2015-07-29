@@ -1,6 +1,8 @@
-# Awesome Redux
+# Awesome Redux - List of repositories which use Redux
 
 ## [Redux](https://github.com/gaearon/redux)
+
+> Predictable state container for JavaScript apps
 
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
@@ -50,10 +52,18 @@
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
 
 * Examples
+    * Koa
+    * Express
+    * Hapi
+        * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
+        * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
+        * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux)
+    * GraphQL
+        * [GraphQL + Redux](https://github.com/broucz/threads-redux)
+        * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
+    
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
-    * [GraphQL + Redux](https://github.com/broucz/threads-redux)
-    * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
     * [Counter](https://github.com/andimarek/redux-counter-tested)
     * [Trivia game](https://github.com/gtfiorentino/you-know-it)
     * [Git Watch (Node webkit + Redux)](https://github.com/Dean177/git-watch)
@@ -63,7 +73,6 @@
     * [Official example (Counter)](https://github.com/gaearon/redux/tree/master/examples/counter)
     * [Official example (TodoMVC)](https://github.com/gaearon/redux/tree/master/examples/todomvc)
     * [Pacman viewer (Redux + Electron + Material-UI + Radium)](https://github.com/jonathanewerner/pac)
-    * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
     * [Dice game](https://github.com/unbracketed/redux-yahtzee)
     * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example)
     * [Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
@@ -108,7 +117,6 @@
     * [habits](https://github.com/normalstar/habits)
     * [nwjs-emoji-app](https://github.com/lyrictenor/nwjs-emoji-app)
     * [expense](https://github.com/iurii-kondratiuk/expense)
-    * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
     * [l-and-l-demo-vm](https://github.com/PenguinKingGames/l-and-l-demo-vm)
     * [Example Reducer for Redux, without the switches](https://github.com/damassi/redux-reducer-layout)
     * [KanBan board for GitHub issues](https://github.com/andrew-codes/community-board)
@@ -142,7 +150,6 @@
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
     * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example)
-    * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux)
     * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch)
     * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
     * [chat-example](https://github.com/ForbesLindesay/chat-example)
@@ -163,10 +170,10 @@
 ---
 
 ### Similar libraries
-   * [flux-ts](https://github.com/BobBuehler/flux-ts)
-   * [chopped-redux](https://github.com/acstll/chopped-redux)
-   * [fluxette](https://github.com/edge/fluxette)
-   * [A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
+   * [flux-ts - A small flux implementation heavily inspired by redux](https://github.com/BobBuehler/flux-ts)
+   * [chopped-redux - A very small Flux implementation based on Redux](https://github.com/acstll/chopped-redux)
+   * [fluxette - Minimalist, functional, and concise Flux](https://github.com/edge/fluxette)
+   * [rx-redux - A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
 
 ---
 
