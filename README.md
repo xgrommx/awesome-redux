@@ -167,6 +167,7 @@
 ### [Angular](https://angularjs.org)
 * Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
+    * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
 
 ### [Vue](http://vuejs.org)
 * Examples
