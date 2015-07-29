@@ -158,6 +158,7 @@
     * [react-redux-robot-game](https://github.com/sambs/react-redux-robot-game)
     * [react-redux-async-example](https://github.com/jasonslyvia/react-redux-async-example)
     * [super-duper-redux](https://github.com/jarsbe/super-duper-redux)
+    * [redux-test](https://github.com/tonis2/redux-test)
 
 ---
 
