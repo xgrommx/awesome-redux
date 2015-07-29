@@ -7,7 +7,8 @@
 > Predictable state container for JavaScript apps
 
 ## Marks
-* Universal (Isomorphic) - :v:
+* [Universal (Isomorphic)](http://isomorphic.net) - :metal:
+* [Hot Reload](http://gaearon.github.io/react-hot-loader) - :fire:
 
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
@@ -58,13 +59,13 @@
 
 * Examples
     * [Koa](https://github.com/koajs/koa)
-        * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example) :v:
-        * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa) :v:
+        * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example) :metal:
+        * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa) :metal:
     * [Express](https://github.com/strongloop/express)
     * [Hapi](https://github.com/hapijs/hapi)
         * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
         * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
-        * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux) :v:
+        * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux) :metal:
     * [GraphQL](https://github.com/graphql/graphql-js)
         * [GraphQL + Redux](https://github.com/broucz/threads-redux)
         * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
@@ -84,23 +85,23 @@
     * [Official example (TodoMVC)](https://github.com/gaearon/redux/tree/master/examples/todomvc)
     * [Pacman viewer (Redux + Electron + Material-UI + Radium)](https://github.com/jonathanewerner/pac)
     * [Dice game](https://github.com/unbracketed/redux-yahtzee)
-    * [Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) :v:
+    * [Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) :metal:
     * [A showcase of the Redux architecture with React Router](https://github.com/emmenko/redux-react-router-async-example)
     * [TodoMVC (ES5)](https://github.com/insin/redux-todomvc-es5)
     * [trailerzoo-redux](https://github.com/bshyong/trailerzoo-redux)
-    * [Isomorphic](https://github.com/tommy351/redux-example) :v:
+    * [Isomorphic](https://github.com/tommy351/redux-example) :metal:
     * [Simple flux router](https://github.com/maxwellzietz/redux-router)
     * [redux-boilerplate](https://github.com/ellbee/redux-boilerplate)
     * [Redux router](https://github.com/stolbov/redux-router)
     * [redux-example](https://github.com/tsingson/redux-example)
-    * [Another universal example](https://github.com/quangbuule/redux-example) :v:
+    * [Another universal example](https://github.com/quangbuule/redux-example) :metal:
     * [Ideas log](https://github.com/insin/ideas-md)
     * [React tutorial tool](https://github.com/insin/react-lessons)
     * [Webpack Redux Boilerplate](https://github.com/ernieturner/webpack-redux-boilerplate)
     * [redux + redux-promise + sovereign + when](https://github.com/phated/redux-example)
-    * [Yet another isomorphic](https://github.com/bananaoomarang/isomorphic-redux) :v:
+    * [Yet another isomorphic](https://github.com/bananaoomarang/isomorphic-redux) :metal:
     * [react-template](https://github.com/ironbay/react-template)
-    * [Universal Starter-kit](https://github.com/cdebotton/react-universal) :v:
+    * [Universal Starter-kit](https://github.com/cdebotton/react-universal) :metal:
     * [Exploring Redux](https://github.com/GertjanReynaert/TimeLoop)
     * [phillybike.me.redux](https://github.com/iktl/phillybike.me.redux)
     * [Orange game](https://github.com/SBUtltmedia/orange-game)
@@ -131,7 +132,7 @@
     * [KanBan board for GitHub issues](https://github.com/andrew-codes/community-board)
     * [react-training](https://github.com/matystl/react-training/tree/master/03)
     * [cinematica](https://github.com/UXtemple/cinematic)
-    * [React Redux Universal Hot Example](https://github.com/royletron/Ito) :v:
+    * [React Redux Universal Hot Example](https://github.com/royletron/Ito) :metal:
     * [panels-runtime](https://github.com/UXtemple/panels-runtime)
     * [An implementation of TodoMVC using React, Redux, React-Router, and more!](https://github.com/tough-griff/redux-react-router-todomvc)
     * [tst](https://github.com/lafaulx/tst)
@@ -149,14 +150,14 @@
     * [Tasks4Squares.client](https://github.com/stremlenye/Tasks4Squares.client)
     * [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
     * [Simple Pokedex app to start learning Redux](https://github.com/davidchang/redux-pokedex)
-    * [Universal app with redux as Flux library and redux-devtools hot-reload tools](https://github.com/savemysmartphone/universal-redux-boilerplate) :v:
+    * [Universal app with redux as Flux library and redux-devtools hot-reload tools](https://github.com/savemysmartphone/universal-redux-boilerplate) :metal:
     * [Redux socket.io](https://github.com/voby/chatte)
     * [repair-redux](https://github.com/khairold/repair-redux)
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
     * [react + redux(flux) + react-router + async(fetch)](https://github.com/tsingson/redux-async-learning)
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
-    * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example) :v:
+    * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example) :metal:
     * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch)
     * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
     * [chat-example](https://github.com/ForbesLindesay/chat-example)
