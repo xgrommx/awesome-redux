@@ -36,7 +36,7 @@
     * [reselect - Selector library for Redux like in NuclearJS](https://github.com/faassen/reselect)
     * [redux-react-connector - Convenient subscription to redux stores](https://github.com/pluralsight/redux-react-connector)
     * [react-redux - React bindings for Redux](https://github.com/gaearon/react-redux)
-    * [redux-react-router - Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router)
+    * [redux-react-router - Redux bindings for React Router â€“ keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router)
     * [redux-promise-middleware - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware)
     * [redux-thunk - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk)
     * [redux-delegator - Compose redux reducers in a structured way](https://github.com/lapanoid/redux-delegator)
@@ -45,6 +45,7 @@
     * [redux-graphql - Relay-like functionality for Redux-based applications](https://github.com/gyzerok/redux-graphql)
     * [redux-localstorage - Store enhancer that syncs (a subset) of your Redux store state to localstorage.](https://github.com/elgerlambert/redux-localstorage)
     * [redux-storage - Persistence layer for redux with flexible backends](https://github.com/michaelcontento/redux-storage)
+    * [redux-vstack-router - Helpers to bind vstack-router to redux](https://github.com/vslinko/redux-vstack-router)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -53,9 +54,11 @@
     * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
     * [redux-loader - A high order component for Redux. This components loads resources and passes them to the child components via props](https://github.com/sporto/redux-loader)
     * [redux-rest - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
+    * [vstack-router - Universal router](https://github.com/vslinko/vstack-router)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
+    * [Ripster](https://github.com/vslinko/ripster)
 
 * Examples
     * [Koa](https://github.com/koajs/koa)
