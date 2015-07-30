@@ -182,6 +182,7 @@
     * [super-duper-redux](https://github.com/jarsbe/super-duper-redux)
     * [redux-test](https://github.com/tonis2/redux-test)
     * [react-with-redux-shop-ducks](https://github.com/hartzis/react-with-redux-shop-ducks)
+    * [1rt](https://github.com/jlfwong/1rt) :metal:
 
 ---
 
