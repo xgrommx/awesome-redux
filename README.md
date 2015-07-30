@@ -46,6 +46,9 @@
     * [redux-localstorage - Store enhancer that syncs (a subset) of your Redux store state to localstorage.](https://github.com/elgerlambert/redux-localstorage)
     * [redux-storage - Persistence layer for redux with flexible backends](https://github.com/michaelcontento/redux-storage)
     * [redux-vstack-router - Helpers to bind vstack-router to redux](https://github.com/vslinko/redux-vstack-router)
+    * [redux-client-next - Resolve client promises with redux actions](https://github.com/quirinpa/redux-client-next)
+    * [redux-next - Recurse redux actions](https://github.com/quirinpa/redux-next)
+    * [redux-delay - Delay redux actions](https://github.com/quirinpa/redux-delay)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -56,6 +59,7 @@
     * [redux-rest - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
     * [vstack-router - Universal router](https://github.com/vslinko/vstack-router)
     * [redux-ecommerce - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
+    * [redux-react - React bindings for Redux](https://github.com/cgarvis/redux-react)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -177,6 +181,7 @@
     * [react-redux-async-example](https://github.com/jasonslyvia/react-redux-async-example)
     * [super-duper-redux](https://github.com/jarsbe/super-duper-redux)
     * [redux-test](https://github.com/tonis2/redux-test)
+    * [react-with-redux-shop-ducks](https://github.com/hartzis/react-with-redux-shop-ducks)
 
 ---
 
@@ -222,6 +227,12 @@
 ### [Polymer - Build modern apps using web components](https://www.polymer-project.org)
 * Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
+
+---
+
+### [Ember - A framework for creating ambitious web applications](http://emberjs.com)
+* Examples
+    * [emberedux](https://github.com/gcollazo/emberedux)
 
 ---
 
