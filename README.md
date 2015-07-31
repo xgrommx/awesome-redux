@@ -3,6 +3,7 @@
 > List of repositories which use Redux
 
 ## [Redux](https://github.com/gaearon/redux)
+## [Documentation of Redux](http://gaearon.github.io/redux)
 
 > Predictable state container for JavaScript apps
 
