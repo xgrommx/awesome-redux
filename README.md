@@ -12,6 +12,7 @@
 
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
+* [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
 
 ---
 
@@ -61,6 +62,7 @@
     * [vstack-router - Universal router](https://github.com/vslinko/vstack-router)
     * [redux-ecommerce - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
     * [redux-react - React bindings for Redux](https://github.com/cgarvis/redux-react)
+    * [redux-form - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -184,6 +186,7 @@
     * [redux-test](https://github.com/tonis2/redux-test)
     * [react-with-redux-shop-ducks](https://github.com/hartzis/react-with-redux-shop-ducks)
     * [1rt](https://github.com/jlfwong/1rt) :metal:
+    * [ReactChat - React+Redux+Firebase](https://github.com/phaistonian/ReactChat)
 
 ---
 
