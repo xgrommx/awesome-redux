@@ -49,6 +49,7 @@
     * [redux-client-next - Resolve client promises with redux actions](https://github.com/quirinpa/redux-client-next)
     * [redux-next - Recurse redux actions](https://github.com/quirinpa/redux-next)
     * [redux-delay - Delay redux actions](https://github.com/quirinpa/redux-delay)
+    * [redux-create-store](https://github.com/phated/redux-create-store)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
