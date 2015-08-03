@@ -11,6 +11,11 @@
 * [Universal (Isomorphic)](http://isomorphic.net) - :metal:
 * [Hot Reload](http://gaearon.github.io/react-hot-loader) - :fire:
 
+### Presentations
+* [A introduction about Redux](http://chentsulin.github.io/redux-demo)
+
+---
+
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
@@ -21,6 +26,7 @@
 * [React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
 * [React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
 * [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
+* [reactv](https://github.com/Amorino/reactv)
 
 ---
 
@@ -192,6 +198,7 @@
     * [ReactChat - React+Redux+Firebase](https://github.com/phaistonian/ReactChat)
     * [https://github.com/mattybow/redux-starter](https://github.com/mattybow/redux-starter)
     * [https://github.com/mattybow/redux-dev-talk](https://github.com/mattybow/redux-dev-talk)
+    * [react-redux-demo](https://github.com/webpro/react-redux-demo)
 
 ---
 
