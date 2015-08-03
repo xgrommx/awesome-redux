@@ -20,6 +20,7 @@
 ### Boilerplate
 * [React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
 * [React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
+* [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
 
 ---
 
@@ -64,6 +65,8 @@
     * [redux-ecommerce - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
     * [redux-react - React bindings for Redux](https://github.com/cgarvis/redux-react)
     * [redux-form - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
+    * [https://github.com/iktl/redux-devtools-diff-monitor](https://github.com/iktl/redux-devtools-diff-monitor)
+    * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -160,7 +163,6 @@
     * [redux-experiments](https://github.com/jlongster/redux-experiments)
     * [React/Redux/Immutable.js playground](https://github.com/sapegin/redux-demo)
     * [Tasks4Squares.client](https://github.com/stremlenye/Tasks4Squares.client)
-    * [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
     * [Simple Pokedex app to start learning Redux](https://github.com/davidchang/redux-pokedex)
     * [Universal app with redux as Flux library and redux-devtools hot-reload tools](https://github.com/savemysmartphone/universal-redux-boilerplate) :metal:
     * [Redux socket.io](https://github.com/voby/chatte)
@@ -170,7 +172,7 @@
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
     * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example) :metal:
-    * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch)
+    * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch) :metal:
     * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
     * [chat-example](https://github.com/ForbesLindesay/chat-example)
     * [redux-example](https://github.com/Rhadow/redux-example)
@@ -188,6 +190,8 @@
     * [react-with-redux-shop-ducks](https://github.com/hartzis/react-with-redux-shop-ducks)
     * [1rt](https://github.com/jlfwong/1rt) :metal:
     * [ReactChat - React+Redux+Firebase](https://github.com/phaistonian/ReactChat)
+    * [https://github.com/mattybow/redux-starter](https://github.com/mattybow/redux-starter)
+    * [https://github.com/mattybow/redux-dev-talk](https://github.com/mattybow/redux-dev-talk)
 
 ---
 
