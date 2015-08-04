@@ -12,7 +12,7 @@
 * [Hot Reload](http://gaearon.github.io/react-hot-loader) - :fire:
 
 ### Presentations
-* [A introduction about Redux](http://chentsulin.github.io/redux-demo)
+* [A introduction about Redux](https://github.com/chentsulin/redux-intro)
 
 ---
 
@@ -27,12 +27,14 @@
 * [React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
 * [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
 * [reactv](https://github.com/Amorino/reactv)
+* [redux-boilerplate](https://github.com/ellbee/redux-boilerplate)
 
 ---
 
 ### [Reactive Native - A framework for building native apps using React](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
+    * [react-native-redux-counter](https://github.com/hzyIO/react-native-redux-counter)
 
 ---
 
@@ -59,6 +61,7 @@
     * [redux-next - Recurse redux actions](https://github.com/quirinpa/redux-next)
     * [redux-delay - Delay redux actions](https://github.com/quirinpa/redux-delay)
     * [redux-create-store](https://github.com/phated/redux-create-store)
+    * [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -73,6 +76,7 @@
     * [redux-form - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
     * [https://github.com/iktl/redux-devtools-diff-monitor](https://github.com/iktl/redux-devtools-diff-monitor)
     * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
+    * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/aaronjensen/updeep)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -112,7 +116,6 @@
     * [trailerzoo-redux](https://github.com/bshyong/trailerzoo-redux)
     * [Isomorphic](https://github.com/tommy351/redux-example) :metal:
     * [Simple flux router](https://github.com/maxwellzietz/redux-router)
-    * [redux-boilerplate](https://github.com/ellbee/redux-boilerplate)
     * [Redux router](https://github.com/stolbov/redux-router)
     * [redux-example](https://github.com/tsingson/redux-example)
     * [Another universal example](https://github.com/quangbuule/redux-example) :metal:
@@ -200,6 +203,9 @@
     * [https://github.com/mattybow/redux-starter](https://github.com/mattybow/redux-starter)
     * [https://github.com/mattybow/redux-dev-talk](https://github.com/mattybow/redux-dev-talk)
     * [react-redux-demo](https://github.com/webpro/react-redux-demo)
+    * [redux-ticker](https://github.com/f74981743/redux-ticker)
+    * [dreamlikedays-frontend](https://github.com/ajaska/dreamlikedays-frontend)
+    * [redux-auth-demo](https://github.com/whetstone/redux-auth-demo)
 
 ---
 
@@ -239,6 +245,7 @@
 ### [Vue - A library for building modern web interfaces](http://vuejs.org)
 * Examples
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
+    * [Meteor + Vue + Redux](https://github.com/zhongqf/meteor-vue-redux-example)
 
 ---
 
@@ -251,6 +258,12 @@
 ### [Ember - A framework for creating ambitious web applications](http://emberjs.com)
 * Examples
     * [emberedux](https://github.com/gcollazo/emberedux)
+
+---
+
+### [Meteor - Build apps that are a delight to use, faster than you ever thought possible](https://www.meteor.com)
+* Examples
+   * [meteor-react-redux-example](https://github.com/zhongqf/meteor-react-redux-example)
 
 ---
 
