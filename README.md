@@ -174,6 +174,7 @@
     * [Redux socket.io](https://github.com/voby/chatte)
     * [repair-redux](https://github.com/khairold/repair-redux)
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
+    * [Redux-React + Router + Rails API -Todo App](https://github.com/kelvinr/React-Todo)
     * [react + redux(flux) + react-router + async(fetch)](https://github.com/tsingson/redux-async-learning)
     * [Ripster](https://github.com/vslinko/ripster)
     * [redux-remote](https://github.com/lapanoid/redux-remote)
