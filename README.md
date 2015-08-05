@@ -206,6 +206,7 @@
     * [redux-ticker](https://github.com/f74981743/redux-ticker)
     * [dreamlikedays-frontend](https://github.com/ajaska/dreamlikedays-frontend)
     * [redux-auth-demo](https://github.com/whetstone/redux-auth-demo)
+    * [react-redux-async-example](https://github.com/jasonslyvia/react-redux-async-example)
 
 ---
 
