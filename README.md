@@ -76,7 +76,7 @@
     * [redux-form - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
     * [https://github.com/iktl/redux-devtools-diff-monitor](https://github.com/iktl/redux-devtools-diff-monitor)
     * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
-    * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/aaronjensen/updeep)
+    * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
