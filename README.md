@@ -208,6 +208,7 @@
     * [dreamlikedays-frontend](https://github.com/ajaska/dreamlikedays-frontend)
     * [redux-auth-demo](https://github.com/whetstone/redux-auth-demo)
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
+    * [react-redux-example](https://github.com/nobleach/react-redux-example) :metal:
 
 ---
 
