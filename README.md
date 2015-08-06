@@ -28,6 +28,7 @@
 * [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
 * [reactv](https://github.com/Amorino/reactv)
 * [redux-boilerplate](https://github.com/ellbee/redux-boilerplate)
+* [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
 
 ---
 
