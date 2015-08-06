@@ -209,6 +209,7 @@
     * [redux-auth-demo](https://github.com/whetstone/redux-auth-demo)
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
     * [react-redux-example](https://github.com/nobleach/react-redux-example) :metal:
+    * [webapp-starter-pack](https://github.com/dferber90/webapp-starter-pack)
 
 ---
 
