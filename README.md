@@ -211,6 +211,7 @@
     * [react-redux-example](https://github.com/nobleach/react-redux-example) :metal:
     * [webapp-starter-pack](https://github.com/dferber90/webapp-starter-pack)
     * [reduxify](https://github.com/Shabananana/reduxify)
+    * [redux_actionsStore](https://github.com/gabrielgiussi/redux_actionsStore)
 
 ---
 
