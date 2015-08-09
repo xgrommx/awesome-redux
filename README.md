@@ -78,6 +78,7 @@
     * [https://github.com/iktl/redux-devtools-diff-monitor](https://github.com/iktl/redux-devtools-diff-monitor)
     * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
     * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
+    * [redux-immutable - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
