@@ -19,6 +19,7 @@
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
+* [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4)
 
 ---
 
@@ -29,6 +30,9 @@
 * [reactv](https://github.com/Amorino/reactv)
 * [redux-boilerplate](https://github.com/ellbee/redux-boilerplate)
 * [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
+* [https://github.com/jackielii/simplest-redux-example](https://github.com/jackielii/simplest-redux-example)
+* [https://github.com/anorudes/redux-easy-boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
+* [https://github.com/dictyBase/dicty-redux](https://github.com/dictyBase/dicty-redux)
 
 ---
 
@@ -80,6 +84,7 @@
     * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
     * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
     * [redux-immutable - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable)
+    * [redux-import-export-monitor - A monitor for copying your serialized action log to the clipboard, as well as pasting it in from somewhere else](https://github.com/lapanoid/redux-import-export-monitor)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -214,6 +219,15 @@
     * [webapp-starter-pack](https://github.com/dferber90/webapp-starter-pack)
     * [reduxify](https://github.com/Shabananana/reduxify)
     * [redux_actionsStore](https://github.com/gabrielgiussi/redux_actionsStore)
+    * [https://github.com/taylorhakes/redux-slidedeck](https://github.com/taylorhakes/redux-slidedeck)
+    * [https://github.com/jigsawye/redux-counter](https://github.com/jigsawye/redux-counter)
+    * [https://github.com/jarsbe/redux-isomorphic-example](https://github.com/jarsbe/redux-isomorphic-example) :metal:
+    * [https://github.com/jsdmc/react-redux-router-crud-example](https://github.com/jsdmc/react-redux-router-crud-example)
+    * [https://github.com/gaearon/redux/tree/add-async-example/examples/async](https://github.com/gaearon/redux/tree/add-async-example/examples/async)
+    * [https://github.com/Rhadow/isomorphic-react-example](https://github.com/Rhadow/isomorphic-react-example) :metal:
+    * [https://github.com/gbabiars/ember-redux-simple-demo](https://github.com/gbabiars/ember-redux-simple-demo)
+    * [https://github.com/mjw56/ruscello](https://github.com/mjw56/ruscello)
+    * [https://github.com/tomchentw/redux-universal](https://github.com/tomchentw/redux-universal)
 
 ---
 
