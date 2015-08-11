@@ -68,6 +68,8 @@
     * [redux-delay - Delay redux actions](https://github.com/quirinpa/redux-delay)
     * [redux-create-store](https://github.com/phated/redux-create-store)
     * [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe)
+    * [redux-logger - Logger middleware for Redux](https://github.com/fcomb/redux-logger)
+    * [redux-diff-logger - Diff logger between states for Redux](https://github.com/fcomb/redux-diff-logger)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
