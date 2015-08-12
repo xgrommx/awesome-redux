@@ -87,6 +87,7 @@
     * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
     * [redux-immutable - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable)
     * [redux-import-export-monitor - A monitor for copying your serialized action log to the clipboard, as well as pasting it in from somewhere else](https://github.com/lapanoid/redux-import-export-monitor)
+    * [icedam - Just-in-time immutability: freezes data sent to views.](https://github.com/winkler1/icedam)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
