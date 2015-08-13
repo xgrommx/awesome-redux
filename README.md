@@ -55,6 +55,7 @@
     * [redux-react-router - Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router)
     * [redux-promise-middleware - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware)
     * [redux-thunk - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk)
+    * [redux-combine-actions - Redux middleware that allows you to easy combine actions and dispatch them sequentially](https://github.com/itsmepetrov/redux-combine-actions)
     * [redux-catch-promise - Redux middleware to catch Promises and async functions from redux-thunk](https://github.com/DenisIzmaylov/redux-catch-promise)
     * [redux-delegator - Compose redux reducers in a structured way](https://github.com/lapanoid/redux-delegator)
     * [routex - Simple router for Redux universal applications. Can be used with React too](https://github.com/michalkvasnicak/routex)
