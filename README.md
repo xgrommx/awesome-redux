@@ -78,6 +78,7 @@
     * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
     * [redux-loader - A high order component for Redux. This components loads resources and passes them to the child components via props](https://github.com/sporto/redux-loader)
     * [redux-rest - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
+    * [redux-api - Flux REST API for redux infrastructure](https://github.com/lexich/redux-api)
     * [vstack-router - Universal router](https://github.com/vslinko/vstack-router)
     * [redux-ecommerce - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
     * [redux-react - React bindings for Redux](https://github.com/cgarvis/redux-react)
