@@ -234,7 +234,14 @@
     * [https://github.com/Rhadow/isomorphic-react-example](https://github.com/Rhadow/isomorphic-react-example) :metal:
     * [https://github.com/gbabiars/ember-redux-simple-demo](https://github.com/gbabiars/ember-redux-simple-demo)
     * [https://github.com/mjw56/ruscello](https://github.com/mjw56/ruscello)
-    * [https://github.com/tomchentw/redux-universal](https://github.com/tomchentw/redux-universal)
+    * [https://github.com/tomchentw/redux-universal](https://github.com/tomchentw/redux-universal) :metal:
+    * [https://github.com/macocha/react-words](https://github.com/macocha/react-words)
+    * [https://github.com/gajus/redux-immutable-examples](https://github.com/gajus/redux-immutable-examples)
+    * [https://github.com/cdebotton/react-relay-redux](https://github.com/cdebotton/react-relay-redux)
+    * [https://github.com/Pitzcarraldo/redux-example-front](https://github.com/Pitzcarraldo/redux-example-front)
+    * [https://github.com/Pitzcarraldo/redux-example-api](https://github.com/Pitzcarraldo/redux-example-api)
+    * [https://github.com/kyasu1/redux-reddit](https://github.com/kyasu1/redux-reddit)
+    * [https://github.com/jimpick/starter-redux-tutorial-advanced](https://github.com/jimpick/starter-redux-tutorial-advanced)
 
 ---
 
@@ -268,6 +275,7 @@
 * Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
+    * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
 
 ---
 
