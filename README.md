@@ -69,7 +69,7 @@
     * [redux-next - Recurse redux actions](https://github.com/quirinpa/redux-next)
     * [redux-delay - Delay redux actions](https://github.com/quirinpa/redux-delay)
     * [redux-create-store](https://github.com/phated/redux-create-store)
-    * [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe)
+    * [redux-batched-subscribe - Batch calls to subscribe handlers with a custom function, including debouncing or React batched updates.](https://github.com/tappleby/redux-batched-subscribe)
     * [redux-logger - Logger middleware for Redux](https://github.com/fcomb/redux-logger)
     * [redux-diff-logger - Diff logger between states for Redux](https://github.com/fcomb/redux-diff-logger)
     * [redux-requests - Avoid issuing duplicate HTTP requests](https://github.com/idolize/redux-requests)
