@@ -75,6 +75,7 @@
     * [redux-diff-logger - Diff logger between states for Redux](https://github.com/fcomb/redux-diff-logger)
     * [redux-requests - Avoid issuing duplicate HTTP requests](https://github.com/idolize/redux-requests)
     * [redux-owl - Redux One Way Linking](https://github.com/rt2zz/redux-owl)
+    * [redux-act - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
