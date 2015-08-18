@@ -229,6 +229,7 @@
     * [webapp-starter-pack](https://github.com/dferber90/webapp-starter-pack)
     * [reduxify](https://github.com/Shabananana/reduxify)
     * [redux_actionsStore](https://github.com/gabrielgiussi/redux_actionsStore)
+    * [resit - Real Time App with React + Redux + Firebase](https://github.com/yang-wei/resit)
     * [https://github.com/taylorhakes/redux-slidedeck](https://github.com/taylorhakes/redux-slidedeck)
     * [https://github.com/jigsawye/redux-counter](https://github.com/jigsawye/redux-counter)
     * [https://github.com/jarsbe/redux-isomorphic-example](https://github.com/jarsbe/redux-isomorphic-example) :metal:
