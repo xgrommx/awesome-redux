@@ -83,6 +83,7 @@
     * [redux-devtools-gentest-plugin - Generate mocha like tests from redux-devtools session](https://github.com/lapanoid/redux-devtools-gentest-plugin)
     * [redux-action-utils - Factory functions for reducing action creator boilerplate (pun not intended)](https://github.com/insin/redux-action-utils)
     * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
+    * [generator-redux-app - Scaffold out a redux app with counter example and react-router](https://github.com/chentsulin/generator-redux-app)
     * [redux-loader - A high order component for Redux. This components loads resources and passes them to the child components via props](https://github.com/sporto/redux-loader)
     * [redux-rest - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
     * [redux-api - Flux REST API for redux infrastructure](https://github.com/lexich/redux-api)
