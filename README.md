@@ -65,6 +65,7 @@
     * [redux-graphql - Relay-like functionality for Redux-based applications](https://github.com/gyzerok/redux-graphql)
     * [redux-localstorage - Store enhancer that syncs (a subset) of your Redux store state to localstorage.](https://github.com/elgerlambert/redux-localstorage)
     * [redux-storage - Persistence layer for redux with flexible backends](https://github.com/michaelcontento/redux-storage)
+    * [redux-pouchdb - sync store state to pouchdb](https://github.com/vicentedealencar/redux-pouchdb)
     * [redux-vstack-router - Helpers to bind vstack-router to redux](https://github.com/vslinko/redux-vstack-router)
     * [redux-client-next - Resolve client promises with redux actions](https://github.com/quirinpa/redux-client-next)
     * [redux-next - Recurse redux actions](https://github.com/quirinpa/redux-next)
