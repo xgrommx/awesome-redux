@@ -16,6 +16,12 @@
 
 ---
 
+### Resources
+
+* [Many tools and middlewares](https://github.com/redux-effects)
+
+---
+
 ### Articles And Tutorials
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
@@ -35,6 +41,7 @@
 * [https://github.com/jackielii/simplest-redux-example](https://github.com/jackielii/simplest-redux-example)
 * [https://github.com/anorudes/redux-easy-boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
 * [https://github.com/dictyBase/dicty-redux](https://github.com/dictyBase/dicty-redux)
+* [https://github.com/rafaelchiti/react_scaffolding](https://github.com/rafaelchiti/react_scaffolding)
 
 ---
 
@@ -77,6 +84,7 @@
     * [redux-requests - Avoid issuing duplicate HTTP requests](https://github.com/idolize/redux-requests)
     * [redux-owl - Redux One Way Linking](https://github.com/rt2zz/redux-owl)
     * [redux-act - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
+    * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](ngokevin/redux-raven-middleware)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -98,6 +106,8 @@
     * [redux-import-export-monitor - A monitor for copying your serialized action log to the clipboard, as well as pasting it in from somewhere else](https://github.com/lapanoid/redux-import-export-monitor)
     * [icedam - Just-in-time immutability: freezes data sent to views.](https://github.com/winkler1/icedam)
     * [react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js.](https://github.com/broucz/react-inline-grid)
+    * [redux-easy-actions - Sugar library for creating Redux or Flux actions](https://github.com/grigory-leonenko/redux-easy-actions)
+    * [redux-multi - Dispatch multiple actions from one action creator](https://github.com/ashaffer/redux-multi)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -249,6 +259,9 @@
     * [https://github.com/Pitzcarraldo/redux-example-api](https://github.com/Pitzcarraldo/redux-example-api)
     * [https://github.com/kyasu1/redux-reddit](https://github.com/kyasu1/redux-reddit)
     * [https://github.com/jimpick/starter-redux-tutorial-advanced](https://github.com/jimpick/starter-redux-tutorial-advanced)
+    * [https://github.com/knowbody/redux-immutable-example](https://github.com/knowbody/redux-immutable-example)
+    * [https://github.com/cascada-io/island-react](https://github.com/cascada-io/island-react)
+    * [Relay-like functionality for Redux-based applications](https://github.com/gyzerok/adrenaline)
 
 ---
 
