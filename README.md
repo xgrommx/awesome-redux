@@ -308,6 +308,7 @@
 ### [Meteor - Build apps that are a delight to use, faster than you ever thought possible](https://www.meteor.com)
 * Examples
    * [meteor-react-redux-example](https://github.com/zhongqf/meteor-react-redux-example)
+   * [meteor-flux-leaderboard](https://github.com/AdamBrodzinski/meteor-flux-leaderboard/tree/redux)
 
 ---
 
