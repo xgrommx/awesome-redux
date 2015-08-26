@@ -214,6 +214,7 @@
     * [redux-remote](https://github.com/lapanoid/redux-remote)
     * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example) :metal:
     * [React Redux Universal Hot Example](https://github.com/korczis/the-scratch) :metal:
+    * [Coffeescript example/boilerplate](https://github.com/xouabita/redux-coffee-boilerplate) :metal: :fire:
     * [Streaming movie app using Redux flux implementation](https://github.com/mjw56/at-the-drive-in-redux)
     * [chat-example](https://github.com/ForbesLindesay/chat-example)
     * [redux-example](https://github.com/Rhadow/redux-example)
