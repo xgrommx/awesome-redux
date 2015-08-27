@@ -19,6 +19,7 @@
 ### Resources
 
 * [Many tools and middlewares](https://github.com/redux-effects)
+* [Blog which is written with Redux](https://github.com/jlongster/blog)
 
 ---
 
@@ -28,6 +29,8 @@
 * [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4)
 * [0 to 1 : Getting started with Redux](http://www.jchapron.com/2015/08/14/getting-started-with-redux)
 * [Redux Chinese Document](https://github.com/camsong/redux-in-chinese)
+* [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
+* [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
 
 ---
 
@@ -108,6 +111,7 @@
     * [react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js.](https://github.com/broucz/react-inline-grid)
     * [redux-easy-actions - Sugar library for creating Redux or Flux actions](https://github.com/grigory-leonenko/redux-easy-actions)
     * [redux-multi - Dispatch multiple actions from one action creator](https://github.com/ashaffer/redux-multi)
+    * [immu - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
