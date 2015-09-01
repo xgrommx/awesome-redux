@@ -45,6 +45,7 @@
 * [https://github.com/anorudes/redux-easy-boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
 * [https://github.com/dictyBase/dicty-redux](https://github.com/dictyBase/dicty-redux)
 * [https://github.com/rafaelchiti/react_scaffolding](https://github.com/rafaelchiti/react_scaffolding)
+* [Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
 
 ---
 
