@@ -333,5 +333,7 @@
 ---
 
 ### Chrome Extensions
+* [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
+
 * Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
