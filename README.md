@@ -332,6 +332,12 @@
 
 ---
 
+### [Mithril - A Javascript Framework for Building Brilliant Applications](http://mithril.js.org/)
+* Examples
+    * [mithril-redux-starter-hmr](https://github.com/mijime/mithril-redux-starter-hmr)
+    
+---    
+
 ### Chrome Extensions
 * [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
 
