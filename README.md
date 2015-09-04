@@ -114,6 +114,7 @@
     * [redux-easy-actions - Sugar library for creating Redux or Flux actions](https://github.com/grigory-leonenko/redux-easy-actions)
     * [redux-multi - Dispatch multiple actions from one action creator](https://github.com/ashaffer/redux-multi)
     * [immu - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu)
+    * [Generate standard action creators and reducers for CRUD applications](https://github.com/Versent/redux-crud)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
