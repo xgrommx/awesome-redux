@@ -115,6 +115,7 @@
     * [redux-multi - Dispatch multiple actions from one action creator](https://github.com/ashaffer/redux-multi)
     * [immu - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu)
     * [Generate standard action creators and reducers for CRUD applications](https://github.com/Versent/redux-crud)
+    * [Redux & ImmutableJs - Integration of Redux & ImmutableJs that 100% conforms Redux standards](https://github.com/indexiatech/redux-immutablejs)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
