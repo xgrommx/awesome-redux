@@ -125,6 +125,7 @@
     * [Koa](https://github.com/koajs/koa)
         * [Isomorphic (Koa + Redux)](https://github.com/khtdr/redux-react-koa-isomorphic-counter-example) :metal:
         * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa) :metal:
+        * [Sliced Haskell fragments](https://github.com/rwilhelm/slices) Universal + RethinkDB + ElasticSearch + lots of good stuff :fire:
     * [Express](https://github.com/strongloop/express)
     * [Hapi](https://github.com/hapijs/hapi)
         * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
