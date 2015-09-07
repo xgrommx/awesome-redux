@@ -46,6 +46,7 @@
 * [https://github.com/dictyBase/dicty-redux](https://github.com/dictyBase/dicty-redux)
 * [https://github.com/rafaelchiti/react_scaffolding](https://github.com/rafaelchiti/react_scaffolding)
 * [Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
+* [Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example)
 
 ---
 
