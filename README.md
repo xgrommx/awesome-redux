@@ -282,6 +282,7 @@
     * [https://github.com/JiLiZART/redux-vk-music](https://github.com/JiLiZART/redux-vk-music)
     * [https://github.com/Fraina/React-Weather-Widget](https://github.com/Fraina/React-Weather-Widget)
     * [https://github.com/alanrsoares/redux-game-of-life](https://github.com/alanrsoares/redux-game-of-life)
+    * [https://github.com/fatiherikli/fil](https://github.com/fatiherikli/fil)
 
 ---
 
