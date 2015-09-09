@@ -47,6 +47,7 @@
 * [https://github.com/rafaelchiti/react_scaffolding](https://github.com/rafaelchiti/react_scaffolding)
 * [Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
 * [Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example)
+* [https://github.com/gpbl/redux500](https://github.com/gpbl/redux500)
 
 ---
 
@@ -92,6 +93,7 @@
     * [redux-owl - Redux One Way Linking](https://github.com/rt2zz/redux-owl)
     * [redux-act - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
     * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](ngokevin/redux-raven-middleware)
+    * [redux-routing - Universal routing built on top of redux](https://github.com/callum/redux-routing)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -119,6 +121,7 @@
     * [immu - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu)
     * [Generate standard action creators and reducers for CRUD applications](https://github.com/Versent/redux-crud)
     * [Redux & ImmutableJs - Integration of Redux & ImmutableJs that 100% conforms Redux standards](https://github.com/indexiatech/redux-immutablejs)
+    * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -275,6 +278,9 @@
     * [https://github.com/knowbody/redux-immutable-example](https://github.com/knowbody/redux-immutable-example)
     * [https://github.com/cascada-io/island-react](https://github.com/cascada-io/island-react)
     * [Relay-like functionality for Redux-based applications](https://github.com/gyzerok/adrenaline)
+    * [https://github.com/JiLiZART/redux-vk-music](https://github.com/JiLiZART/redux-vk-music)
+    * [https://github.com/Fraina/React-Weather-Widget](https://github.com/Fraina/React-Weather-Widget)
+    * [https://github.com/alanrsoares/redux-game-of-life](https://github.com/alanrsoares/redux-game-of-life)
 
 ---
 
@@ -349,3 +355,8 @@
 
 * Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
+    
+## Other languages
+
+* ##.NET
+    * [https://github.com/GuillaumeSalles/redux.NET](https://github.com/GuillaumeSalles/redux.NET)
