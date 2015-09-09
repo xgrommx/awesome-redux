@@ -31,6 +31,7 @@
 * [Redux Chinese Document](https://github.com/camsong/redux-in-chinese)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 * [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
+* [Several videos about Redux + Falcor](https://www.livecoding.tv/ekosz/videos)
 
 ---
 
