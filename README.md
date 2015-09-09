@@ -92,7 +92,7 @@
     * [redux-requests - Avoid issuing duplicate HTTP requests](https://github.com/idolize/redux-requests)
     * [redux-owl - Redux One Way Linking](https://github.com/rt2zz/redux-owl)
     * [redux-act - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
-    * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](ngokevin/redux-raven-middleware)
+    * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](https://github.com/ngokevin/redux-raven-middleware)
     * [redux-routing - Universal routing built on top of redux](https://github.com/callum/redux-routing)
 
 * Tools
