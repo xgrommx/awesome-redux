@@ -358,5 +358,5 @@
     
 ## Other languages
 
-* ##.NET
+* .NET
     * [https://github.com/GuillaumeSalles/redux.NET](https://github.com/GuillaumeSalles/redux.NET)
