@@ -20,6 +20,7 @@
 
 * [Many tools and middlewares](https://github.com/redux-effects)
 * [Blog which is written with Redux](https://github.com/jlongster/blog)
+* [Redux offline docs](https://github.com/paulwittmann/redux-offline-docs)
 
 ---
 
@@ -31,7 +32,9 @@
 * [Redux Chinese Document](https://github.com/camsong/redux-in-chinese)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 * [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
-* [Several videos about Redux + Falcor](https://www.livecoding.tv/ekosz/videos)
+* [Several videos about Redux + Falcor](https://www.livecoding.tv/ekosz/videos) and [Example code](https://github.com/ekosz/postcard-sender)
+* [Redux Middleware: Behind the Scenes](http://briantroncone.com/?p=529)
+* [A proposal for bundling reducers, action types and actions when using Redux](https://github.com/erikras/ducks-modular-redux)
 
 ---
 
@@ -292,6 +295,7 @@
    * [chopped-redux - A very small Flux implementation based on Redux](https://github.com/acstll/chopped-redux)
    * [fluxette - Minimalist, functional, and concise Flux](https://github.com/edge/fluxette)
    * [rx-redux - A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
+   * [https://github.com/johnhenry/understate](https://github.com/johnhenry/understate)
 
 ---
 
