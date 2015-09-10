@@ -35,7 +35,7 @@
 * [Several videos about Redux + Falcor](https://www.livecoding.tv/ekosz/videos) and [Example code](https://github.com/ekosz/postcard-sender)
 * [Redux Middleware: Behind the Scenes](http://briantroncone.com/?p=529)
 * [A proposal for bundling reducers, action types and actions when using Redux](https://github.com/erikras/ducks-modular-redux)
-* [Full-Stack Redux Tutorial - A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [Full-Stack Redux Tutorial - A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) Source [Server](https://github.com/teropa/redux-voting-server) + [Client](https://github.com/teropa/redux-voting-client)
 
 ---
 
