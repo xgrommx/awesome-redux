@@ -152,6 +152,7 @@
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
+    * [Simple Isomorphic App: Redux-Api + React-Router + Redux + Express](https://github.com/lexich/redux-api/tree/master/examples/isomorphic) :metal:
     * [Counter](https://github.com/andimarek/redux-counter-tested)
     * [Trivia game](https://github.com/gtfiorentino/you-know-it)
     * [Git Watch (Node webkit + Redux)](https://github.com/Dean177/git-watch)
