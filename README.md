@@ -56,7 +56,7 @@
 
 ---
 
-### [Reactive Native - A framework for building native apps using React](https://facebook.github.io/react-native)
+### [React Native - A framework for building native apps using React](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
     * [react-native-redux-counter](https://github.com/hzyIO/react-native-redux-counter)
