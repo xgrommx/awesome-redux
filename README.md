@@ -72,7 +72,7 @@
     * [redux-rx - RxJS utilities for Redux](https://github.com/acdlite/redux-rx)
     * [reselect - Selector library for Redux like in NuclearJS](https://github.com/faassen/reselect)
     * [redux-react-connector - Convenient subscription to redux stores](https://github.com/pluralsight/redux-react-connector)
-    * [react-redux - React bindings for Redux](https://github.com/gaearon/react-redux)
+    * [react-redux - React bindings for Redux](https://github.com/rackt/react-redux)
     * [redux-react-router - Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router)
     * [redux-promise-middleware - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware)
     * [redux-thunk - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk)
@@ -114,7 +114,6 @@
     * [redux-ecommerce - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
     * [redux-react - React bindings for Redux](https://github.com/cgarvis/redux-react)
     * [redux-form - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
-    * [https://github.com/iktl/redux-devtools-diff-monitor](https://github.com/iktl/redux-devtools-diff-monitor)
     * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
     * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
     * [redux-immutable - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable)
@@ -129,6 +128,7 @@
     * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
     * [redux-react-router-transitions - Attach react-router transitions to arbitrary actions](https://github.com/johanneslumpe/redux-react-router-transitions)
     * [redux-optimist - Optimistically apply actions that can be later commited or reverted.](https://github.com/ForbesLindesay/redux-optimist)
+    * [redux-devtools-diff-monitor - Redux DevTools – Diff Monitor](https://github.com/whetstone/redux-devtools-diff-monitor)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
