@@ -112,7 +112,6 @@
     * [redux-api - Flux REST API for redux infrastructure](https://github.com/lexich/redux-api)
     * [vstack-router - Universal router](https://github.com/vslinko/vstack-router)
     * [redux-ecommerce - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
-    * [redux-react - React bindings for Redux](https://github.com/cgarvis/redux-react)
     * [redux-form - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
     * [https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
     * [updeep - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
