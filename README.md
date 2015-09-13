@@ -56,7 +56,7 @@
 
 ---
 
-### [Reactive Native - A framework for building native apps using React](https://facebook.github.io/react-native)
+### [React Native - A framework for building native apps using React](https://facebook.github.io/react-native)
 * Examples
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
     * [react-native-redux-counter](https://github.com/hzyIO/react-native-redux-counter)
@@ -78,7 +78,7 @@
     * [redux-thunk - Thunk middleware for Redux](https://github.com/gaearon/redux-thunk)
     * [redux-batched-updates - Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders.](https://github.com/acdlite/redux-batched-updates)
     * [redux-combine-actions - Redux middleware that allows you to easy combine actions and dispatch them sequentially](https://github.com/itsmepetrov/redux-combine-actions)
-    * [redux-catch-promise - Redux middleware to catch Promises and async functions from redux-thunk](https://github.com/DenisIzmaylov/redux-catch-promise)
+    * [redux-catch-promise - Extended replacement of redux-thunk middleware to supporting async-await functions and implement server-side rendering for React components with async state](https://github.com/DenisIzmaylov/redux-catch-promise)
     * [redux-delegator - Compose redux reducers in a structured way](https://github.com/lapanoid/redux-delegator)
     * [routex - Simple router for Redux universal applications. Can be used with React too](https://github.com/michalkvasnicak/routex)
     * [redux-persist-store - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store)
@@ -153,6 +153,7 @@
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
+    * [Simple Isomorphic App: Redux-Api + React-Router + Redux + Express](https://github.com/lexich/redux-api/tree/master/examples/isomorphic) :metal:
     * [Counter](https://github.com/andimarek/redux-counter-tested)
     * [Trivia game](https://github.com/gtfiorentino/you-know-it)
     * [Git Watch (Node webkit + Redux)](https://github.com/Dean177/git-watch)
