@@ -128,6 +128,7 @@
     * [Redux & ImmutableJs - Integration of Redux & ImmutableJs that 100% conforms Redux standards](https://github.com/indexiatech/redux-immutablejs)
     * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
     * [redux-react-router-transitions - Attach react-router transitions to arbitrary actions](https://github.com/johanneslumpe/redux-react-router-transitions)
+    * [redux-optimist - Optimistically apply actions that can be later commited or reverted.](https://github.com/ForbesLindesay/redux-optimist)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
