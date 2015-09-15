@@ -228,6 +228,7 @@
     * [Simple Pokedex app to start learning Redux](https://github.com/davidchang/redux-pokedex)
     * [Universal app with redux as Flux library and redux-devtools hot-reload tools](https://github.com/savemysmartphone/universal-redux-boilerplate) :metal:
     * [Redux socket.io](https://github.com/voby/chatte)
+    * [React + redux + socket.io + react-router (https://github.com/raineroviir/react-redux-socketio-chat)
     * [repair-redux](https://github.com/khairold/repair-redux)
     * [Scaffolder of universal Flux / Redux app, backed by Rails API.](https://github.com/alexfedoseev/generator-flux-on-rails)
     * [Redux-React + Router + Rails API -Todo App](https://github.com/kelvinr/React-Todo)
