@@ -294,6 +294,7 @@
     * [https://github.com/Fraina/React-Weather-Widget](https://github.com/Fraina/React-Weather-Widget)
     * [https://github.com/alanrsoares/redux-game-of-life](https://github.com/alanrsoares/redux-game-of-life)
     * [https://github.com/fatiherikli/fil](https://github.com/fatiherikli/fil)
+    * [https://github.com/d6u/redux-chat](https://github.com/d6u/redux-chat)
 
 ---
 
