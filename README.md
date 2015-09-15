@@ -60,6 +60,7 @@
 * Examples
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
     * [react-native-redux-counter](https://github.com/hzyIO/react-native-redux-counter)
+    * [react-native-counter-ios-android](https://github.com/chentsulin/react-native-counter-ios-android)
 
 ---
 
@@ -128,6 +129,8 @@
     * [redux-react-router-transitions - Attach react-router transitions to arbitrary actions](https://github.com/johanneslumpe/redux-react-router-transitions)
     * [redux-optimist - Optimistically apply actions that can be later commited or reverted.](https://github.com/ForbesLindesay/redux-optimist)
     * [redux-devtools-diff-monitor - Redux DevTools – Diff Monitor](https://github.com/whetstone/redux-devtools-diff-monitor)
+    * [redux-store-visualizer - Visualize Redux store in real time](https://github.com/romseguy/redux-store-visualizer)
+    * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -139,6 +142,7 @@
         * [isomorphic-react-redux-koa](https://github.com/davezuko/isomorphic-react-redux-koa) :metal:
         * [Sliced Haskell fragments](https://github.com/rwilhelm/slices) Universal + RethinkDB + ElasticSearch + lots of good stuff :fire:
     * [Express](https://github.com/strongloop/express)
+        * [A React Router ready, Redux & React Isomorphic starting template for mortals](https://github.com/ryardley/reduxor)
     * [Hapi](https://github.com/hapijs/hapi)
         * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
         * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
@@ -370,3 +374,6 @@
 
 * .NET
     * [https://github.com/GuillaumeSalles/redux.NET](https://github.com/GuillaumeSalles/redux.NET)
+
+* Java
+    * [https://github.com/glung/redux-java](https://github.com/glung/redux-java)
