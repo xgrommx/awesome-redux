@@ -223,7 +223,6 @@
     * [web](https://github.com/aopdex/web)
     * [reactive-stock-ticker-demo](https://github.com/banderson/reactive-stock-ticker-demo)
     * [Budgify](https://github.com/wyze/budgify) - A different budget app build with React, utilizing ES6 & Webpack.
-    * [leaflet-redux](https://github.com/volkanunsal/leaflet-redux)
     * [router-experiments](https://github.com/andreogle/router-experiments)
     * [list-redux](https://github.com/christopherscott/list-redux)
     * [redux-experiments](https://github.com/jlongster/redux-experiments)
