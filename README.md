@@ -69,6 +69,7 @@
     * [redux-transduce - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [redux-actions - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
     * [redux-promise - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise)
+    * [redux-simple-promise - FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declarations](https://github.com/alanrubin/redux-simple-promise)
     * [redux-async - FSA-compliant promise property middleware for Redux](https://github.com/symbiont-io/redux-async)
     * [redux-rx - RxJS utilities for Redux](https://github.com/acdlite/redux-rx)
     * [reselect - Selector library for Redux like in NuclearJS](https://github.com/faassen/reselect)
