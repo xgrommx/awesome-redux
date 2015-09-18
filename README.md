@@ -101,6 +101,7 @@
     * [redux-act - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
     * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](https://github.com/ngokevin/redux-raven-middleware)
     * [redux-routing - Universal routing built on top of redux](https://github.com/callum/redux-routing)
+    * [redux-undo - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
