@@ -102,6 +102,8 @@
     * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](https://github.com/ngokevin/redux-raven-middleware)
     * [redux-routing - Universal routing built on top of redux](https://github.com/callum/redux-routing)
     * [redux-undo - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
+    * [redux-effects - Contain all of your side-effects in middleware. Keep your action creators pure.](https://github.com/redux-effects/redux-effects)
+    * [redux-multi - Dispatch an array of actions at once, in sequence](https://github.com/ashaffer/redux-multi)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
