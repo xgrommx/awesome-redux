@@ -84,7 +84,7 @@
     * [redux-delegator - Compose redux reducers in a structured way](https://github.com/lapanoid/redux-delegator)
     * [routex - Simple router for Redux universal applications. Can be used with React too](https://github.com/michalkvasnicak/routex)
     * [redux-persist-store - Persist and rehydrate a redux store](https://github.com/rt2zz/redux-persist-store)
-    * [redux-graphql - Relay-like functionality for Redux-based applications](https://github.com/gyzerok/redux-graphql)
+    * [adrenaline - React bindings for Redux with Relay in mind](https://github.com/gyzerok/adrenaline)
     * [redux-localstorage - Store enhancer that syncs (a subset) of your Redux store state to localstorage.](https://github.com/elgerlambert/redux-localstorage)
     * [redux-storage - Persistence layer for redux with flexible backends](https://github.com/michaelcontento/redux-storage)
     * [redux-pouchdb - sync store state to pouchdb](https://github.com/vicentedealencar/redux-pouchdb)
