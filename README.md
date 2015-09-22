@@ -156,6 +156,8 @@
         * [Omniscient + Redux](https://github.com/omniscientjs/omniscient-redux)
     * [Datascript](https://github.com/tonsky/datascript)
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
+    * [RxJS](https://github.com/Reactive-Extensions/RxJS)
+        * [Thisless React](https://github.com/jas-chen/thisless-react) - Reactive React application flow with React, RxJS and Redux
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [Simple Isomorphic App: Redux-Api + React-Router + Redux + Express](https://github.com/lexich/redux-api/tree/master/examples/isomorphic) :metal:
