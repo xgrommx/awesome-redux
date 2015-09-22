@@ -333,6 +333,7 @@
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
     * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
+    * [redux-ui-router - ngRedux middleware for Angular UI Router](https://github.com/neilff/redux-ui-router)
 
 ---
 
