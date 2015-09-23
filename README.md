@@ -137,6 +137,7 @@
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
     * [Ripster](https://github.com/vslinko/ripster)
+    * [Este - The most complete minimal dev stack / boilerplate for React & Redux universal web apps](https://github.com/este/este)
 
 * Examples
     * [Koa](https://github.com/koajs/koa)
