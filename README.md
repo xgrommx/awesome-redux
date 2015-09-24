@@ -350,6 +350,7 @@
 ### [Polymer - Build modern apps using web components](https://www.polymer-project.org)
 * Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
+    * [polymer-redux](https://github.com/tur-nr/polymer-redux)
 
 ---
 
