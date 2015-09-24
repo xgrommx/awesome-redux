@@ -373,6 +373,13 @@
     
 ---    
 
+
+### [Backbone - Give your JS App some Backbone with Models, Views, Collections, and Events](http://backbonejs.org/)
+* Tools
+    * [backbone-redux — The easy way to keep your backbone collections and redux store in sync](https://github.com/redbooth/backbone-redux)
+
+---
+
 ### Chrome Extensions
 * [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
 
