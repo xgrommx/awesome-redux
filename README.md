@@ -53,6 +53,7 @@
 * [Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
 * [Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example)
 * [https://github.com/gpbl/redux500](https://github.com/gpbl/redux500)
+* [https://github.com/survivejs/redux-demo](https://github.com/survivejs/redux-demo)
 
 ---
 
