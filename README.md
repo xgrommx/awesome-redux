@@ -305,6 +305,9 @@
     * [https://github.com/d6u/redux-chat](https://github.com/d6u/redux-chat)
     * [https://github.com/dtrussia/redux-dthub-api](https://github.com/dtrussia/redux-dthub-api)
     * [https://github.com/ironbay/react-redux-template](https://github.com/ironbay/react-redux-template)
+    * [https://github.com/A-deLuna/OS-Simulator](https://github.com/A-deLuna/OS-Simulator)
+    * [https://github.com/defact/frieze](https://github.com/defact/frieze)
+    * [https://github.com/bananaoomarang/chapters](https://github.com/bananaoomarang/chapters)
 
 ---
 
