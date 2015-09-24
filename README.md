@@ -4,6 +4,7 @@
 
 ## [Redux](https://github.com/rackt/redux)
 ## [Documentation of Redux](http://rackt.github.io/redux)
+## [Unofficial documentation of Redux(Russian version)](https://github.com/rajdee/redux-in-russian) (Work in progress)
 
 > Predictable state container for JavaScript apps
 
@@ -135,6 +136,7 @@
     * [redux-devtools-diff-monitor - Redux DevTools – Diff Monitor](https://github.com/whetstone/redux-devtools-diff-monitor)
     * [redux-store-visualizer - Visualize Redux store in real time](https://github.com/romseguy/redux-store-visualizer)
     * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
+    * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -301,6 +303,8 @@
     * [https://github.com/alanrsoares/redux-game-of-life](https://github.com/alanrsoares/redux-game-of-life)
     * [https://github.com/fatiherikli/fil](https://github.com/fatiherikli/fil)
     * [https://github.com/d6u/redux-chat](https://github.com/d6u/redux-chat)
+    * [https://github.com/dtrussia/redux-dthub-api](https://github.com/dtrussia/redux-dthub-api)
+    * [https://github.com/ironbay/react-redux-template](https://github.com/ironbay/react-redux-template)
 
 ---
 
