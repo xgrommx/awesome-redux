@@ -259,7 +259,6 @@
     * [like-counter](https://github.com/rob-balfre/like-counter)
     * [test-redux-flickr](https://github.com/nchaulet/test-redux-flickr)
     * [reactapus](https://github.com/joshhunt/reactapus)
-    * [redux-auth-demo](https://github.com/iktl/redux-auth-demo)
     * [react-redux-robot-game](https://github.com/sambs/react-redux-robot-game)
     * [react-redux-async-example](https://github.com/jasonslyvia/react-redux-async-example)
     * [super-duper-redux](https://github.com/jarsbe/super-duper-redux)
