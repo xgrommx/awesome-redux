@@ -41,21 +41,22 @@
 ---
 
 ### Boilerplate
-* [React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
-* [React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
-* [react-redux-scaffold](https://github.com/lcjnil/react-redux-scaffold)
-* [reactv](https://github.com/Amorino/reactv)
-* [redux-boilerplate](https://github.com/ellbee/redux-boilerplate)
-* [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
-* [https://github.com/jackielii/simplest-redux-example](https://github.com/jackielii/simplest-redux-example)
-* [https://github.com/anorudes/redux-easy-boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
-* [https://github.com/dictyBase/dicty-redux](https://github.com/dictyBase/dicty-redux)
-* [https://github.com/rafaelchiti/react_scaffolding](https://github.com/rafaelchiti/react_scaffolding)
-* [Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
-* [Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example)
+* [react-redux-boilerplate - React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
+* [react-boilerplate - React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
+* [react-redux-scaffold - Combination of redux, react-router and ES6+ support](https://github.com/lcjnil/react-redux-scaffold)
+* [reactv - React Redux example](https://github.com/Amorino/reactv)
+* [redux-boilerplate - Boilerplate for Redux](https://github.com/ellbee/redux-boilerplate)
+* [react-redux-starter-kit - Get started with React, Redux, React-Router, and Koa](https://github.com/davezuko/react-redux-starter-kit)
+* [simplest-redux-example - Simplest Redux + React example for beginners](https://github.com/jackielii/simplest-redux-example)
+* [redux-easy-boilerplate - React Redux easy boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
+* [dicty-redux - Starter kit to bootstrap React and Redux(Flux) based web application](https://github.com/dictyBase/dicty-redux)
+* [react_scaffolding - React + React Router 1.0 + Redux + Webpack & Hot Module Replacement](https://github.com/rafaelchiti/react_scaffolding)
+* [express-redux-sample - Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
+* [redux-blog-example - Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling](https://github.com/omnidan/redux-undo-boilerplate)
-* [https://github.com/gpbl/redux500](https://github.com/gpbl/redux500)
-* [https://github.com/survivejs/redux-demo](https://github.com/survivejs/redux-demo)
+* [redux500 - The Redux version of isomorphic500](https://github.com/gpbl/redux500)
+* [redux-demo - Redux port of SurviveJS - Webpack and React Kanban app](https://github.com/survivejs/redux-demo)
+* [react-redux-universal-hot-example - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) :metal:
 
 ---
 
@@ -177,7 +178,6 @@
     * [Official example (TodoMVC)](https://github.com/gaearon/redux/tree/master/examples/todomvc)
     * [Pacman viewer (Redux + Electron + Material-UI + Radium)](https://github.com/jonathanewerner/pac)
     * [Dice game](https://github.com/unbracketed/redux-yahtzee)
-    * [Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) :metal:
     * [A showcase of the Redux architecture with React Router](https://github.com/emmenko/redux-react-router-async-example)
     * [TodoMVC (ES5)](https://github.com/insin/redux-todomvc-es5)
     * [trailerzoo-redux](https://github.com/bshyong/trailerzoo-redux)
