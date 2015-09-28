@@ -107,6 +107,7 @@
     * [redux-raven-middleware - Redux middleware for sending error reports to Sentry through raven-js](https://github.com/ngokevin/redux-raven-middleware)
     * [redux-routing - Universal routing built on top of redux](https://github.com/callum/redux-routing)
     * [redux-undo - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
+    * [rn-redux-mixpanel - Configurable Redux middleware that sends your actions & user profile data to Mixpanel](https://github.com/danscan/rn-redux-mixpanel)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -316,7 +317,8 @@
    * [chopped-redux - A very small Flux implementation based on Redux](https://github.com/acstll/chopped-redux)
    * [fluxette - Minimalist, functional, and concise Flux](https://github.com/edge/fluxette)
    * [rx-redux - A reimplementation of redux using RxJS](https://github.com/jas-chen/rx-redux)
-   * [https://github.com/johnhenry/understate](https://github.com/johnhenry/understate)
+   * [understate - A simple state manager](https://github.com/johnhenry/understate)
+   * [refer - Redux-like library for handling global state on functional style](https://github.com/Lucifier129/refer)
 
 ---
 
