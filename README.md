@@ -309,6 +309,7 @@
     * [https://github.com/A-deLuna/OS-Simulator](https://github.com/A-deLuna/OS-Simulator)
     * [https://github.com/defact/frieze](https://github.com/defact/frieze)
     * [https://github.com/bananaoomarang/chapters](https://github.com/bananaoomarang/chapters)
+    * [https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms](https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms)
 
 ---
 
