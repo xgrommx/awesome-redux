@@ -37,6 +37,7 @@
 * [Redux Middleware: Behind the Scenes](http://briantroncone.com/?p=529)
 * [A proposal for bundling reducers, action types and actions when using Redux](https://github.com/erikras/ducks-modular-redux)
 * [Full-Stack Redux Tutorial - A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) Source [Server](https://github.com/teropa/redux-voting-server) + [Client](https://github.com/teropa/redux-voting-client)
+* [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 
 ---
 
