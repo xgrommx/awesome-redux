@@ -402,6 +402,7 @@ ___
 
 ### Chrome Extensions
 * [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
+* [React Chrome Extension Boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate)
 
 * Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
