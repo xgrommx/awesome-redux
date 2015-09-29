@@ -142,6 +142,7 @@
     * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
     * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
     * [redux-utils - Utility functions for Redux](https://github.com/newtack/redux-utils)
+    * [multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer.](https://github.com/erikras/multireducer)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
