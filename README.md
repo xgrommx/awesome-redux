@@ -57,6 +57,7 @@
 * [redux500 - The Redux version of isomorphic500](https://github.com/gpbl/redux500)
 * [redux-demo - Redux port of SurviveJS - Webpack and React Kanban app](https://github.com/survivejs/redux-demo)
 * [react-redux-universal-hot-example - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) :metal:
+* [overreact - Fullstack Boilerplate for React Redux Webpack Express(Redux+Express+PostCSS)](https://github.com/christiansakai/overreact)
 
 ---
 
@@ -310,6 +311,7 @@
     * [https://github.com/defact/frieze](https://github.com/defact/frieze)
     * [https://github.com/bananaoomarang/chapters](https://github.com/bananaoomarang/chapters)
     * [https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms](https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms)
+    * [https://github.com/earlsioson/sample-react-redux-jspm](https://github.com/earlsioson/sample-react-redux-jspm)
 
 ---
 
