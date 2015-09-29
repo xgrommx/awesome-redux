@@ -313,6 +313,7 @@
     * [https://github.com/bananaoomarang/chapters](https://github.com/bananaoomarang/chapters)
     * [https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms](https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms)
     * [https://github.com/earlsioson/sample-react-redux-jspm](https://github.com/earlsioson/sample-react-redux-jspm)
+    * [https://github.com/BinaryMuse/electron-youtube-player](https://github.com/BinaryMuse/electron-youtube-player)
 
 ---
 
