@@ -31,6 +31,7 @@
 * [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4)
 * [0 to 1 : Getting started with Redux](http://www.jchapron.com/2015/08/14/getting-started-with-redux)
 * [Redux Chinese Document](https://github.com/camsong/redux-in-chinese)
+* [Redux Document (Traditional Chinese)](https://github.com/chentsulin/redux)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 * [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
 * [Several videos about Redux + Falcor](https://www.livecoding.tv/ekosz/videos) and [Example code](https://github.com/ekosz/postcard-sender)
