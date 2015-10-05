@@ -61,6 +61,7 @@
 * [redux-demo - Redux port of SurviveJS - Webpack and React Kanban app](https://github.com/survivejs/redux-demo)
 * [react-redux-universal-hot-example - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) :metal:
 * [overreact - Fullstack Boilerplate for React Redux Webpack Express(Redux+Express+PostCSS)](https://github.com/christiansakai/overreact)
+* [rde - Reactive Live Programming Environment](https://github.com/levjj/rde)
 
 ---
 
@@ -145,7 +146,9 @@
     * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
     * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
     * [redux-utils - Utility functions for Redux](https://github.com/newtack/redux-utils)
-    * [multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer.](https://github.com/erikras/multireducer)
+    * [multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer](https://github.com/erikras/multireducer)
+    * [subdivide - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane](https://github.com/philholden/subdivide)
+    * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -318,6 +321,8 @@
     * [https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms](https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms)
     * [https://github.com/earlsioson/sample-react-redux-jspm](https://github.com/earlsioson/sample-react-redux-jspm)
     * [https://github.com/BinaryMuse/electron-youtube-player](https://github.com/BinaryMuse/electron-youtube-player)
+    * [https://github.com/gaearon/react-elmish-example](https://github.com/gaearon/react-elmish-example)
+    * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
 
 ---
 
