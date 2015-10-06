@@ -53,7 +53,7 @@
 * [react-redux-starter-kit - Get started with React, Redux, React-Router, and Koa](https://github.com/davezuko/react-redux-starter-kit)
 * [simplest-redux-example - Simplest Redux + React example for beginners](https://github.com/jackielii/simplest-redux-example)
 * [redux-easy-boilerplate - React Redux easy boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
-* [dicty-redux - Starter kit to bootstrap React and Redux(Flux) based web application](https://github.com/dictyBase/dicty-redux)
+* [dicty-redux - Starter kit to bootstrap React and Redux (Flux) based web application](https://github.com/dictyBase/dicty-redux)
 * [react_scaffolding - React + React Router 1.0 + Redux + Webpack & Hot Module Replacement](https://github.com/rafaelchiti/react_scaffolding)
 * [express-redux-sample - Express-Redux-PassportJs-MySQL Boilerplate](https://github.com/aybmab/express-redux-sample)
 * [redux-blog-example - Redux-Webpack-Babel Blog Platform boilerplate](https://github.com/GetExpert/redux-blog-example)
@@ -61,9 +61,10 @@
 * [redux500 - The Redux version of isomorphic500](https://github.com/gpbl/redux500)
 * [redux-demo - Redux port of SurviveJS - Webpack and React Kanban app](https://github.com/survivejs/redux-demo)
 * [react-redux-universal-hot-example - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) :metal:
-* [overreact - Fullstack Boilerplate for React Redux Webpack Express(Redux+Express+PostCSS)](https://github.com/christiansakai/overreact)
+* [overreact - Fullstack Boilerplate for React Redux Webpack Express (Redux+Express+PostCSS)](https://github.com/christiansakai/overreact)
 * [rde - Reactive Live Programming Environment](https://github.com/levjj/rde)
 * [React Redux Starter Kit - Yet another React and Redux based web application starter kit](https://github.com/cloudmu/react-redux-starter-kit)
+* [skeleton - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)](https://github.com/sullenor/skeleton)
 
 ---
 
@@ -327,7 +328,6 @@
     * [https://github.com/gaearon/react-elmish-example](https://github.com/gaearon/react-elmish-example)
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
     * [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
-
 
 ---
 
