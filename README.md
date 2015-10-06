@@ -115,6 +115,7 @@
     * [redux-routing - Universal routing built on top of redux](https://github.com/callum/redux-routing)
     * [redux-undo - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
     * [rn-redux-mixpanel - Configurable Redux middleware that sends your actions & user profile data to Mixpanel](https://github.com/danscan/rn-redux-mixpanel)
+    * [redux-falcor - Connect your redux front-end to your falcor back-end](https://github.com/ekosz/redux-falcor)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
