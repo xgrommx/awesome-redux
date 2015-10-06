@@ -63,6 +63,7 @@
 * [react-redux-universal-hot-example - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) :metal:
 * [overreact - Fullstack Boilerplate for React Redux Webpack Express(Redux+Express+PostCSS)](https://github.com/christiansakai/overreact)
 * [rde - Reactive Live Programming Environment](https://github.com/levjj/rde)
+* [React Redux Starter Kit - Yet another React and Redux based web application starter kit](https://github.com/cloudmu/react-redux-starter-kit)
 
 ---
 
@@ -324,6 +325,8 @@
     * [https://github.com/BinaryMuse/electron-youtube-player](https://github.com/BinaryMuse/electron-youtube-player)
     * [https://github.com/gaearon/react-elmish-example](https://github.com/gaearon/react-elmish-example)
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
+    * [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
+
 
 ---
 
