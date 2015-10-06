@@ -411,6 +411,12 @@
     
 ___
 
+### [Riot - A React-like user interface micro-library](http://riotjs.com)
+* Examples
+    * [riotredux-budget](https://github.com/remyhonig/riotredux-budget)
+    * [app-skeleton](https://github.com/zesty-io/app-skeleton)
+___
+
 ### Chrome Extensions
 * [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
 * [React Chrome Extension Boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate)
