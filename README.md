@@ -5,6 +5,7 @@
 ## [Redux](https://github.com/rackt/redux)
 ## [Documentation of Redux](http://rackt.github.io/redux)
 ## [Unofficial documentation of Redux(Russian version)](https://github.com/rajdee/redux-in-russian) (Work in progress)
+## [Documentation of Redux(Traditional Chinese version)](http://chentsulin.github.io/redux/index.html)
 
 > Predictable state container for JavaScript apps
 
