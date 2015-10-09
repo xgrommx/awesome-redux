@@ -66,6 +66,8 @@
 * [rde - Reactive Live Programming Environment](https://github.com/levjj/rde)
 * [React Redux Starter Kit - Yet another React and Redux based web application starter kit](https://github.com/cloudmu/react-redux-starter-kit)
 * [skeleton - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)](https://github.com/sullenor/skeleton)
+* [redux-easy-boilerplate - React 0.14 + Redux](https://github.com/anorudes/redux-easy-boilerplate)
+* [browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack](https://github.com/zalmoxisus/browser-redux)
 
 ---
 
@@ -154,6 +156,7 @@
     * [multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer](https://github.com/erikras/multireducer)
     * [subdivide - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane](https://github.com/philholden/subdivide)
     * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
+    * [replux - Self contained components and enhancements for Redux](https://github.com/gregthebusker/replux)
 
 * Frameworks
     * [Esex (Full-stack Universal JavaScript Framework (Redux+RxJs))](https://github.com/esex/esex)
@@ -329,6 +332,7 @@
     * [https://github.com/gaearon/react-elmish-example](https://github.com/gaearon/react-elmish-example)
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
     * [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
+    * [https://github.com/andrislapsa/redux-snake](https://github.com/andrislapsa/redux-snake)
 
 ---
 
@@ -433,6 +437,7 @@ ___
 
 * .NET
     * [https://github.com/GuillaumeSalles/redux.NET](https://github.com/GuillaumeSalles/redux.NET)
+    * [https://github.com/pshomov/reducto](https://github.com/pshomov/reducto)
 
 * Java
     * [https://github.com/glung/redux-java](https://github.com/glung/redux-java)
