@@ -112,6 +112,7 @@
     * [redux-logger - Logger middleware for Redux](https://github.com/fcomb/redux-logger)
     * [redux-node-logger - A Redux Logger for Node Environments](https://github.com/low-ghost/redux-node-logger)
     * [redux-diff-logger - Diff logger between states for Redux](https://github.com/fcomb/redux-diff-logger)
+    * [redux-debug - debug(...) middleware for Redux](https://github.com/lapwinglabs/redux-debug)
     * [redux-requests - Avoid issuing duplicate HTTP requests](https://github.com/idolize/redux-requests)
     * [redux-owl - Redux One Way Linking](https://github.com/rt2zz/redux-owl)
     * [redux-act - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
