@@ -4,6 +4,7 @@
 
 ## [Redux](https://github.com/rackt/redux)
 ## [Documentation of Redux](http://rackt.github.io/redux)
+## [Documentation of Redux(Simple Chinese version)](https://github.com/camsong/redux-in-chinese)
 ## [Unofficial documentation of Redux(Russian version)](https://github.com/rajdee/redux-in-russian) (Work in progress)
 ## [Documentation of Redux(Traditional Chinese version)](http://chentsulin.github.io/redux/index.html)
 
