@@ -24,6 +24,7 @@
 * [Many tools and middlewares](https://github.com/redux-effects)
 * [Blog which is written with Redux](https://github.com/jlongster/blog)
 * [Redux offline docs](https://github.com/paulwittmann/redux-offline-docs)
+* [Flux challenge](https://github.com/staltz/flux-challenge)
 
 ---
 
@@ -69,6 +70,7 @@
 * [skeleton - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)](https://github.com/sullenor/skeleton)
 * [redux-easy-boilerplate - React 0.14 + Redux](https://github.com/anorudes/redux-easy-boilerplate)
 * [browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack](https://github.com/zalmoxisus/browser-redux)
+* [react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff](https://github.com/chicoxyzzy/react-for-hipsters-boilerplate)
 
 ---
 
@@ -159,6 +161,9 @@
     * [subdivide - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane](https://github.com/philholden/subdivide)
     * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
     * [replux - Self contained components and enhancements for Redux](https://github.com/gregthebusker/replux)
+    * [redux-immutable-utils - Utilities for using Immutable with Redux](https://github.com/aparticka/redux-immutable-utils)
+    * [redux-governor - A basic tool for quickly creating state managers (actions + reducers) to use with Redux](https://github.com/tshelburne/redux-governor)
+    * [recompose - A microcomponentization toolkit for React](https://github.com/acdlite/recompose)
 
 * Frameworks
     * [Vdux - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
@@ -186,6 +191,7 @@
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [RxJS](https://github.com/Reactive-Extensions/RxJS)
         * [Thisless React](https://github.com/jas-chen/thisless-react) - Reactive React application flow with React, RxJS and Redux
+    * [https://github.com/jadekler/git-js-booksearch](https://github.com/jadekler/git-js-booksearch)    
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
     * [Simple Isomorphic App: Redux-Api + React-Router + Redux + Express](https://github.com/lexich/redux-api/tree/master/examples/isomorphic) :metal:
