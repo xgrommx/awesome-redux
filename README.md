@@ -44,6 +44,7 @@
 * [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js)
 * [React Tutorial - Converting Reflux to Redux](http://engineering.wework.com/process/2015/10/01/react-reflux-to-redux)
+* [Redux example using 500px API (with ES6)](https://github.com/yildizberkay/redux-example)
 
 ---
 
