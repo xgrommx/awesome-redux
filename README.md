@@ -45,6 +45,7 @@
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js)
 * [React Tutorial - Converting Reflux to Redux](http://engineering.wework.com/process/2015/10/01/react-reflux-to-redux)
 * [Redux example using 500px API (with ES6)](https://github.com/yildizberkay/redux-example)
+* [Building a boilerplate for a Koa, Redux, React application including Webpack, Mocha and SASS](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/) - This article explains in detail how [this koa-redux-react-boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) was built and the technologies it uses.
 
 ---
 
@@ -72,6 +73,7 @@
 * [redux-easy-boilerplate - React 0.14 + Redux](https://github.com/anorudes/redux-easy-boilerplate)
 * [browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack](https://github.com/zalmoxisus/browser-redux)
 * [react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff](https://github.com/chicoxyzzy/react-for-hipsters-boilerplate)
+* [Documented Koa Redux React Webpack boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) - The building process of this boilerplate is deeply documented from 0 for learning purposes. [You can find the docs here](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/).
 
 ---
 
