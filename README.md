@@ -70,7 +70,6 @@
 * [rde - Reactive Live Programming Environment](https://github.com/levjj/rde)
 * [React Redux Starter Kit - Yet another React and Redux based web application starter kit](https://github.com/cloudmu/react-redux-starter-kit)
 * [skeleton - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)](https://github.com/sullenor/skeleton)
-* [redux-easy-boilerplate - React 0.14 + Redux](https://github.com/anorudes/redux-easy-boilerplate)
 * [browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack](https://github.com/zalmoxisus/browser-redux)
 * [react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff](https://github.com/chicoxyzzy/react-for-hipsters-boilerplate)
 * [Documented Koa Redux React Webpack boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) - The building process of this boilerplate is deeply documented from 0 for learning purposes. [You can find the docs here](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/).
