@@ -128,6 +128,8 @@
     * [rn-redux-mixpanel - Configurable Redux middleware that sends your actions & user profile data to Mixpanel](https://github.com/danscan/rn-redux-mixpanel)
     * [redux-falcor - Connect your redux front-end to your falcor back-end](https://github.com/ekosz/redux-falcor)
     * [redux-analytics - Trigger analytics events based on your event metadata](https://github.com/markdalgleish/redux-analytics)
+    * [redux-ignore - Ignore redux actions by array or filter function](https://github.com/omnidan/redux-ignore)
+    * [redux-recycle - Reset the redux state on certain actions](https://github.com/omnidan/redux-recycle)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
