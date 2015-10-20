@@ -47,6 +47,7 @@
 * [React Tutorial - Converting Reflux to Redux](http://engineering.wework.com/process/2015/10/01/react-reflux-to-redux)
 * [Redux example using 500px API (with ES6)](https://github.com/yildizberkay/redux-example)
 * [Building a boilerplate for a Koa, Redux, React application including Webpack, Mocha and SASS](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/) - This article explains in detail how [this koa-redux-react-boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) was built and the technologies it uses.
+* [Typed React and Redux](http://jaysoo.ca/2015/09/26/typed-react-and-redux)
 
 ---
 
