@@ -25,6 +25,7 @@
 * [Blog which is written with Redux](https://github.com/jlongster/blog)
 * [Redux offline docs](https://github.com/paulwittmann/redux-offline-docs)
 * [Flux challenge](https://github.com/staltz/flux-challenge)
+* [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux)
 
 ---
 
