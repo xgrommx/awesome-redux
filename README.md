@@ -173,7 +173,6 @@
     * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
     * [replux - Self contained components and enhancements for Redux](https://github.com/gregthebusker/replux)
     * [redux-immutable-utils - Utilities for using Immutable with Redux](https://github.com/aparticka/redux-immutable-utils)
-    * [redux-governor - A basic tool for quickly creating state managers (actions + reducers) to use with Redux](https://github.com/tshelburne/redux-governor)
     * [recompose - A microcomponentization toolkit for React](https://github.com/acdlite/recompose)
 
 * Frameworks
