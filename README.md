@@ -170,7 +170,6 @@
     * [redux-utils - Utility functions for Redux](https://github.com/newtack/redux-utils)
     * [multireducer - A utility to wrap many copies of a single Redux reducer into a single key-based reducer](https://github.com/erikras/multireducer)
     * [subdivide - User defined UI layout: Every pane can be subdivided and any widget assigned to any pane](https://github.com/philholden/subdivide)
-    * [redux-viewmodel - ViewModel wrapping for Redux & React](https://github.com/tdzl2003/redux-viewmodel)
     * [replux - Self contained components and enhancements for Redux](https://github.com/gregthebusker/replux)
     * [redux-immutable-utils - Utilities for using Immutable with Redux](https://github.com/aparticka/redux-immutable-utils)
     * [redux-governor - A basic tool for quickly creating state managers (actions + reducers) to use with Redux](https://github.com/tshelburne/redux-governor)
