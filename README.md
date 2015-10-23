@@ -347,7 +347,7 @@
     * [https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms](https://github.com/IoanAlexandru/React-Redux-with-Hot-Loading-and-tcomb-forms)
     * [https://github.com/earlsioson/sample-react-redux-jspm](https://github.com/earlsioson/sample-react-redux-jspm)
     * [https://github.com/BinaryMuse/electron-youtube-player](https://github.com/BinaryMuse/electron-youtube-player)
-    * [https://github.com/gaearon/react-elmish-example](https://github.com/gaearon/react-elmish-example)
+    * [https://github.com/gaearon/react-elmish-example](https://github.com/gaearon/react-elmish-example) Elm approach
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
     * [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
     * [https://github.com/andrislapsa/redux-snake](https://github.com/andrislapsa/redux-snake)
