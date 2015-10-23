@@ -77,6 +77,7 @@
 * [browser-redux - Building Chrome apps and cross-browser extensions with Redux and Webpack](https://github.com/zalmoxisus/browser-redux)
 * [react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff](https://github.com/chicoxyzzy/react-for-hipsters-boilerplate)
 * [Documented Koa Redux React Webpack boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) - The building process of this boilerplate is deeply documented from 0 for learning purposes. [You can find the docs here](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/).
+* [err - Electron, React, Redux-devtools boilerplate for building cross-platform apps.](https://github.com/tuommii/err)
 
 ---
 
@@ -422,7 +423,7 @@
 ### [Mithril - A Javascript Framework for Building Brilliant Applications](http://mithril.js.org/)
 * Examples
     * [mithril-redux-starter-hmr](https://github.com/mijime/mithril-redux-starter-hmr)
-    
+
 ---    
 
 
@@ -435,7 +436,7 @@
 ### [Aurelia - is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity](http://aurelia.io)
 * Examples
     * [aurelia-redux-todo - An implementation of the Redux todo demo app using Aurelia](https://github.com/voidberg/aurelia-redux-todo)
-    
+
 ___
 
 ### [Riot - A React-like user interface micro-library](http://riotjs.com)
@@ -450,7 +451,7 @@ ___
 
 * Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
-    
+
 ## Other languages
 
 * .NET
