@@ -80,6 +80,7 @@
 * [Documented Koa Redux React Webpack boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) - The building process of this boilerplate is deeply documented from 0 for learning purposes. [You can find the docs here](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/).
 * [err - Electron, React, Redux-devtools boilerplate for building cross-platform apps.](https://github.com/tuommii/err)
 * [friends-app-redux - React Redux Universal Hot Example](https://github.com/banzay/friends-app-redux)
+* [isomorphic-redux-app - Redux Isomorphic App (with async content)](https://github.com/caljrimmer/isomorphic-redux-app)
 
 ---
 
