@@ -79,6 +79,7 @@
 * [react-for-hipsters-boilerplate - Fresh boilerplate with brand new hot reloading confing and other hipster stuff](https://github.com/chicoxyzzy/react-for-hipsters-boilerplate)
 * [Documented Koa Redux React Webpack boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) - The building process of this boilerplate is deeply documented from 0 for learning purposes. [You can find the docs here](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/).
 * [err - Electron, React, Redux-devtools boilerplate for building cross-platform apps.](https://github.com/tuommii/err)
+* [friends-app-redux - React Redux Universal Hot Example](https://github.com/banzay/friends-app-redux)
 
 ---
 
@@ -175,6 +176,7 @@
     * [replux - Self contained components and enhancements for Redux](https://github.com/gregthebusker/replux)
     * [redux-immutable-utils - Utilities for using Immutable with Redux](https://github.com/aparticka/redux-immutable-utils)
     * [recompose - A microcomponentization toolkit for React](https://github.com/acdlite/recompose)
+    * [redux-lift - Lifting for Redux](https://github.com/izaakschroeder/redux-lift)
 
 * Frameworks
     * [Vdux - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
@@ -353,6 +355,7 @@
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
     * [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
     * [https://github.com/andrislapsa/redux-snake](https://github.com/andrislapsa/redux-snake)
+    * [https://github.com/LOLQueen/front-end](https://github.com/LOLQueen/front-end)
 
 ---
 
