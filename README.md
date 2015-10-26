@@ -51,6 +51,8 @@
 * [Building a boilerplate for a Koa, Redux, React application including Webpack, Mocha and SASS](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/) - This article explains in detail how [this koa-redux-react-boilerplate](https://github.com/mezod/boilerplate-koa-redux-react) was built and the technologies it uses.
 * [Typed React and Redux](http://jaysoo.ca/2015/09/26/typed-react-and-redux)
 * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.8k7536uqu)
+* [Join The Dark Side Of The Flux: Responding to Actions with Actors](http://jamesknelson.com/join-the-dark-side-of-the-flux-responding-to-actions-with-actors)
+* [Can I dispatch multiple actions from Redux action creators?](http://jamesknelson.com/can-i-dispatch-multiple-actions-from-redux-action-creators)
 
 ---
 
@@ -81,6 +83,7 @@
 * [err - Electron, React, Redux-devtools boilerplate for building cross-platform apps.](https://github.com/tuommii/err)
 * [friends-app-redux - React Redux Universal Hot Example](https://github.com/banzay/friends-app-redux)
 * [isomorphic-redux-app - Redux Isomorphic App (with async content)](https://github.com/caljrimmer/isomorphic-redux-app)
+* [starter-kit - Project boilerplate using React, Redux and Uniloc http://unicornstandard.com/packages/boilerplate.html](https://github.com/unicorn-standard/starter-kit)
 
 ---
 
