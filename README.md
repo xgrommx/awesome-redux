@@ -13,7 +13,7 @@
 
 ## Marks
 * [Universal (Isomorphic)](http://isomorphic.net) - :metal:
-* [Hot Reload](http://gaearon.github.io/react-hot-loader) - :fire:
+* [Hot Reload](https://github.com/gaearon/react-transform-hmr) - :fire:
 
 ### Presentations
 * [A introduction about Redux](https://github.com/chentsulin/redux-intro)
