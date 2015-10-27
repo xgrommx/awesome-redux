@@ -84,6 +84,7 @@
 * [friends-app-redux - React Redux Universal Hot Example](https://github.com/banzay/friends-app-redux)
 * [isomorphic-redux-app - Redux Isomorphic App (with async content)](https://github.com/caljrimmer/isomorphic-redux-app)
 * [starter-kit - Project boilerplate using React, Redux and Uniloc http://unicornstandard.com/packages/boilerplate.html](https://github.com/unicorn-standard/starter-kit)
+* [A boilerplate for a Redux-React application using LoopBack](https://github.com/tngan/loopback-redux-react-boilerplate)
 
 ---
 
@@ -319,6 +320,7 @@
     * [redux-auth-demo](https://github.com/whetstone/redux-auth-demo)
     * [https://github.com/jchapron/redux-friendlist-demo](https://github.com/jchapron/redux-friendlist-demo)
     * [react-redux-example](https://github.com/nobleach/react-redux-example) :metal:
+    * [redux-hacker-news](https://github.com/tngan/redux-hacker-news)
     * [webapp-starter-pack](https://github.com/dferber90/webapp-starter-pack)
     * [reduxify](https://github.com/Shabananana/reduxify)
     * [redux_actionsStore](https://github.com/gabrielgiussi/redux_actionsStore)
