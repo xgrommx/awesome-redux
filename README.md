@@ -183,6 +183,7 @@
     * [recompose - A microcomponentization toolkit for React](https://github.com/acdlite/recompose)
     * [redux-lift - Lifting for Redux](https://github.com/izaakschroeder/redux-lift)
     * [redux-router5 - router5 integration with Redux](https://github.com/router5/redux-router5)
+    * [redux-devtools-extension - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 * Frameworks
     * [Vdux - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
@@ -210,6 +211,7 @@
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [RxJS](https://github.com/Reactive-Extensions/RxJS)
         * [Thisless React](https://github.com/jas-chen/thisless-react) - Reactive React application flow with React, RxJS and Redux
+    * [https://github.com/caljrimmer/isomorphic-redux-app](https://github.com/caljrimmer/isomorphic-redux-app)        
     * [https://github.com/jadekler/git-js-booksearch](https://github.com/jadekler/git-js-booksearch)    
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
     * [Simple chat](https://github.com/ViniciusAtaide/reduxchat)
