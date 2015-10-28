@@ -362,6 +362,8 @@
     * [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
     * [https://github.com/andrislapsa/redux-snake](https://github.com/andrislapsa/redux-snake)
     * [https://github.com/LOLQueen/front-end](https://github.com/LOLQueen/front-end)
+    * [Mortgage overpayment calculator using D3.js](https://github.com/paulhoughton/mortgage)
+    * [Electronic Circuit Simulator with React-Art](https://github.com/circuitsim/circuit-simulator)
 
 ---
 
