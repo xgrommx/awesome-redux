@@ -182,6 +182,7 @@
     * [redux-immutable-utils - Utilities for using Immutable with Redux](https://github.com/aparticka/redux-immutable-utils)
     * [recompose - A microcomponentization toolkit for React](https://github.com/acdlite/recompose)
     * [redux-lift - Lifting for Redux](https://github.com/izaakschroeder/redux-lift)
+    * [redux-router5 - router5 integration with Redux](https://github.com/router5/redux-router5)
 
 * Frameworks
     * [Vdux - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
