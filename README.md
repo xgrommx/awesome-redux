@@ -367,6 +367,7 @@
     * [https://github.com/LOLQueen/front-end](https://github.com/LOLQueen/front-end)
     * [Mortgage overpayment calculator using D3.js](https://github.com/paulhoughton/mortgage)
     * [Electronic Circuit Simulator with React-Art](https://github.com/circuitsim/circuit-simulator)
+    * [Todo app example with Firebase, OAuth, and undelete](https://github.com/r-park/todo-react-redux)
 
 ---
 
