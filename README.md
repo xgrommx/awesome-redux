@@ -467,6 +467,9 @@ ___
 * Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
 
+## Ruby on Rails Resources
+* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) 
+* [react_on_rails gem](https://github.com/shakacode/react_on_rails)
 ## Other languages
 
 * .NET
