@@ -143,6 +143,7 @@
     * [redux-ignore - Ignore redux actions by array or filter function](https://github.com/omnidan/redux-ignore)
     * [redux-recycle - Reset the redux state on certain actions](https://github.com/omnidan/redux-recycle)
     * [re-notif](https://github.com/indexiatech/re-notif) A notification center based on React & Redux.
+    * [redux-lunr - Make your redux store searchable with Lunr.js](https://github.com/swennemans/redux-lunr)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
