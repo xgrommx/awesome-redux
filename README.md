@@ -185,6 +185,7 @@
     * [redux-lift - Lifting for Redux](https://github.com/izaakschroeder/redux-lift)
     * [redux-router5 - router5 integration with Redux](https://github.com/router5/redux-router5)
     * [redux-devtools-extension - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
+    * [universal-redux-router - A very simple router for Redux and React that works on both server and client](https://github.com/colinmeinke/universal-redux-router)
 
 * Frameworks
     * [Vdux - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
