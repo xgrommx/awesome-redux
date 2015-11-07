@@ -27,7 +27,7 @@
 * [Redux offline docs](https://github.com/paulwittmann/redux-offline-docs)
 * [Flux challenge](https://github.com/staltz/flux-challenge)
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux)
-* [User interface builder for React](https://github.com/ipselon/structor)
+* [Structor - a user interface builder for React](https://github.com/ipselon/structor)
 
 ---
 
