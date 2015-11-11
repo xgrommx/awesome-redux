@@ -63,7 +63,7 @@
 * [react-redux-scaffold - Combination of redux, react-router and ES6+ support](https://github.com/lcjnil/react-redux-scaffold)
 * [reactv - React Redux example](https://github.com/Amorino/reactv)
 * [redux-boilerplate - Boilerplate for Redux](https://github.com/ellbee/redux-boilerplate)
-* [react-redux-starter-kit - Get started with React, Redux, React-Router, and Koa](https://github.com/davezuko/react-redux-starter-kit)
+* [react-redux-starter-kit - Get started with React, Redux, and React-Router.](https://github.com/davezuko/react-redux-starter-kit)
 * [simplest-redux-example - Simplest Redux + React example for beginners](https://github.com/jackielii/simplest-redux-example)
 * [redux-easy-boilerplate - React Redux easy boilerplate](https://github.com/anorudes/redux-easy-boilerplate)
 * [dicty-redux - Starter kit to bootstrap React and Redux (Flux) based web application](https://github.com/dictyBase/dicty-redux)
