@@ -391,6 +391,8 @@
 ### [Deku - Functional view library for building UI components as an alternative to React](https://github.com/dekujs/deku)
 * Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
+    * [deku-redux - Bindings for redux in deku (Standalone plugin)](https://github.com/troch/deku-redux)
+)
 
 ---
 
