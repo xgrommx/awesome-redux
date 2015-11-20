@@ -28,6 +28,7 @@
 * [Flux challenge](https://github.com/staltz/flux-challenge)
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux)
 * [Structor - a user interface builder for React](https://github.com/ipselon/structor)
+* [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
 
 ---
 
