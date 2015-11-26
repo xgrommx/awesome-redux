@@ -111,6 +111,7 @@
     * [redux-promise - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise)
     * [redux-simple-promise - FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declarations](https://github.com/alanrubin/redux-simple-promise)
     * [redux-async - FSA-compliant promise property middleware for Redux](https://github.com/symbiont-io/redux-async)
+    * [redux-await - Manage async redux actions sanely](https://github.com/kolodny/redux-await)
     * [redux-rx - RxJS utilities for Redux](https://github.com/acdlite/redux-rx)
     * [reselect - Selector library for Redux like in NuclearJS](https://github.com/faassen/reselect)
     * [redux-react-connector - Convenient subscription to redux stores](https://github.com/pluralsight/redux-react-connector)
