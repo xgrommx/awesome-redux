@@ -58,6 +58,7 @@
 * [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
 * [Your First Immutable React & Redux App](http://reactjsnews.com/your-first-redux-app)
 * [Getting Started with Redux - Egghead's video lessons from Dan Abramov](https://egghead.io/series/getting-started-with-redux)
+* [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.lnwisap8c)
 
 ---
 
