@@ -427,6 +427,7 @@
 
 ### [Vue - A library for building modern web interfaces](http://vuejs.org)
 * Examples
+    * [Revue - Redux binding for Vue](https://github.com/egoist/revue)
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
     * [Meteor + Vue + Redux](https://github.com/zhongqf/meteor-vue-redux-example)
 
