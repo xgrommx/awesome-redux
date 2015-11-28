@@ -287,7 +287,6 @@
     * [panels-runtime](https://github.com/UXtemple/panels-runtime)
     * [An implementation of TodoMVC using React, Redux, React-Router, and more!](https://github.com/tough-griff/redux-react-router-todomvc)
     * [tst](https://github.com/lafaulx/tst)
-    * [timerrrs](https://github.com/amorphius/timerrrs)
     * [testing](https://github.com/badtant/testing)
     * [app](https://github.com/SamMargalit/app)
     * [web](https://github.com/aopdex/web)
@@ -486,7 +485,7 @@ ___
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
 
 ## Ruby on Rails Resources
-* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) 
+* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial)
 * [react_on_rails gem](https://github.com/shakacode/react_on_rails)
 
 ## Other languages
