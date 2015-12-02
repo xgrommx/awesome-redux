@@ -153,6 +153,7 @@
     * [re-notif](https://github.com/indexiatech/re-notif) A notification center based on React & Redux.
     * [redux-lunr - Make your redux store searchable with Lunr.js](https://github.com/swennemans/redux-lunr)
     * [redux-ensure-fsa - Development middleware to check for FSA-compliant actions](https://github.com/meadow/redux-ensure-fsa)
+    * [redux-pagan - internationalization via redux](https://github.com/alexkuz/redux-pagan)
 
 * Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
