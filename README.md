@@ -382,6 +382,7 @@
     * [Electronic Circuit Simulator with React-Art](https://github.com/circuitsim/circuit-simulator)
     * [Todo app example with Firebase, OAuth, and undelete](https://github.com/r-park/todo-react-redux)
     * [Simple Redux examples: router5, react, deku, react-router, webpack, react-transform](https://github.com/StevenIseki/redux-examples)
+    * [SQLECTRON - SQL client gui/terminal based interface with cross database and platform support: Redux, React, Blessed](https://github.com/sqlectron)
 
 ---
 
