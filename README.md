@@ -204,6 +204,7 @@
     * [**Esex** - Full-stack Universal JavaScript Framework (Redux+RxJs)](https://github.com/esex/esex)
     * [**Ripster**](https://github.com/vslinko/ripster)
     * [**Este** - The most complete minimal dev stack / boilerplate for React & Redux universal web apps](https://github.com/este/este)
+    * [stardux - Functional DOM containers based on starplate, IncrementalDOM, and redux](https://github.com/littlstar/stardux)
 
 ---
 
