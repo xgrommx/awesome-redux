@@ -204,7 +204,10 @@
     * [**Ripster**](https://github.com/vslinko/ripster)
     * [**Este** - The most complete minimal dev stack / boilerplate for React & Redux universal web apps](https://github.com/este/este)
 
-* [Examples](examples/README.md)
+---
+
+### [Examples](examples/README.md)
+
 ---
 
 ### Similar libraries
