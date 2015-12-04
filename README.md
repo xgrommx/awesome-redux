@@ -95,7 +95,7 @@
 ---
 
 ### [React Native - A framework for building native apps using React](https://facebook.github.io/react-native)
-* #### Examples
+* Examples
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
     * [react-native-redux-counter](https://github.com/hzyIO/react-native-redux-counter)
     * [react-native-counter-ios-android](https://github.com/chentsulin/react-native-counter-ios-android)
@@ -105,7 +105,7 @@
 ---
 
 ### [React - A JavaScript library for building user interfaces](http://facebook.github.io/react)
-* #### Middlewares
+* Middlewares
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
     * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise)
@@ -155,7 +155,7 @@
     * [**redux-ensure-fsa** - Development middleware to check for FSA-compliant actions](https://github.com/meadow/redux-ensure-fsa)
     * [**redux-pagan** - internationalization via redux](https://github.com/alexkuz/redux-pagan)
 
-* #### Tools
+* Tools
     * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
     * [redux-tiny-router - A Router made for Redux, stop using the router as a controller it's just state!](https://github.com/Agamennon/redux-tiny-router)
     * [redux-devtools-gentest-plugin - Generate mocha like tests from redux-devtools session](https://github.com/lapanoid/redux-devtools-gentest-plugin)
@@ -198,13 +198,13 @@
     * [universal-redux-router - A very simple router for Redux and React that works on both server and client](https://github.com/colinmeinke/universal-redux-router)
     * [redux-simple-router - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/jlongster/redux-simple-router)
 
-* #### Frameworks
+* Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
     * [**Esex** - Full-stack Universal JavaScript Framework (Redux+RxJs)](https://github.com/esex/esex)
     * [**Ripster**](https://github.com/vslinko/ripster)
     * [**Este** - The most complete minimal dev stack / boilerplate for React & Redux universal web apps](https://github.com/este/este)
 
-* #### [Examples](examples/README.md)
+* [Examples](examples/README.md)
 ---
 
 ### Similar libraries
@@ -219,7 +219,7 @@
 ---
 
 ### [Deku - Functional view library for building UI components as an alternative to React](https://github.com/dekujs/deku)
-* #### Examples
+* Examples
     * [Deku + Express + Redux + Crossroads Router](https://github.com/nivanson/deku-redux-universal-hot-example)
     * [deku-redux - Bindings for redux in deku (Standalone plugin)](https://github.com/troch/deku-redux)
 )
@@ -227,19 +227,19 @@
 ---
 
 ### [Incremental DOM - Incremental DOM is a library for building up DOM trees and updating them in-place when data changes](http://google.github.io/incremental-dom)
-* #### Examples
+* Examples
     * [Incremental DOM + Redux Flux = Todo App](https://github.com/joshthecoder/idom-redux-todomvc-app)
 
 ---
 
 ### [WinJS - Windows Library for JavaScript](http://try.buildwinjs.com)
-* #### Examples
+* Examples
     * [react-redux-winjs-example](https://github.com/unindented/react-redux-winjs-example)
 
 ---
 
 ### [Angular - HTML enhanced for web apps](https://angularjs.org)
-* #### Examples
+* Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
     * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
@@ -249,7 +249,7 @@
 ---
 
 ### [Vue - A library for building modern web interfaces](http://vuejs.org)
-* #### Examples
+* Examples
     * [Revue - Redux binding for Vue](https://github.com/egoist/revue)
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
     * [Meteor + Vue + Redux](https://github.com/zhongqf/meteor-vue-redux-example)
@@ -257,46 +257,46 @@
 ---
 
 ### [Polymer - Build modern apps using web components](https://www.polymer-project.org)
-* #### Examples
+* Examples
     * [appler-react](https://github.com/saurshaz/appler-react)
     * [polymer-redux](https://github.com/tur-nr/polymer-redux)
 
 ---
 
 ### [Ember - A framework for creating ambitious web applications](http://emberjs.com)
-* #### Examples
+* Examples
     * [emberedux](https://github.com/gcollazo/emberedux)
 
 ---
 
 ### [Meteor - Build apps that are a delight to use, faster than you ever thought possible](https://www.meteor.com)
-* #### Examples
+* Examples
    * [meteor-react-redux-example](https://github.com/zhongqf/meteor-react-redux-example)
    * [meteor-flux-leaderboard](https://github.com/AdamBrodzinski/meteor-flux-leaderboard/tree/redux)
 
 ---
 
 ### [Mithril - A Javascript Framework for Building Brilliant Applications](http://mithril.js.org/)
-* #### Examples
+* Examples
     * [mithril-redux-starter-hmr](https://github.com/mijime/mithril-redux-starter-hmr)
 
 ---    
 
 
 ### [Backbone - Give your JS App some Backbone with Models, Views, Collections, and Events](http://backbonejs.org/)
-* #### Tools
+* Tools
     * [backbone-redux — The easy way to keep your backbone collections and redux store in sync](https://github.com/redbooth/backbone-redux)
 
 ---
 
 ### [Aurelia - is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity](http://aurelia.io)
-* #### Examples
+* Examples
     * [aurelia-redux-todo - An implementation of the Redux todo demo app using Aurelia](https://github.com/voidberg/aurelia-redux-todo)
 
 ___
 
 ### [Riot - A React-like user interface micro-library](http://riotjs.com)
-* #### Examples
+* Examples
     * [riotredux-budget](https://github.com/remyhonig/riotredux-budget)
     * [app-skeleton](https://github.com/zesty-io/app-skeleton)
 ___
@@ -305,7 +305,7 @@ ___
 * [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
 * [React Chrome Extension Boilerplate (Webpack + Redux + Babel and etc](https://github.com/jhen0409/react-chrome-extension-boilerplate)
 
-* #### Examples
+* Examples
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
 
 ## Ruby on Rails Resources
@@ -314,9 +314,9 @@ ___
 
 ## Other languages
 
-* #### .NET
+* .NET
     * [https://github.com/GuillaumeSalles/redux.NET](https://github.com/GuillaumeSalles/redux.NET)
     * [https://github.com/pshomov/reducto](https://github.com/pshomov/reducto)
 
-* #### Java
+* Java
     * [https://github.com/glung/redux-java](https://github.com/glung/redux-java)
