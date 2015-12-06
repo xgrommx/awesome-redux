@@ -311,6 +311,11 @@ ___
     * [app-skeleton](https://github.com/zesty-io/app-skeleton)
 ___
 
+### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
+* [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate)
+
+___
+
 ### Chrome Extensions
 * [Redux Chrome Extension](https://github.com/Dharmoslap/redux-chrome-extension)
 * [React Chrome Extension Boilerplate (Webpack + Redux + Babel and etc](https://github.com/jhen0409/react-chrome-extension-boilerplate)
