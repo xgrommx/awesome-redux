@@ -93,6 +93,7 @@
 * [starter-kit - Project boilerplate using React, Redux and Uniloc http://unicornstandard.com/packages/boilerplate.html](https://github.com/unicorn-standard/starter-kit)
 * [A boilerplate for a Redux-React application using LoopBack](https://github.com/tngan/loopback-redux-react-boilerplate)
 * [**breko-hub** - **B**abel **Rea**ct **Ko**a **H**ot **U**niversal **B**oilerplate -- A simple, clean and consistent boilerplate for creating universal webapps with universal data fetching and SocketIO integration](https://github.com/tomatau/breko-hub)
+* [React Redux Cordova Boilerplate](https://github.com/inderps/react-redux-cordova-boilerplate)
 
 ---
 
@@ -318,7 +319,7 @@ ___
     * [Pumgrana Plugin](https://github.com/Pumgrana/plugin)
 
 ## Ruby on Rails Resources
-* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial) 
+* [React Webpack Rails Tutorial Using Redux](https://github.com/shakacode/react-webpack-rails-tutorial)
 * [react_on_rails gem](https://github.com/shakacode/react_on_rails)
 
 ## Other languages
