@@ -104,6 +104,7 @@
     * [react-native-counter-ios-android](https://github.com/chentsulin/react-native-counter-ios-android)
     * [react-native-redux-groceries - An example app using React Native, Redux, Firebase, and AsyncStorage for offline data](https://github.com/bruz/react-native-redux-groceries)
     * [react-native-sound-cloud](https://github.com/fraserxu/soundredux-native)
+    * [snowflake - mobile app starter: Login, Logout, Reset Password, Update Profile, Hot Reload](https://github.com/bartonhammond/snowflake)
 
 ---
 
