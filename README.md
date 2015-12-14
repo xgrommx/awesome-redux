@@ -202,6 +202,7 @@
     * [redux-devtools-extension - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
     * [universal-redux-router - A very simple router for Redux and React that works on both server and client](https://github.com/colinmeinke/universal-redux-router)
     * [redux-simple-router - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/jlongster/redux-simple-router)
+    * [redux-watch - Watch/monitor for state changes on an object path](https://github.com/jprichardson/redux-watch)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
