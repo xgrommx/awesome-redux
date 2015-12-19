@@ -91,7 +91,7 @@
 * [**friends-app-redux** - React Redux Universal Hot Example](https://github.com/banzay/friends-app-redux)
 * [**isomorphic-redux-app** - Redux Isomorphic App (with async content)](https://github.com/caljrimmer/isomorphic-redux-app)
 * [**starter-kit** - Project boilerplate using React, Redux and Uniloc http://unicornstandard.com/packages/boilerplate.html](https://github.com/unicorn-standard/starter-kit)
-* [**A boilerplate for a Redux-React application using LoopBack](https://github.com/tngan/loopback-redux-react-boilerplate)
+* [**loopback-redux-react-boilerplate** - A boilerplate for a Redux-React application using LoopBack](https://github.com/tngan/loopback-redux-react-boilerplate)
 * [**breko-hub** - **B**abel **Rea**ct **Ko**a **H**ot **U**niversal **B**oilerplate -- A simple, clean and consistent boilerplate for creating universal webapps with universal data fetching and SocketIO integration](https://github.com/tomatau/breko-hub)
 * [**React Redux Cordova Boilerplate**](https://github.com/inderps/react-redux-cordova-boilerplate)
 
