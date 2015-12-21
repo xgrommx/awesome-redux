@@ -257,6 +257,7 @@
     * [redux-ui-router - ngRedux middleware for Angular UI Router](https://github.com/neilff/redux-ui-router)
     * [Todo app with ng-redux • ES6 • Webpack](https://github.com/r-park/todo-angular-redux)
     * [https://github.com/InfomediaLtd/angular2-redux-example](https://github.com/InfomediaLtd/angular2-redux-example)
+    * [https://github.com/tomusdrw/angular2-redux-example](https://github.com/tomusdrw/angular2-redux-example)
 
 ---
 
