@@ -204,6 +204,7 @@
     * [**universal-redux-router** - A very simple router for Redux and React that works on both server and client](https://github.com/colinmeinke/universal-redux-router)
     * [**redux-simple-router** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/jlongster/redux-simple-router)
     * [**redux-watch** - Watch/monitor for state changes on an object path](https://github.com/jprichardson/redux-watch)
+    * [**redux-devtools-filterable-log-monitor** - Filterable tree view monitor for Redux DevTools](https://github.com/bvaughn/redux-devtools-filterable-log-monitor)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
@@ -339,3 +340,6 @@ ___
 
 * Java
     * [https://github.com/glung/redux-java](https://github.com/glung/redux-java)
+
+* Swift
+    * [https://github.com/ReSwift/reduxSwift](https://github.com/ReSwift/reduxSwift)
