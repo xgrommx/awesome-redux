@@ -159,6 +159,7 @@
     * [**redux-ensure-fsa** - Development middleware to check for FSA-compliant actions](https://github.com/meadow/redux-ensure-fsa)
     * [**redux-pagan** - internationalization via redux](https://github.com/alexkuz/redux-pagan)
     * [**redux-debounce**](//github.com/wyze/redux-debounce) - Debounce your actions!
+    * [**redux-future** - FSA-compliant future monad middleware for redux](https://github.com/stoeffel/redux-future)
 
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -293,7 +294,7 @@
 * Examples
     * [mithril-redux-starter-hmr](https://github.com/mijime/mithril-redux-starter-hmr)
 
----    
+---
 
 
 ### [Backbone - Give your JS App some Backbone with Models, Views, Collections, and Events](http://backbonejs.org/)
