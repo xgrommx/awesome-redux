@@ -60,6 +60,7 @@
 * [Getting Started with Redux - Egghead's video lessons from Dan Abramov](https://egghead.io/series/getting-started-with-redux)
 * [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.lnwisap8c)
 * [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js)
+* [Rethinking Redux](https://voice.kadira.io/rethinking-redux-f1e96daba60c#.hp5v516ie)
 
 ---
 
