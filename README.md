@@ -106,6 +106,7 @@
     * [react-native-redux-groceries - An example app using React Native, Redux, Firebase, and AsyncStorage for offline data](https://github.com/bruz/react-native-redux-groceries)
     * [react-native-sound-cloud](https://github.com/fraserxu/soundredux-native)
     * [snowflake - mobile app starter: Login, Logout, Reset Password, Update Profile, Hot Reload](https://github.com/bartonhammond/snowflake)
+    * [uestc-bbs-react-native - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux](https://github.com/just4fun/uestc-bbs-react-native)
 
 ---
 
