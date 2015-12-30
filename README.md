@@ -96,6 +96,7 @@
 * [**breko-hub** - **B**abel **Rea**ct **Ko**a **H**ot **U**niversal **B**oilerplate -- A simple, clean and consistent boilerplate for creating universal webapps with universal data fetching and SocketIO integration](https://github.com/tomatau/breko-hub)
 * [**React Redux Cordova Boilerplate**](https://github.com/inderps/react-redux-cordova-boilerplate)
 * [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate)
+* [**react-webpack-node** - Boilerplate for an universal React + Redux/alt Flux application using Webpack running on a node express server](https://github.com/choonkending/react-webpack-node)
 
 ---
 
