@@ -6,6 +6,7 @@
     * [Express](https://github.com/strongloop/express)
         * [A React Router ready, Redux & React Isomorphic starting template for mortals](https://github.com/ryardley/reduxor)
     * [Hapi](https://github.com/hapijs/hapi)
+        * [Hapi React Starter Kit] (https://github.com/Dindaleon/hapi-react-starter-kit) (Universal, Redux, Redis, Socket.io, Intl)
         * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
         * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
         * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux) :metal:
