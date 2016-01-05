@@ -212,7 +212,8 @@
     * [**redux-simple-router** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/jlongster/redux-simple-router)
     * [**redux-watch** - Watch/monitor for state changes on an object path](https://github.com/jprichardson/redux-watch)
     * [**redux-devtools-filterable-log-monitor** - Filterable tree view monitor for Redux DevTools](https://github.com/bvaughn/redux-devtools-filterable-log-monitor)
-
+    * [**redux-flash-notification** -  A flash notification component for Redux](https://github.com/posabsolute/redux-flash-notification)
+    
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
     * [**Esex** - Full-stack Universal JavaScript Framework (Redux+RxJs)](https://github.com/esex/esex)
