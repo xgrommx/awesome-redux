@@ -30,6 +30,7 @@
 * [Structor - a user interface builder for React](https://github.com/ipselon/structor)
 * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
 * [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle)
+* [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
 
 ---
 
@@ -61,6 +62,7 @@
 * [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.lnwisap8c)
 * [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js)
 * [Rethinking Redux](https://voice.kadira.io/rethinking-redux-f1e96daba60c#.hp5v516ie)
+* [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas)
 
 ---
 
@@ -221,7 +223,9 @@
     * [**Este** - The most complete minimal dev stack / boilerplate for React & Redux universal web apps](https://github.com/este/este)
     * [**stardux** - Functional DOM containers based on starplate, IncrementalDOM, and redux](https://github.com/littlstar/stardux)
     * [**nux** - A Push-Based Functional Reactive Web Application Framework](https://github.com/marknutter/nux)
-
+    * [**Keo** - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as compose, memoize, etc... for free](https://github.com/Wildhoney/Keo)
+    * [**plait** - A minimal JavaScript framework for building reactive web components](https://github.com/wildlyinaccurate/plait)
+    
 ---
 
 ### [Examples](examples/README.md)
