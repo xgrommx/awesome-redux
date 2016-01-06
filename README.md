@@ -216,6 +216,8 @@
     * [**redux-devtools-filterable-log-monitor** - Filterable tree view monitor for Redux DevTools](https://github.com/bvaughn/redux-devtools-filterable-log-monitor)
     * [**redux-flash-notification** -  A flash notification component for Redux](https://github.com/posabsolute/redux-flash-notification)
     * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
+    * [**remote-redux-devtools** - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps](https://github.com/zalmoxisus/remote-redux-devtools)
+    * [**redux-devtools-dispatch** - Dispatch your actions manually to test if your app reacts well](https://github.com/YoruNoHikage/redux-devtools-dispatch)
     
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
