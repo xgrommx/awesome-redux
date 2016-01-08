@@ -83,7 +83,6 @@
 * [**redux500** - The Redux version of isomorphic500](https://github.com/gpbl/redux500)
 * [**redux-demo** - Redux port of SurviveJS - Webpack and React Kanban app](https://github.com/survivejs/redux-demo)
 * [**react-redux-universal-hot-example** - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader](https://github.com/erikras/react-redux-universal-hot-example) :metal:
-* [**overreact** - Fullstack Boilerplate for React Redux Webpack Express (Redux+Express+PostCSS)](https://github.com/christiansakai/overreact)
 * [**rde** - Reactive Live Programming Environment](https://github.com/levjj/rde)
 * [**React Redux Starter Kit** - Yet another React and Redux based web application starter kit](https://github.com/cloudmu/react-redux-starter-kit)
 * [**skeleton** - A simple project-stub to show the basic ideas. Also serves you as a quick start for your project (Mori + Redux)](https://github.com/sullenor/skeleton)
