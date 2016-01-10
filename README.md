@@ -355,3 +355,4 @@ ___
 
 * Swift
     * [https://github.com/ReSwift/reduxSwift](https://github.com/ReSwift/reduxSwift)
+    * [https://github.com/Swift-Flow/Swift-Flow](https://github.com/Swift-Flow/Swift-Flow)
