@@ -99,6 +99,7 @@
 * [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate)
 * [**react-webpack-node** - Boilerplate for an universal React + Redux/alt Flux application using Webpack running on a node express server](https://github.com/choonkending/react-webpack-node)
 * [**Hapi React Starter Kit** - Universal, Redux, Redis, Socket.io, Intl] (https://github.com/Dindaleon/hapi-react-starter-kit)
+* [**Universal Redux Template** - A clean, extensible react + redux boilerplate with universal rendering, testing and more] (https://github.com/mz026/universal-redux-template)
 
 ---
 
