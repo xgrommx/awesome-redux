@@ -125,7 +125,6 @@
     * [**redux-await** - Manage async redux actions sanely](https://github.com/kolodny/redux-await)
     * [**redux-rx** - RxJS utilities for Redux](https://github.com/acdlite/redux-rx)
     * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/faassen/reselect)
-    * [**redux-react-connector** - Convenient subscription to redux stores](https://github.com/pluralsight/redux-react-connector)
     * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux)
     * [**redux-react-router** - Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router)
     * [**redux-promise-middleware** - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware)
