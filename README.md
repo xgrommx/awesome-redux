@@ -100,6 +100,7 @@
 * [**react-webpack-node** - Boilerplate for an universal React + Redux/alt Flux application using Webpack running on a node express server](https://github.com/choonkending/react-webpack-node)
 * [**Hapi React Starter Kit** - Universal, Redux, Redis, Socket.io, Intl] (https://github.com/Dindaleon/hapi-react-starter-kit)
 * [**Universal Redux Template** - A clean, extensible react + redux boilerplate with universal rendering, testing and more] (https://github.com/mz026/universal-redux-template)
+* [**universal-js** - A universal Javascript starter kit inc. React, Redux, Redux Dev Tools, Universal Redux Router, CSS Modules, hot module reloading, Babel for ES2015+ and ESLint](https://github.com/colinmeinke/universal-js)
 
 ---
 
@@ -216,7 +217,7 @@
     * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
     * [**remote-redux-devtools** - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps](https://github.com/zalmoxisus/remote-redux-devtools)
     * [**redux-devtools-dispatch** - Dispatch your actions manually to test if your app reacts well](https://github.com/YoruNoHikage/redux-devtools-dispatch)
-    
+
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
     * [**Esex** - Full-stack Universal JavaScript Framework (Redux+RxJs)](https://github.com/esex/esex)
@@ -226,7 +227,7 @@
     * [**nux** - A Push-Based Functional Reactive Web Application Framework](https://github.com/marknutter/nux)
     * [**Keo** - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as compose, memoize, etc... for free](https://github.com/Wildhoney/Keo)
     * [**plait** - A minimal JavaScript framework for building reactive web components](https://github.com/wildlyinaccurate/plait)
-    
+
 ---
 
 ### [Examples](examples/README.md)
