@@ -67,6 +67,7 @@
 ---
 
 ### Boilerplate
+* [**react-slingshot** - React Redux Starter Kit with hot reloading, tests and example app](https://github.com/coryhouse/react-slingshot)
 * [**react-redux-boilerplate** - React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
 * [**react-boilerplate** - React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
 * [**react-redux-scaffold** - Combination of redux, react-router and ES6+ support](https://github.com/lcjnil/react-redux-scaffold)
