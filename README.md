@@ -31,6 +31,7 @@
 * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
 * [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle)
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
+* [Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps](https://github.com/dwyl/learn-redux)
 
 ---
 
@@ -64,6 +65,7 @@
 * [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js)
 * [Rethinking Redux](https://voice.kadira.io/rethinking-redux-f1e96daba60c#.hp5v516ie)
 * [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas)
+* [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication)
 
 ---
 
@@ -220,6 +222,9 @@
     * [**redux-saga** - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
     * [**remote-redux-devtools** - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps](https://github.com/zalmoxisus/remote-redux-devtools)
     * [**redux-devtools-dispatch** - Dispatch your actions manually to test if your app reacts well](https://github.com/YoruNoHikage/redux-devtools-dispatch)
+    * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop)
+    * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm)
+    * [**redux-bacon** - Utilities for attaching Bacon.js to Redux](https://github.com/aparticka/redux-bacon)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
@@ -360,3 +365,8 @@ ___
 * Swift
     * [https://github.com/ReSwift/reduxSwift](https://github.com/ReSwift/reduxSwift)
     * [https://github.com/Swift-Flow/Swift-Flow](https://github.com/Swift-Flow/Swift-Flow)
+    * [https://github.com/ReSwift/ReSwift](https://github.com/ReSwift/ReSwift) and [docs](http://reswift.github.io/ReSwift/master)
+    
+* Purescript
+    * [https://github.com/brakmic/purescript-redux](https://github.com/brakmic/purescript-redux)
+    * [https://github.com/faber/purescript-purdux](https://github.com/faber/purescript-purdux)
