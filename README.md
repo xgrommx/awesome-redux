@@ -235,6 +235,7 @@
     * [**nux** - A Push-Based Functional Reactive Web Application Framework](https://github.com/marknutter/nux)
     * [**Keo** - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as compose, memoize, etc... for free](https://github.com/Wildhoney/Keo)
     * [**plait** - A minimal JavaScript framework for building reactive web components](https://github.com/wildlyinaccurate/plait)
+    * [**reactuate** — A React/Redux stack (not a boilerplate!) with a focus on Domain-Driven Design](https://github.com/reactuate/reactuate)
 
 ---
 
