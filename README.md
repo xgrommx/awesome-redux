@@ -66,6 +66,7 @@
 * [Rethinking Redux](https://voice.kadira.io/rethinking-redux-f1e96daba60c#.hp5v516ie)
 * [Managing Side Effects In React + Redux Using Sagas](http://jaysoo.ca/2016/01/03/managing-processes-in-redux-using-sagas)
 * [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication)
+* [Getting started with Redux and GraphQL](https://medium.com/@thisbejim/getting-started-with-redux-and-graphql-8384b3b25c56#.3anuh1m7x)
 
 ---
 
