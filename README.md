@@ -111,6 +111,7 @@
 
 ### [React Native - A framework for building native apps using React](https://facebook.github.io/react-native)
 * Examples
+    * [CarteJaune - An open source Redux/ExponentJS (React Native) app leveraging redux-saga to keep track of your vaccinations](https://github.com/nikgraf/CarteJaune)
     * [noder-react-native - The mobile app of cnodejs.org written in React Native](https://github.com/soliury/noder-react-native)
     * [react-native-redux-counter](https://github.com/hzyIO/react-native-redux-counter)
     * [react-native-counter-ios-android](https://github.com/chentsulin/react-native-counter-ios-android)
