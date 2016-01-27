@@ -179,6 +179,7 @@
 
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
+    * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux)
     * [**redux-tiny-router** - A Router made for Redux, stop using the router as a controller it's just state!](https://github.com/Agamennon/redux-tiny-router)
     * [**redux-devtools-gentest-plugin** - Generate mocha like tests from redux-devtools session](https://github.com/lapanoid/redux-devtools-gentest-plugin)
     * [**generator-redux** - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
@@ -217,7 +218,6 @@
     * [**redux-router5** - router5 integration with Redux](https://github.com/router5/redux-router5)
     * [**redux-devtools-extension** - Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
     * [**universal-redux-router** - A very simple router for Redux and React that works on both server and client](https://github.com/colinmeinke/universal-redux-router)
-    * [**redux-simple-router** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/jlongster/redux-simple-router)
     * [**redux-watch** - Watch/monitor for state changes on an object path](https://github.com/jprichardson/redux-watch)
     * [**redux-devtools-filterable-log-monitor** - Filterable tree view monitor for Redux DevTools](https://github.com/bvaughn/redux-devtools-filterable-log-monitor)
     * [**redux-flash-notification** -  A flash notification component for Redux](https://github.com/posabsolute/redux-flash-notification)
