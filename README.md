@@ -280,11 +280,18 @@
 * Examples
     * [Angular + Typescript + Redux](https://github.com/wbuchwalter/tsRedux)
     * [ng-redux - Standalone plugin](https://github.com/wbuchwalter/ng-redux)
-    * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
     * [redux-ui-router - ngRedux middleware for Angular UI Router](https://github.com/neilff/redux-ui-router)
     * [Todo app with ng-redux • ES6 • Webpack](https://github.com/r-park/todo-angular-redux)
     * [https://github.com/InfomediaLtd/angular2-redux-example](https://github.com/InfomediaLtd/angular2-redux-example)
     * [https://github.com/tomusdrw/angular2-redux-example](https://github.com/tomusdrw/angular2-redux-example)
+
+---
+
+### [Angular 2 - One framework. Mobile and desktop](https://angular.io/)
+* Examples
+    * [angular2-redux-example - Example project for using pure Redux with Angular 2 and TypeScript](https://github.com/InfomediaLtd/angular2-redux-example)
+    * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
+    * [angular2-redux - Wrapper components for using Redux in an Angular2 application](https://github.com/InfomediaLtd/angular2-redux)
 
 ---
 
