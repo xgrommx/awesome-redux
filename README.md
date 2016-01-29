@@ -71,6 +71,7 @@
 ---
 
 ### Boilerplate
+* [**react-redux-starter** - Universal React + Redux with Cordova support and an opinionated directory structure](https://github.com/combine/react-redux-starter)
 * [**react-slingshot** - React Redux Starter Kit with hot reloading, tests and example app](https://github.com/coryhouse/react-slingshot)
 * [**react-redux-boilerplate** - React Redux Boilerplate](https://github.com/knowbody/react-redux-boilerplate)
 * [**react-boilerplate** - React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
@@ -379,7 +380,7 @@ ___
     * [https://github.com/ReSwift/reduxSwift](https://github.com/ReSwift/reduxSwift)
     * [https://github.com/Swift-Flow/Swift-Flow](https://github.com/Swift-Flow/Swift-Flow)
     * [https://github.com/ReSwift/ReSwift](https://github.com/ReSwift/ReSwift) and [docs](http://reswift.github.io/ReSwift/master)
-    
+
 * Purescript
     * [https://github.com/brakmic/purescript-redux](https://github.com/brakmic/purescript-redux)
     * [https://github.com/faber/purescript-purdux](https://github.com/faber/purescript-purdux)
