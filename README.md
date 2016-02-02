@@ -181,6 +181,7 @@
     * [**vstack-router** - Universal router](https://github.com/vslinko/vstack-router)
     * [**redux-ecommerce** - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
     * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
+    * [**redux-form-validation** - Form validation for controlled & uncontrolled inputs](https://github.com/posabsolute/redux-form-validator)
     * [**https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
     * [**updeep** - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
     * [**redux-immutable** - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable)
