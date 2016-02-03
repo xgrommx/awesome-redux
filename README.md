@@ -192,6 +192,7 @@
     * [**redux-rest** - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
     * [**react-reach** - A library to communicate with Graphql through Redux](https://github.com/kennetpostigo/react-reach)
     * [**redux-api** - Flux REST API for redux infrastructure](https://github.com/lexich/redux-api)
+    * [**firedux** - Firebase + Redux for ReactJS](https://github.com/adjohnson916/firedux)
     * [**vstack-router** - Universal router](https://github.com/vslinko/vstack-router)
     * [**redux-ecommerce** - E-commerce flux with redux](https://github.com/Tom-Alexander/redux-ecommerce)
     * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
