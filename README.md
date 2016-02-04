@@ -111,6 +111,7 @@
 * [**universal-js** - A universal Javascript starter kit inc. React, Redux, Redux Dev Tools, Universal Redux Router, CSS Modules, hot module reloading, Babel for ES2015+ and ESLint](https://github.com/colinmeinke/universal-js)
 * [**redux-react-material-boilerplate** - Simple boilerplate inc. React, Redux, Hot reaload and Material-ui](https://github.com/WapGeaR/redux-react-material-boilerplate)
 * [**react-redux-starter** - React Redux Starter](https://github.com/exeto/react-redux-starter)
+* [**Reduxible** - The Fast and Easy way to make a React + Redux apps](https://github.com/Pitzcarraldo/reduxible)
 
 ---
 
