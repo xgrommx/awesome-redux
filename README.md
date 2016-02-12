@@ -187,6 +187,7 @@
     * [**redux-future** - FSA-compliant future monad middleware for redux](https://github.com/stoeffel/redux-future)
     * [**redux-io** - FSA-compliant io monad middleware for redux](https://github.com/stoeffel/redux-io)
     * [**redux-either** - FSA-compliant either monad middleware for redux](https://github.com/stoeffel/redux-either)
+    * [**redux-timeout** - Trigger actions based on timeouts](https://github.com/gpfunk/redux-timeout)
 
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
