@@ -115,7 +115,7 @@
 * [**Hapi React Starter Kit** - Universal, Redux, Redis, Socket.io, Intl] (https://github.com/Dindaleon/hapi-react-starter-kit)
 * [**Universal Redux Template** - A clean, extensible react + redux boilerplate with universal rendering, testing and more] (https://github.com/mz026/universal-redux-template)
 * [**universal-js** - A universal Javascript starter kit inc. React, Redux, Redux Dev Tools, Universal Redux Router, CSS Modules, hot module reloading, Babel for ES2015+ and ESLint](https://github.com/colinmeinke/universal-js)
-* [**redux-react-material-boilerplate** - Simple boilerplate inc. React, Redux, Hot reaload and Material-ui](https://github.com/WapGeaR/redux-react-material-boilerplate)
+* [**redux-react-material-boilerplate** - Simple boilerplate inc. React, Redux, Hot reload and Material-ui](https://github.com/WapGeaR/redux-react-material-boilerplate)
 * [**react-redux-starter** - React Redux Starter](https://github.com/exeto/react-redux-starter)
 * [**Reduxible** - The Fast and Easy way to make a React + Redux apps](https://github.com/Pitzcarraldo/reduxible)
 
