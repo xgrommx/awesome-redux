@@ -193,6 +193,7 @@
     * [**redux-io** - FSA-compliant io monad middleware for redux](https://github.com/stoeffel/redux-io)
     * [**redux-either** - FSA-compliant either monad middleware for redux](https://github.com/stoeffel/redux-either)
     * [**redux-timeout** - Trigger actions based on timeouts](https://github.com/gpfunk/redux-timeout)
+    * [**redux-observable-middleware** - Redux middleware for subscribing to observables](https://github.com/d6u/redux-observable-middleware)
 
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -250,6 +251,7 @@
     * [**rereduce** - Reducer library for Redux](https://github.com/slorber/rereduce)
     * [**redux-decorators** - A ridiculously good syntax for working with Redux and TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere](https://github.com/KarlPurk/redux-decorators)
     * [**redux-test-reducer** - Simple and clean testing mechanism for Redux reducers](https://github.com/amsardesai/redux-test-reducer)
+    * [**redux-devtools-inspector** - Another Redux DevTools Monitor](https://github.com/alexkuz/redux-devtools-inspector)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
