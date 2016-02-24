@@ -75,6 +75,7 @@
 * [Angular 2 Application Architecture - Building Flux Apps with Redux and Immutable.js](http://blog.jhades.org/angular-2-application-architecture-building-flux-like-apps-using-redux-and-immutable-js-js)
 * [React, Redux and Immutable.js: Ingredients for Efficient Web Applications](http://www.toptal.com/react/react-redux-and-immutablejs)
 * [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1)
+* [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2)
 
 ---
 
