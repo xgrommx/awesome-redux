@@ -17,6 +17,12 @@
 
 ### Presentations
 * [A introduction about Redux](https://github.com/chentsulin/redux-intro)
+* [Real World Redux](https://speakerdeck.com/chrisui/real-world-redux)
+* [The power of higher-order reducers](http://slides.com/omnidan/hor)
+* [Reactive Architecture with Redux and Angular](http://slides.com/evanschultz-1/reactive-angular)
+* [Redux Internals](http://slides.com/vladimirnovick/reduxinternals)
+* [Replacing Angular 1 with React and Redux](http://slides.com/scottprue-2/deck)
+* [A tour on the React ecosystem](http://slides.com/cguedes/a-tour-on-react-ecosystem)
 
 ---
 
@@ -76,6 +82,7 @@
 * [React, Redux and Immutable.js: Ingredients for Efficient Web Applications](http://www.toptal.com/react/react-redux-and-immutablejs)
 * [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1)
 * [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2)
+* [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application)
 
 ---
 
