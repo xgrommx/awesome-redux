@@ -195,7 +195,8 @@
     * [**redux-either** - FSA-compliant either monad middleware for redux](https://github.com/stoeffel/redux-either)
     * [**redux-timeout** - Trigger actions based on timeouts](https://github.com/gpfunk/redux-timeout)
     * [**redux-observable-middleware** - Redux middleware for subscribing to observables](https://github.com/d6u/redux-observable-middleware)
-
+    * [**redux-deferred** - Redux middleware for jQuery Deferred Object](https://github.com/wyvernnot/redux-deferred)
+    
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
     * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux)
