@@ -228,6 +228,7 @@
     * [**icedam** - Just-in-time immutability: freezes data sent to views.](https://github.com/winkler1/icedam)
     * [**react-inline-grid** - Predictable flexbox based grid for React using Redux and Immutable-js.](https://github.com/broucz/react-inline-grid)
     * [**redux-easy-actions** - Sugar library for creating Redux or Flux actions](https://github.com/grigory-leonenko/redux-easy-actions)
+    * [**redux-mount** - Mount state data and change its state values on the fly](https://github.com/popc0rn/redux-mount)
     * [**redux-multi** - Dispatch multiple actions from one action creator](https://github.com/ashaffer/redux-multi)
     * [**immu** - A tiny, fail-fast, lazy, immutable Javascript objects library](https://github.com/scottcorgan/immu)
     * [**Generate standard action creators and reducers for CRUD applications**](https://github.com/Versent/redux-crud)
