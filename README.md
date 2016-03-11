@@ -264,6 +264,7 @@
     * [**redux-decorators** - A ridiculously good syntax for working with Redux and TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere](https://github.com/KarlPurk/redux-decorators)
     * [**redux-test-reducer** - Simple and clean testing mechanism for Redux reducers](https://github.com/amsardesai/redux-test-reducer)
     * [**redux-devtools-inspector** - Another Redux DevTools Monitor](https://github.com/alexkuz/redux-devtools-inspector)
+    * [**redux-ava** - Helpers for writing Redux tests in AVA](https://github.com/sotojuan/redux-ava)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
