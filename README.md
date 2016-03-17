@@ -39,6 +39,7 @@
 * [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle)
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
 * [Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps](https://github.com/dwyl/learn-redux)
+* [React Redux [RU tutorial]](https://maxfarseer.gitbooks.io/redux-course-ru/content)
 
 ---
 
@@ -84,6 +85,7 @@
 * [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1)
 * [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2)
 * [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application)
+* [Redux for the very beginner](http://toranbillups.com/blog/archive/2016/01/22/redux-for-the-very-beginner)
 
 ---
 
@@ -208,6 +210,8 @@
     * [**redux-timeout** - Trigger actions based on timeouts](https://github.com/gpfunk/redux-timeout)
     * [**redux-observable-middleware** - Redux middleware for subscribing to observables](https://github.com/d6u/redux-observable-middleware)
     * [**redux-deferred** - Redux middleware for jQuery Deferred Object](https://github.com/wyvernnot/redux-deferred)
+    * [**redux-task** - A simple Side Effects manager for redux](https://github.com/sskyy/redux-task)
+    * [**redux-gen** - Generator based middleware for redux](https://github.com/weo-edu/redux-gen)
     
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -268,6 +272,8 @@
     * [**redux-test-reducer** - Simple and clean testing mechanism for Redux reducers](https://github.com/amsardesai/redux-test-reducer)
     * [**redux-devtools-inspector** - Another Redux DevTools Monitor](https://github.com/alexkuz/redux-devtools-inspector)
     * [**redux-ava** - Helpers for writing Redux tests in AVA](https://github.com/sotojuan/redux-ava)
+    * [**redux-cli** - An opinionated CLI for building redux/react apps quicker](https://github.com/SpencerCDixon/redux-cli)
+    * [**redux-saga-rxjs** - RxJS implementation of Saga pattern for redux](https://github.com/salsita/redux-saga-rxjs)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
@@ -338,7 +344,7 @@
 
 ### [Vue - A library for building modern web interfaces](http://vuejs.org)
 * Examples
-    * [Revue - Redux binding for Vue](https://github.com/egoist/revue)
+    * [Revue - Redux binding for Vue](https://github.com/revue/revue)
     * [Vue + Redux](https://github.com/yang-wei/vue-flux)
     * [Meteor + Vue + Redux](https://github.com/zhongqf/meteor-vue-redux-example)
 

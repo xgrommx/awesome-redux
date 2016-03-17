@@ -181,3 +181,4 @@
     * [https://github.com/ShMcK/redux-tictactoe](https://github.com/ShMcK/redux-tictactoe)
     * [2048 game - Implemented with React and Redux](https://github.com/dvalchanov/react-redux-2048)
     * [https://github.com/panayi/calculator](https://github.com/panayi/calculator)
+    * [https://github.com/salsita/redux-elm](https://github.com/salsita/redux-elm)
