@@ -39,7 +39,8 @@
 * [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle)
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
 * [Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps](https://github.com/dwyl/learn-redux)
-* [React Redux [RU tutorial]](https://maxfarseer.gitbooks.io/redux-course-ru/content)
+* [React Redux [RU tutorial]](https://maxfarseer.gitbooks.io/redux-course-ru/content/)
+* [Redux without profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html)
 
 ---
 
@@ -86,6 +87,7 @@
 * [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2)
 * [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application)
 * [Redux for the very beginner](http://toranbillups.com/blog/archive/2016/01/22/redux-for-the-very-beginner)
+* [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.3qzodq9t6)
 
 ---
 
