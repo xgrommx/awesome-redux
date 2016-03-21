@@ -88,6 +88,8 @@
 * [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application)
 * [Redux for the very beginner](http://toranbillups.com/blog/archive/2016/01/22/redux-for-the-very-beginner)
 * [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.3qzodq9t6)
+* [Redux - Calling web service asynchronously](http://www.zohaib.me/redux-call-service-async/)
+* [Animating with React, Redux, and d3](http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775)
 
 ---
 
