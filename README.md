@@ -88,6 +88,7 @@
 * [Redux for the very beginner](http://toranbillups.com/blog/archive/2016/01/22/redux-for-the-very-beginner)
 * [Redux - Calling web service asynchronously](http://www.zohaib.me/redux-call-service-async/)
 * [Animating with React, Redux, and d3](http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775)
+* [Build an Image Gallery Using React, Redux and redux-saga](http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga/)
 
 ---
 
