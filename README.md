@@ -2,8 +2,8 @@
 
 > List of repositories which use Redux
 
-## [Redux](https://github.com/rackt/redux)
-## [Documentation of Redux](http://rackt.github.io/redux)
+## [Redux](https://github.com/reactjs/redux)
+## [Documentation of Redux](http://redux.js.org)
 ## [Documentation of Redux(Simple Chinese version)](https://github.com/camsong/redux-in-chinese)
 ## [Unofficial documentation of Redux(Russian version)](https://github.com/rajdee/redux-in-russian) (Work in progress)
 ## [Documentation of Redux(Traditional Chinese version)](http://chentsulin.github.io/redux/index.html)
