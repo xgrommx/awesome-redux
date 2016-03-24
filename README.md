@@ -89,6 +89,9 @@
 * [Redux - Calling web service asynchronously](http://www.zohaib.me/redux-call-service-async/)
 * [Animating with React, Redux, and d3](http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775)
 * [Build an Image Gallery Using React, Redux and redux-saga](http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga/)
+* [Introducing redux-operations](https://medium.com/@matt.krick/introducing-redux-operations-332ab56e468b#.7e30nsxne)
+* [Solving Redux’s shortcoming in 150 LOCs](https://medium.com/@matt.krick/solving-redux-s-shortcoming-in-150-locs-540979ce6cf9#.sw0s478j6)
+* [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.h05vq2uaj)
 
 ---
 
