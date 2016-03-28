@@ -41,6 +41,7 @@
 * [Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps](https://github.com/dwyl/learn-redux)
 * [React Redux [RU tutorial]](https://maxfarseer.gitbooks.io/redux-course-ru/content/)
 * [Redux without profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html)
+* [React and Redux Single Page Applications Resources](https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d#.o66rolp0p)
 
 ---
 
