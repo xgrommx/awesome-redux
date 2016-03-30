@@ -97,7 +97,7 @@
 ---
 
 ### Boilerplate
-* [**redux-webpack-es6-boilerplate** - Redux boilerplate using Webpack / hot module reloading (HMR) / Redux DevTools and ES6 + JSX via Babel](https://github.com/nicksp/redux-webpack-es6-boilerplate)
+* [**redux-webpack-es6-boilerplate** - Thorough Redux boilerplate using Webpack / hot module reloading (HMR) / Redux DevTools / ES6 + JSX via Babel / Test environment / Example app](https://github.com/nicksp/redux-webpack-es6-boilerplate)
 * [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) :metal: :fire:
 * [**mern.io** - Simple full-stack boilerplate to get started with building isomorphic/universal apps, handles api part and also offers a cli to generate the boilerplate](https://github.com/hashnode/mern-starter) :metal: :fire:
 * [**react-redux-starter** - Universal React + Redux with Cordova support and an opinionated directory structure](https://github.com/combine/react-redux-starter)
@@ -219,7 +219,7 @@
     * [**redux-deferred** - Redux middleware for jQuery Deferred Object](https://github.com/wyvernnot/redux-deferred)
     * [**redux-task** - A simple Side Effects manager for redux](https://github.com/sskyy/redux-task)
     * [**redux-gen** - Generator based middleware for redux](https://github.com/weo-edu/redux-gen)
-    
+
 * Tools
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
     * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux)
