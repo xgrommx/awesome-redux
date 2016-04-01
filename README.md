@@ -143,6 +143,7 @@
 * [**Reduxible** - The Fast and Easy way to make a React + Redux apps](https://github.com/Pitzcarraldo/reduxible)
 * [**react-workflow** - A large SPA boilerplate for web development built on top of Facebook's React library,use redux architecture](https://github.com/chen844033231/react-workflow)
 * [**ReacToGo** - A simple ES6 boilerplate with Redux architecture and ImmutableJS: Hot Reload, React UI Comp, Firebase, Router](https://github.com/PBRT/reactogo)
+* [**React/Redux simple CRUD** with persistent state and local async actions (add a manifest file and you get an offline webapp) ](https://github.com/cristianszwarc/react_crud_localStorage)
 * [StarHackIt - An React/Redux Node full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 ---
 
