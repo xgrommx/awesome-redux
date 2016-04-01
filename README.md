@@ -147,6 +147,7 @@
 * [StarHackIt - An React/Redux Node full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 * [React Seed - A barebones scalable directory structure and package.json for facilitating new React + Redux projects. No fat to trim here!](https://github.com/andrewcoelho/react-seed)
 
+---
 
 ### [React Native - A framework for building native apps using React](https://facebook.github.io/react-native)
 * Examples
