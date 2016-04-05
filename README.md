@@ -93,6 +93,8 @@
 * [Introducing redux-operations](https://medium.com/@matt.krick/introducing-redux-operations-332ab56e468b#.7e30nsxne)
 * [Solving Redux’s shortcoming in 150 LOCs](https://medium.com/@matt.krick/solving-redux-s-shortcoming-in-150-locs-540979ce6cf9#.sw0s478j6)
 * [The Anatomy Of A React Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.h05vq2uaj)
+* [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial (Part 2)](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
+* [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
 
 ---
 
@@ -426,6 +428,7 @@ ___
 
 * Java
     * [https://github.com/glung/redux-java](https://github.com/glung/redux-java)
+    * [https://github.com/trikita/jedux](https://github.com/trikita/jedux)
 
 * Swift
     * [https://github.com/ReSwift/reduxSwift](https://github.com/ReSwift/reduxSwift)
