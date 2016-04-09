@@ -99,6 +99,7 @@
 * [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
 * [Complete intro to react](http://btholt.github.io/complete-intro-to-react/)
 * [Recreating Redux — Behind the magic curtain](https://medium.com/@nicktho/recreating-redux-behind-the-magic-curtain-c21edd542c9c#.a93sgufyi)
+* [Let's Build a Redux Powered React Application](https://stormpath.com/blog/build-a-redux-powered-react-application/)
 
 ---
 
