@@ -99,6 +99,9 @@
 * [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
 * [Complete intro to react](http://btholt.github.io/complete-intro-to-react/)
 * [Recreating Redux — Behind the magic curtain](https://medium.com/@nicktho/recreating-redux-behind-the-magic-curtain-c21edd542c9c#.a93sgufyi)
+* [Deep Introduction to Redux - Seriese 1/3](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
+* [Universal Rendering with Redux and React-Router - Seriese 2/3](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
+* [Unit Testing Redux Apps - Seriese 3/3](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 
 ---
 
