@@ -35,6 +35,7 @@
 * [Redux offline docs](https://github.com/paulwittmann/redux-offline-docs)
 * [Flux challenge](https://github.com/staltz/flux-challenge)
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux)
+* [Favesound Redux - SoundCloud Client for Artists](https://github.com/rwieruch/favesound-redux)
 * [Structor - a user interface builder for React](https://github.com/ipselon/structor)
 * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
 * [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle)
@@ -231,6 +232,7 @@
     * [**redux-gen** - Generator based middleware for redux](https://github.com/weo-edu/redux-gen)
 
 * Tools
+    * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder)
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
     * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux)
     * [**redux-tiny-router** - A Router made for Redux, stop using the router as a controller it's just state!](https://github.com/Agamennon/redux-tiny-router)
