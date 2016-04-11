@@ -293,6 +293,7 @@
     * [**redux-ava** - Helpers for writing Redux tests in AVA](https://github.com/sotojuan/redux-ava)
     * [**redux-cli** - An opinionated CLI for building redux/react apps quicker](https://github.com/SpencerCDixon/redux-cli)
     * [**redux-saga-rxjs** - RxJS implementation of Saga pattern for redux](https://github.com/salsita/redux-saga-rxjs)
+    * [**redux-actions-assertions** - Assertions for redux actions testing](https://github.com/dmitry-zaets/redux-actions-assertions)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
