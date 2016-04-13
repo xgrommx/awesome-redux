@@ -154,6 +154,7 @@
 * [**React/Redux simple CRUD** with persistent state and local async actions (add a manifest file and you get an offline webapp) ](https://github.com/cristianszwarc/react_crud_localStorage)
 * [**StarHackIt** - An React/Redux Node full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 * [**React Seed** - A barebones scalable directory structure and package.json for facilitating new React + Redux projects. No fat to trim here!](https://github.com/andrewcoelho/react-seed)
+* [**React/Redux with Auth boilerplate** - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel)] (https://github.com/WapGeaR/react-redux-boilerplate-auth)
 
 ---
 
