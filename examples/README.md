@@ -182,3 +182,6 @@
     * [2048 game - Implemented with React and Redux](https://github.com/dvalchanov/react-redux-2048)
     * [https://github.com/panayi/calculator](https://github.com/panayi/calculator)
     * [https://github.com/salsita/redux-elm](https://github.com/salsita/redux-elm)
+    * [Remember - offline mobile web app](https://github.com/paulhoughton/remember/)
+    * [Solitaire game](https://github.com/pl12133/react-solitaire)
+    * [Soundclound client](https://github.com/rwieruch/favesound-redux)
