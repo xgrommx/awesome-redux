@@ -104,7 +104,7 @@
 * [Deep Introduction to Redux - Seriese 1/3](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 * [Universal Rendering with Redux and React-Router - Seriese 2/3](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 * [Unit Testing Redux Apps - Seriese 3/3](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
-* 
+
 ---
 
 ### Boilerplate
