@@ -177,6 +177,7 @@
     * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise)
     * [**redux-simple-promise** - FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declarations](https://github.com/alanrubin/redux-simple-promise)
     * [**redux-async** - FSA-compliant promise property middleware for Redux](https://github.com/symbiont-io/redux-async)
+    * [**redux-async-queue** - Manage queues of thunk actions](https://github.com/zackargyle/redux-async-queue)
     * [**redux-async-initial-state** - Set initial Redux state asynchronously](https://github.com/KELiON/redux-async-initial-state)
     * [**redux-await** - Manage async redux actions sanely](https://github.com/kolodny/redux-await)
     * [**redux-rx** - RxJS utilities for Redux](https://github.com/acdlite/redux-rx)
