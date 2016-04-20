@@ -201,9 +201,6 @@
     * [**redux-storage** - Persistence layer for redux with flexible backends](https://github.com/michaelcontento/redux-storage)
     * [**redux-pouchdb** - sync store state to pouchdb](https://github.com/vicentedealencar/redux-pouchdb)
     * [**redux-vstack-router** - Helpers to bind vstack-router to redux](https://github.com/vslinko/redux-vstack-router)
-    * [**redux-client-next** - Resolve client promises with redux actions](https://github.com/quirinpa/redux-client-next)
-    * [**redux-next** - Recurse redux actions](https://github.com/quirinpa/redux-next)
-    * [**redux-delay** - Delay redux actions](https://github.com/quirinpa/redux-delay)
     * [**redux-create-store**](https://github.com/phated/redux-create-store)
     * [**redux-batched-subscribe** - Batch calls to subscribe handlers with a custom function, including debouncing or React batched updates.](https://github.com/tappleby/redux-batched-subscribe)
     * [**redux-logger** - Logger middleware for Redux](https://github.com/fcomb/redux-logger)
@@ -385,7 +382,6 @@
 
 ### [Ember - A framework for creating ambitious web applications](http://emberjs.com)
 * Examples
-    * [emberedux](https://github.com/gcollazo/emberedux)
 
 ---
 
