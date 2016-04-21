@@ -236,6 +236,7 @@
     * [**redux-task** - A simple Side Effects manager for redux](https://github.com/sskyy/redux-task)
     * [**redux-gen** - Generator based middleware for redux](https://github.com/weo-edu/redux-gen)
     * [**redux-authentication** - Authentication component for Redux](https://github.com/Jackong/redux-authentication)
+    * [**socket.io-redux** - Redux middleware to emit action via socket.io](https://github.com/sergiodxa/socket.io-redux)
 
 * Tools
     * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder)
