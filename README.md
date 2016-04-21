@@ -46,6 +46,7 @@
 * [Redux without profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html)
 * [React and Redux Single Page Applications Resources](https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d#.o66rolp0p)
 * [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links)
+* [Building the F8 2016 App (Redux, GraphQL, React Native)](http://makeitopen.com/tutorials/building-the-f8-app/planning/)
 
 ---
 
@@ -313,6 +314,7 @@
     * [**Keo** - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as compose, memoize, etc... for free](https://github.com/Wildhoney/Keo)
     * [**plait** - A minimal JavaScript framework for building reactive web components](https://github.com/wildlyinaccurate/plait)
     * [**reactuate** — A React/Redux stack (not a boilerplate!) with a focus on Domain-Driven Design](https://github.com/reactuate/reactuate)
+    * [**meatier** - Like meteor, but meatier](https://github.com/mattkrick/meatier)
 
 ---
 
