@@ -25,6 +25,7 @@
 * [Redux Internals](http://slides.com/vladimirnovick/reduxinternals)
 * [Replacing Angular 1 with React and Redux](http://slides.com/scottprue-2/deck)
 * [A tour on the React ecosystem](http://slides.com/cguedes/a-tour-on-react-ecosystem)
+* [Redux from Twitter hype to production](http://slides.com/jenyaterpil/redux-from-twitter-hype-to-production#/)
 
 ---
 
@@ -234,8 +235,10 @@
     * [**redux-gen** - Generator based middleware for redux](https://github.com/weo-edu/redux-gen)
     * [**redux-authentication** - Authentication component for Redux](https://github.com/Jackong/redux-authentication)
     * [**socket.io-redux** - Redux middleware to emit action via socket.io](https://github.com/sergiodxa/socket.io-redux)
+    * [**redux-catch** - Error catcher middleware for Redux reducers and middlewares](https://github.com/sergiodxa/redux-catch)
 
 * Tools
+    * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
     * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder)
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
     * [**react-router-redux** - Ruthlessly simple bindings to keep react-router and redux in sync](https://github.com/rackt/react-router-redux)
