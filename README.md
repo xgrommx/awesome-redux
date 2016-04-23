@@ -304,6 +304,7 @@
     * [**redux-saga-rxjs** - RxJS implementation of Saga pattern for redux](https://github.com/salsita/redux-saga-rxjs)
     * [**redux-actions-assertions** - Assertions for redux actions testing](https://github.com/dmitry-zaets/redux-actions-assertions)
     * [**redux-duck** - Helper function to create Redux modules using the ducks-modular-redux proposal](https://github.com/sergiodxa/redux-duck)
+    * [**redux-dispatch-cli** - A CLI tool for Redux remote dispatch. Used in remote-redux-devtools](https://github.com/jhen0409/redux-dispatch-cli)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
