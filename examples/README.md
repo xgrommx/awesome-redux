@@ -10,6 +10,7 @@
         * [Hapi + Redux](https://github.com/Newbourne/exp-hapi-redux)
         * [React + Hapi + Redux](https://github.com/stevejhiggs/macgyver/tree/master/clientSideOnly/redux)
         * [Hapi Universal Redux](https://github.com/Luandro/hapi-universal-redux) :metal:
+        * [Universal React + Router + Redux + HN Api](https://github.com/rhrn/universal-react-router-redux)
     * [GraphQL](https://github.com/graphql/graphql-js)
         * [GraphQL + Redux](https://github.com/broucz/threads-redux)
         * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
