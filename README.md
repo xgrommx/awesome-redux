@@ -109,6 +109,7 @@
 * [Universal Rendering with Redux and React-Router - Seriese 2/3](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 * [Unit Testing Redux Apps - Seriese 3/3](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 * [Using Aurelia and Redux together for good times all around](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
+* [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 
 ---
 
@@ -241,6 +242,7 @@
     * [**redux-authentication** - Authentication component for Redux](https://github.com/Jackong/redux-authentication)
     * [**socket.io-redux** - Redux middleware to emit action via socket.io](https://github.com/sergiodxa/socket.io-redux)
     * [**redux-catch** - Error catcher middleware for Redux reducers and middlewares](https://github.com/sergiodxa/redux-catch)
+    * [**redux-elm-middleware** - Elm middleware for redux](https://github.com/stoeffel/redux-elm-middleware)
 
 * Tools
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
@@ -310,6 +312,7 @@
     * [**redux-actions-assertions** - Assertions for redux actions testing](https://github.com/dmitry-zaets/redux-actions-assertions)
     * [**redux-duck** - Helper function to create Redux modules using the ducks-modular-redux proposal](https://github.com/sergiodxa/redux-duck)
     * [**redux-dispatch-cli** - A CLI tool for Redux remote dispatch. Used in remote-redux-devtools](https://github.com/jhen0409/redux-dispatch-cli)
+    * [**redux-immutable-reducer** - Immutable reducer states with Redux](https://github.com/zackargyle/redux-immutable-reducer)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
