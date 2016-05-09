@@ -325,6 +325,8 @@
     * [**plait** - A minimal JavaScript framework for building reactive web components](https://github.com/wildlyinaccurate/plait)
     * [**reactuate** — A React/Redux stack (not a boilerplate!) with a focus on Domain-Driven Design](https://github.com/reactuate/reactuate)
     * [**meatier** - Like meteor, but meatier](https://github.com/mattkrick/meatier)
+    * [**relax** - New generation CMS on top of React, Redux and GraphQL](https://github.com/relax/relax)
+    * [**lovli.js** - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server](https://github.com/flipace/lovli.js)
 
 ---
 
