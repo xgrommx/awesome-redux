@@ -165,6 +165,7 @@
 * [**React Seed** - A barebones scalable directory structure and package.json for facilitating new React + Redux projects. No fat to trim here!](https://github.com/andrewcoelho/react-seed)
 * [**React/Redux with Auth boilerplate** - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel) :fire:] (https://github.com/WapGeaR/react-redux-boilerplate-auth)
 * [**Docker + React/Redux + Node + PostgreSQL** - full stack boilerplate with fully dockerized workflows for development, deployment, testing](https://github.com/Producters/docker-node-react-starter)
+* [**Redux universal boilerplate** - boilerplate for react universal application building on flux architecture based on redux implementation.](https://github.com/ufocoder/redux-universal-boilerplate)
 
 ---
 
