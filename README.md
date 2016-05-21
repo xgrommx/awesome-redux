@@ -186,6 +186,7 @@
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
     * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise)
+    * [**redux-sync-promise** - Middleware for writing asynchronous actions in synchronous style](https://github.com/shanhaichik/redux-sync-promise)
     * [**redux-simple-promise** - FSA-compliant promise middleware for Redux with simple behaviour with minimal boilerplate declarations](https://github.com/alanrubin/redux-simple-promise)
     * [**redux-async** - FSA-compliant promise property middleware for Redux](https://github.com/symbiont-io/redux-async)
     * [**redux-async-queue** - Manage queues of thunk actions](https://github.com/zackargyle/redux-async-queue)
