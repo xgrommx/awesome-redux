@@ -462,6 +462,7 @@ ___
 * Java
     * [https://github.com/glung/redux-java](https://github.com/glung/redux-java)
     * [https://github.com/trikita/jedux](https://github.com/trikita/jedux)
+    * [https://github.com/izumin5210/Droidux](https://github.com/izumin5210/Droidux)
 
 * Swift
     * [https://github.com/ReSwift/reduxSwift](https://github.com/ReSwift/reduxSwift)
