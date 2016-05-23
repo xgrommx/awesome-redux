@@ -179,6 +179,7 @@
     * [react-native-sound-cloud](https://github.com/fraserxu/soundredux-native)
     * [snowflake - mobile app starter: Login, Logout, Reset Password, Update Profile, Hot Reload](https://github.com/bartonhammond/snowflake)
     * [uestc-bbs-react-native - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux](https://github.com/just4fun/uestc-bbs-react-native)
+    * [movies-redux - redux implementation of react-native movies example that is included in react-native source](https://github.com/nara/movies-redux)
 
 ---
 
