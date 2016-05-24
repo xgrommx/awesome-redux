@@ -49,6 +49,7 @@
 * [React and Redux Single Page Applications Resources](https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d#.o66rolp0p)
 * [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links)
 * [Building the F8 2016 App (Redux, GraphQL, React Native)](http://makeitopen.com/tutorials/building-the-f8-app/planning/)
+* [The Elm Architecture in JavaScript](https://github.com/salsita/redux-elm)
 
 ---
 
