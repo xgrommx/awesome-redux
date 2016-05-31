@@ -186,3 +186,4 @@
     * [Remember - offline mobile web app](https://github.com/paulhoughton/remember/)
     * [Solitaire game](https://github.com/pl12133/react-solitaire)
     * [Soundclound client](https://github.com/rwieruch/favesound-redux)
+    * [Bloomery - WebUI for Impala](https://github.com/ufukomer/bloomery)
