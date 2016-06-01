@@ -320,6 +320,7 @@
     * [**redux-dispatch-cli** - A CLI tool for Redux remote dispatch. Used in remote-redux-devtools](https://github.com/jhen0409/redux-dispatch-cli)
     * [**redux-immutable-reducer** - Immutable reducer states with Redux](https://github.com/zackargyle/redux-immutable-reducer)
     * [**redux-bootstrap** - configure React + React-Router + Redux + Immutable.js with one function!](https://github.com/redux-bootstrap/redux-bootstrap)
+    * [**redux-director** - Redux bindings to director router](https://github.com/mandeepbrar/redux-director)
 
 * Frameworks
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
