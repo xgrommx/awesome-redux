@@ -111,7 +111,7 @@
 * [Unit Testing Redux Apps - Seriese 3/3](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 * [Using Aurelia and Redux together for good times all around](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
 * [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
-
+* [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 ---
 
 ### Boilerplate
