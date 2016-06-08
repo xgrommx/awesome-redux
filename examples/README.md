@@ -187,3 +187,4 @@
     * [Solitaire game](https://github.com/pl12133/react-solitaire)
     * [Soundclound client](https://github.com/rwieruch/favesound-redux)
     * [Bloomery - WebUI for Impala](https://github.com/ufukomer/bloomery)
+    * [Redux - Quote Generator](https://github.com/ANich/Redux-QuoteGenerator)
