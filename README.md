@@ -54,6 +54,7 @@
 ---
 
 ### Articles And Tutorials
+* [Building Applications with React and Redux in ES6 on Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6)
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
 * [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4)
