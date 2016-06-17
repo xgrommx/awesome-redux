@@ -252,6 +252,7 @@
     * [**redux-catch** - Error catcher middleware for Redux reducers and middlewares](https://github.com/sergiodxa/redux-catch)
     * [**redux-elm-middleware** - Elm middleware for redux](https://github.com/stoeffel/redux-elm-middleware)
     * [**redux-api-middleware** - Redux API middleware based on the real-world example](https://github.com/agraboso/redux-api-middleware)
+    * [**redux-mediaquery** - Redux ActionCreator to put responsive-design breakpoints in your store](https://github.com/Yaska/redux-mediaquery)
 
 * Tools
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
