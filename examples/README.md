@@ -29,6 +29,7 @@
     * [Trivia game](https://github.com/gtfiorentino/you-know-it)
     * [Git Watch (Node webkit + Redux)](https://github.com/Dean177/git-watch)
     * [Firebase + Redux](https://github.com/lab-coop/peerReview)
+    * [**Brainfock** - a big React/Redux/Nodejs project management and Wiki engine](https://github.com/brainfock/brainfock)
     * [Dashboard](https://github.com/westhouseproject/westhouse-dashboard)
     * [Snowblind game](https://github.com/SiCurious/snowblind)
     * [Official example (Counter)](https://github.com/gaearon/redux/tree/master/examples/counter)
