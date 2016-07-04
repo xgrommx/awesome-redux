@@ -326,6 +326,7 @@
     * [**redux-immutable-reducer** - Immutable reducer states with Redux](https://github.com/zackargyle/redux-immutable-reducer)
     * [**redux-bootstrap** - configure React + React-Router + Redux + Immutable.js with one function!](https://github.com/redux-bootstrap/redux-bootstrap)
     * [**redux-director** - Redux bindings to director router](https://github.com/mandeepbrar/redux-director)
+    * [**redux-q** - Provides a way to queue callbacks until an action is dispatched](https://github.com/ConciergeAuctions/redux-q)
 
 * Frameworks
     * [**dva** - Front-end framework based on react, redux, react-redux, react-router and redux-saga.](https://github.com/sorrycc/dva)
