@@ -113,6 +113,7 @@
 * [Using Aurelia and Redux together for good times all around](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
 * [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+* [Building Angular 2 applications with Immutable.js and Redux](http://houssein.me/redux/immutablejs/angular2/2016/07/04/angular2-with-immutablejs-and-redux.html)
 ---
 
 ### Boilerplate
@@ -394,6 +395,7 @@
 ### [Angular 2 - One framework. Mobile and desktop](https://angular.io/)
 * Examples
     * [angular2-redux-example - Example project for using pure Redux with Angular 2 and TypeScript](https://github.com/InfomediaLtd/angular2-redux-example)
+    * [angular2-redux-contact-list - Simple contact list built with Angular 2, Immutable.js and Redux](https://github.com/hdjirdeh/angular2-redux-contact-list)
     * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
     * [angular2-redux - Wrapper components for using Redux in an Angular2 application](https://github.com/InfomediaLtd/angular2-redux)
     * [ng2redux - Angular 2 bindings for Redux implemented with TypeScript and decorators](https://github.com/forforeach/ng2redux)
