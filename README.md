@@ -113,6 +113,7 @@
 * [Using Aurelia and Redux together for good times all around](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
 * [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
 ---
 
 ### Boilerplate
@@ -171,6 +172,7 @@
 * [**React Redux Universal Boilerplate** - An Universal ReactJS/Redux Boilerplate.](https://github.com/kiki-le-singe/react-redux-universal-boilerplate)
 * [**react-hot-redux-firebase-starter** - Starter boilerplate for using React/Redux with Firebase 3.0 API, include the new React Hot Loader 3.0 :fire:](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
 * [**React Redux Firebase Boilerplate** - Designed for quickly spin up your apps with Firebase, using bunch of awesome new front-end technologies includes webpack build system, hot reloading, routing & sass support. :fire:](https://github.com/btomashvili/react-redux-firebase-boilerplate)
+* [**React Universal Saga** - Universal React Starter Kit ft. Redux Saga](https://github.com/xkawi/react-universal-saga)
 
 ---
 
