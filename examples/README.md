@@ -189,3 +189,4 @@
     * [Soundclound client](https://github.com/rwieruch/favesound-redux)
     * [Bloomery - WebUI for Impala](https://github.com/ufukomer/bloomery)
     * [Redux - Quote Generator](https://github.com/ANich/Redux-QuoteGenerator)
+    * [kea-example - Well-readable, self-documenting and easily refactorable framework that brings your data to life! Comes with scaffolding tools](https://github.com/mariusandra/kea-example) :bird:
