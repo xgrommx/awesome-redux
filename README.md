@@ -192,6 +192,9 @@
 ---
 
 ### [React - A JavaScript library for building user interfaces](http://facebook.github.io/react)
+* Containers
+    * [**reapop** - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+    
 * Middlewares
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
