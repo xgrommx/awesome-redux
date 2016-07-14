@@ -177,7 +177,7 @@
     * [https://github.com/LOLQueen/front-end](https://github.com/LOLQueen/front-end)
     * [Mortgage overpayment calculator using D3.js](https://github.com/paulhoughton/mortgage)
     * [Electronic Circuit Simulator with React-Art](https://github.com/circuitsim/circuit-simulator)
-    * [Todo app example with Firebase, OAuth, and undelete](https://github.com/r-park/todo-react-redux)
+    * [Todo app example with Redux, Firebase, OAuth, and undelete](https://github.com/r-park/todo-react-redux)
     * [Simple Redux examples: router5, react, deku, react-router, webpack, react-transform](https://github.com/StevenIseki/redux-examples)
     * [SQLECTRON - SQL client gui/terminal based interface with cross database and platform support: Redux, React, Blessed](https://github.com/sqlectron)
     * [https://github.com/ShMcK/redux-tictactoe](https://github.com/ShMcK/redux-tictactoe)
@@ -190,3 +190,4 @@
     * [Bloomery - WebUI for Impala](https://github.com/ufukomer/bloomery)
     * [Redux - Quote Generator](https://github.com/ANich/Redux-QuoteGenerator)
     * [kea-example - Well-readable, self-documenting and easily refactorable framework that brings your data to life! Comes with scaffolding tools](https://github.com/mariusandra/kea-example) :bird:
+    * [Todo app example with Redux, Redux-Saga, Firebase, OAuth](https://github.com/r-park/todo-redux-saga)
