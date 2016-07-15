@@ -113,6 +113,7 @@
 * [Using Aurelia and Redux together for good times all around](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
 * [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+* [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux)
 
 ---
 
@@ -173,6 +174,7 @@
 * [**react-hot-redux-firebase-starter** - Starter boilerplate for using React/Redux with Firebase 3.0 API, include the new React Hot Loader 3.0 :fire:](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
 * [**React Redux Firebase Boilerplate** - Designed for quickly spin up your apps with Firebase, using bunch of awesome new front-end technologies includes webpack build system, hot reloading, routing & sass support. :fire:](https://github.com/btomashvili/react-redux-firebase-boilerplate)
 * [**React Universal Saga** - Universal React Starter Kit ft. Redux Saga](https://github.com/xkawi/react-universal-saga)
+* [**React Redux SoundCloud Client** - Seed Project for a SoundCloud Client with working Login + Extension Seed Projects](https://github.com/rwieruch/react-redux-soundcloud)
 
 ---
 
@@ -194,7 +196,7 @@
 ### [React - A JavaScript library for building user interfaces](http://facebook.github.io/react)
 * Containers
     * [**reapop** - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
-    
+
 * Middlewares
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
