@@ -115,6 +115,8 @@
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux)
 * [深入浅出 Redux](https://github.com/berwin/Blog/issues/4)
+* [Life With React and Redux](https://makers.airware.com/engineering/life-with-react-and-redux/)
+* [Testing Your First Redux App](https://makers.airware.com/engineering/testing-your-first-redux-app/)
 
 ---
 
