@@ -114,6 +114,7 @@
 * [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux)
+* [深入浅出 Redux](https://github.com/berwin/Blog/issues/4)
 
 ---
 
