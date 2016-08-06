@@ -54,6 +54,7 @@
 ---
 
 ### Articles And Tutorials
+* [Building Applications with React and Redux in ES6 on Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6)
 * [Writing a Basic App in Redux](http://davidandsuzi.com/writing-a-basic-app-in-redux)
 * [Learn how to use Redux step by step](https://github.com/happypoulp/redux-tutorial)
 * [Tutorial: Handcrafting an Isomorphic Redux Application (With Love)](https://medium.com/@bananaoomarang/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4)
@@ -111,6 +112,9 @@
 * [Unit Testing Redux Apps - Seriese 3/3](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 * [Using Aurelia and Redux together for good times all around](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
 * [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
+* [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+* [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux)
+* [深入浅出 Redux](https://github.com/berwin/Blog/issues/4)
 
 ---
 
@@ -167,6 +171,11 @@
 * [**React/Redux with Auth boilerplate** - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel) :fire:] (https://github.com/WapGeaR/react-redux-boilerplate-auth)
 * [**Docker + React/Redux + Node + PostgreSQL** - full stack boilerplate with fully dockerized workflows for development, deployment, testing](https://github.com/Producters/docker-node-react-starter)
 * [**Redux universal boilerplate** - boilerplate for react universal application building on flux architecture based on redux implementation.](https://github.com/ufocoder/redux-universal-boilerplate)
+* [**React Redux Universal Boilerplate** - An Universal ReactJS/Redux Boilerplate.](https://github.com/kiki-le-singe/react-redux-universal-boilerplate)
+* [**react-hot-redux-firebase-starter** - Starter boilerplate for using React/Redux with Firebase 3.0 API, include the new React Hot Loader 3.0 :fire:](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
+* [**React Redux Firebase Boilerplate** - Designed for quickly spin up your apps with Firebase, using bunch of awesome new front-end technologies includes webpack build system, hot reloading, routing & sass support. :fire:](https://github.com/btomashvili/react-redux-firebase-boilerplate)
+* [**React Universal Saga** - Universal React Starter Kit ft. Redux Saga](https://github.com/xkawi/react-universal-saga)
+* [**React Redux SoundCloud Client** - Seed Project for a SoundCloud Client with working Login + Extension Seed Projects](https://github.com/rwieruch/react-redux-soundcloud)
 
 ---
 
@@ -181,10 +190,14 @@
     * [snowflake - mobile app starter: Login, Logout, Reset Password, Update Profile, Hot Reload](https://github.com/bartonhammond/snowflake)
     * [uestc-bbs-react-native - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux](https://github.com/just4fun/uestc-bbs-react-native)
     * [movies-redux - redux implementation of react-native movies example that is included in react-native source](https://github.com/nara/movies-redux)
+    * [react-native-redux-todo-list - A sample todo list app developed by using react-native and redux](https://github.com/uiheros/react-native-redux-todo-list)
 
 ---
 
 ### [React - A JavaScript library for building user interfaces](http://facebook.github.io/react)
+* Containers
+    * [**reapop** - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+
 * Middlewares
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
@@ -247,6 +260,8 @@
     * [**socket.io-redux** - Redux middleware to emit action via socket.io](https://github.com/sergiodxa/socket.io-redux)
     * [**redux-catch** - Error catcher middleware for Redux reducers and middlewares](https://github.com/sergiodxa/redux-catch)
     * [**redux-elm-middleware** - Elm middleware for redux](https://github.com/stoeffel/redux-elm-middleware)
+    * [**redux-api-middleware** - Redux API middleware based on the real-world example](https://github.com/agraboso/redux-api-middleware)
+    * [**redux-mediaquery** - Redux ActionCreator to put responsive-design breakpoints in your store](https://github.com/Yaska/redux-mediaquery)
 
 * Tools
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
@@ -317,8 +332,12 @@
     * [**redux-duck** - Helper function to create Redux modules using the ducks-modular-redux proposal](https://github.com/sergiodxa/redux-duck)
     * [**redux-dispatch-cli** - A CLI tool for Redux remote dispatch. Used in remote-redux-devtools](https://github.com/jhen0409/redux-dispatch-cli)
     * [**redux-immutable-reducer** - Immutable reducer states with Redux](https://github.com/zackargyle/redux-immutable-reducer)
+    * [**redux-bootstrap** - configure React + React-Router + Redux + Immutable.js with one function!](https://github.com/redux-bootstrap/redux-bootstrap)
+    * [**redux-director** - Redux bindings to director router](https://github.com/mandeepbrar/redux-director)
+    * [**redux-q** - Provides a way to queue callbacks until an action is dispatched](https://github.com/ConciergeAuctions/redux-q)
 
 * Frameworks
+    * [**dva** - Front-end framework based on react, redux, react-redux, react-router and redux-saga.](https://github.com/sorrycc/dva)
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
     * [**Esex** - Full-stack Universal JavaScript Framework (Redux+RxJs)](https://github.com/esex/esex)
     * [**Ripster**](https://github.com/vslinko/ripster)
@@ -331,6 +350,8 @@
     * [**meatier** - Like meteor, but meatier](https://github.com/mattkrick/meatier)
     * [**relax** - New generation CMS on top of React, Redux and GraphQL](https://github.com/relax/relax)
     * [**lovli.js** - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server](https://github.com/flipace/lovli.js)
+    * [**kea** - Well-readable, self-documenting and easily refactorable framework that brings your data to life! Comes with scaffolding tools](https://github.com/mariusandra/kea-logic) :bird:
+    * [**Feeble** - A framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.](https://github.com/tianche/feeble)
 
 ---
 
