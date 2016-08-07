@@ -85,7 +85,6 @@
     * [panels-runtime](https://github.com/UXtemple/panels-runtime)
     * [An implementation of TodoMVC using React, Redux, React-Router, and more!](https://github.com/tough-griff/redux-react-router-todomvc)
     * [tst](https://github.com/lafaulx/tst)
-    * [timerrrs](https://github.com/amorphius/timerrrs)
     * [testing](https://github.com/badtant/testing)
     * [app](https://github.com/SamMargalit/app)
     * [web](https://github.com/aopdex/web)
