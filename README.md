@@ -431,7 +431,7 @@
 ### [Polymer - Build modern apps using web components](https://www.polymer-project.org)
 * Examples
     * [polymer-redux](https://github.com/tur-nr/polymer-redux)
-    * [polymer-redux-store](https://github.com/lastmjs/polymer-redux-store)
+    * [redux-store-element](https://github.com/lastmjs/redux-store-element)
 
 ---
 
