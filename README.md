@@ -260,6 +260,7 @@
     * [**redux-either** - FSA-compliant either monad middleware for redux](https://github.com/stoeffel/redux-either)
     * [**redux-timeout** - Trigger actions based on timeouts](https://github.com/gpfunk/redux-timeout)
     * [**redux-observable-middleware** - Redux middleware for subscribing to observables](https://github.com/d6u/redux-observable-middleware)
+    * [**redux-observable** - RxJS 5-based middleware for Redux. Compose and cancel actions as epics.](https://github.com/redux-observable/redux-observable)
     * [**redux-deferred** - Redux middleware for jQuery Deferred Object](https://github.com/wyvernnot/redux-deferred)
     * [**redux-task** - A simple Side Effects manager for redux](https://github.com/sskyy/redux-task)
     * [**redux-gen** - Generator based middleware for redux](https://github.com/weo-edu/redux-gen)
