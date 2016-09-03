@@ -124,7 +124,7 @@
 ---
 
 ### Boilerplate
-* [**redux-webpack-es6-boilerplate** - Thorough Redux boilerplate using Webpack / hot module reloading (HMR) / Redux DevTools / ES6 + JSX via Babel / Test environment / Example app](https://github.com/nicksp/redux-webpack-es6-boilerplate)
+* [**Modern and Scalable React/Redux Boilerplate** - Flexible starter kit using Webpack 2 (tree-shaking) / React Hot Loader v3 / Code Splitting for React Router / PostCSS / CSS Modules / custom *Ducks pattern* app architecture / best practices / Sentry error tracking / Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate) :rocket:
 * [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) :metal: :fire:
 * [**mern.io** - Simple full-stack boilerplate to get started with building isomorphic/universal apps, handles api part and also offers a cli to generate the boilerplate](https://github.com/hashnode/mern-starter) :metal: :fire:
 * [**react-redux-starter** - Universal React + Redux with Cordova support and an opinionated directory structure](https://github.com/combine/react-redux-starter)
