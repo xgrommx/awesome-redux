@@ -291,7 +291,7 @@
     * [**redux-form** - An ES7 decorator for forms using Redux and React](https://github.com/erikras/redux-form)
     * [**redux-form-validation** - Form validation for controlled & uncontrolled inputs](https://github.com/posabsolute/redux-form-validator)
     * [**simple-redux-form** - A tiny redux-form alternative Higher Order Component for forms](https://github.com/mihirsoni/simple-redux-form).
-    * [**https://github.com/calesce/redux-slider-monitor](https://github.com/calesce/redux-slider-monitor)
+    * [**redux-slider-monitor** - A custom monitor for Redux DevTools to replay recorded Redux actions](https://github.com/calesce/redux-slider-monitor)
     * [**updeep** - Easily update nested frozen objects and arrays in a declarative and immutable manner](https://github.com/substantial/updeep)
     * [**redux-immutable** - Streamlines use of Immutable.js with Redux reducers.](https://github.com/gajus/redux-immutable)
     * [**redux-import-export-monitor** - A monitor for copying your serialized action log to the clipboard, as well as pasting it in from somewhere else](https://github.com/lapanoid/redux-import-export-monitor)
