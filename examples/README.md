@@ -191,3 +191,4 @@
     * [kea-example - Well-readable, self-documenting and easily refactorable framework that brings your data to life! Comes with scaffolding tools](https://github.com/mariusandra/kea-example) :bird:
     * [Todo app example with Redux, Redux-Saga, Firebase, OAuth](https://github.com/r-park/todo-redux-saga)
     * [Do - Notes management application](https://github.com/1ven/do)
+    * [SoundCloud API client with React, Redux and Redux-Saga](https://github.com/r-park/soundcloud-redux)
