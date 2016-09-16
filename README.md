@@ -345,6 +345,7 @@
     * [**redux-director** - Redux bindings to director router](https://github.com/mandeepbrar/redux-director)
     * [**redux-q** - Provides a way to queue callbacks until an action is dispatched](https://github.com/ConciergeAuctions/redux-q)
     * [**redux-apist** - Creator API actions for redux-thunk](https://github.com/exeto/redux-apist)
+    * [**reswitch** — Write reducers with less boilerplate](https://github.com/chiefGui/reswitch)
 
 * Frameworks
     * [**dva** - Front-end framework based on react, redux, react-redux, react-router and redux-saga.](https://github.com/sorrycc/dva)
