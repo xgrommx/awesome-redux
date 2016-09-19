@@ -41,6 +41,7 @@
 * [Structor - a user interface builder for React](https://github.com/ipselon/structor)
 * [generator-redux - CLI tools for Redux: next-gen functional Flux/React with devtools](https://github.com/banderson/generator-redux)
 * [generator-reactapp - Yeoman generator for react app with redux](https://github.com/Jackong/generator-reactapp)
+* [Rekit - Toolkit for building scalable web apps with React, Redux and React-router](http://rekit.js.org)
 * [Spectacle - ReactJS based Presentation Library](https://github.com/FormidableLabs/spectacle)
 * [Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
 * [Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps](https://github.com/dwyl/learn-redux)
