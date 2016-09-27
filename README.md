@@ -173,6 +173,7 @@
 * [**react-hot-redux-firebase-starter** - Starter boilerplate for using React/Redux with Firebase 3.0 API, include the new React Hot Loader 3.0 :fire:](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
 * [**React Redux Firebase Boilerplate** - Designed for quickly spin up your apps with Firebase, using bunch of awesome new front-end technologies includes webpack build system, hot reloading, routing & sass support. :fire:](https://github.com/btomashvili/react-redux-firebase-boilerplate)
 * [**React Universal Saga** - Universal React Starter Kit ft. Redux Saga](https://github.com/xkawi/react-universal-saga)
+* [**React Universal Saga Modular** - Universal & Modular React Kit ft. Redux Saga](https://github.com/xkawi/react-universal-saga-modular)
 
 ---
 
