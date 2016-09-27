@@ -473,10 +473,16 @@ ___
 * Examples
     * [riotredux-budget](https://github.com/remyhonig/riotredux-budget)
     * [app-skeleton](https://github.com/zesty-io/app-skeleton)
+
 ___
 
 ### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate)
+
+___
+
+### [A-Frame - A web framework for building VR experiences](https://aframe.io)
+* [aframe-redux-component](https://github.com/ngokevin/kframe/tree/master/components/redux)
 
 ___
 
