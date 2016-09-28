@@ -121,6 +121,7 @@
 * [Improving React and Redux performance with Reselect](http://blog.rangle.io/react-and-redux-performance-with-reselect/)
 * [Recipes for Redux](http://blog.rangle.io/recipes-for-redux/)
 * [Getting Started with Redux & Angular 2](http://blog.rangle.io/getting-started-with-redux-and-angular-2/)
+* [Universal/Isomorphic React+Redux on a Swift Web Backend](https://el-tramo.be/blog/react-swift/)
 
 ---
 
