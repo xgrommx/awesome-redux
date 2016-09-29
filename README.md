@@ -126,7 +126,7 @@
 ---
 
 ### Boilerplate
-* [**react-cool-starter** - 😎 A starter boilerplate for an universal web app with the best development experience and a focus on performance and best practices.](https://github.com/wellyshen/react-cool-starter)
+* [**react-cool-starter** - 😎 A starter boilerplate for an universal web app with the best development experience and a focus on performance and best practices. :metal: 🔥](https://github.com/wellyshen/react-cool-starter)
 * [**Modern and Scalable React/Redux Boilerplate** - Flexible starter kit using Webpack 2 (tree-shaking) / React Hot Loader v3 / Code Splitting for React Router / PostCSS / CSS Modules / custom *Ducks pattern* app architecture / best practices / Sentry error tracking / Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate) :rocket:
 * [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) :metal: :fire:
 * [**mern.io** - Simple full-stack boilerplate to get started with building isomorphic/universal apps, handles api part and also offers a cli to generate the boilerplate](https://github.com/hashnode/mern-starter) :metal: :fire:
