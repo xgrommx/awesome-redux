@@ -19,6 +19,7 @@
 * [Hot Reload](https://github.com/gaearon/react-transform-hmr) - :fire:
 
 ### Presentations
+* [Let's learn React and Redux with Javascript's new ES6 syntax, from Beginner to Intermediate to Advanced.](https://www.youtube.com/watch?v=d0oUGmSE6IY&list=PLJBrYU54JD2pTblB20OmV7GL6H5J-p2g8)
 * [A introduction about Redux](https://github.com/chentsulin/redux-intro)
 * [Real World Redux](https://speakerdeck.com/chrisui/real-world-redux)
 * [The power of higher-order reducers](http://slides.com/omnidan/hor)
@@ -126,6 +127,7 @@
 ---
 
 ### Boilerplate
+* [**redux-minimal** - Minimalist react-redux starter kit which let's you build rich real world apps](http://redux-minimal.js.org/)
 * [**Modern and Scalable React/Redux Boilerplate** - Flexible starter kit using Webpack 2 (tree-shaking) / React Hot Loader v3 / Code Splitting for React Router / PostCSS / CSS Modules / custom *Ducks pattern* app architecture / best practices / Sentry error tracking / Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate) :rocket:
 * [**react-production-starter** - React boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting.](https://github.com/jaredpalmer/react-production-starter) :metal: :fire:
 * [**mern.io** - Simple full-stack boilerplate to get started with building isomorphic/universal apps, handles api part and also offers a cli to generate the boilerplate](https://github.com/hashnode/mern-starter) :metal: :fire:
