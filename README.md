@@ -383,6 +383,7 @@
    * [**understate** - A simple state manager](https://github.com/johnhenry/understate)
    * [**refer** - Redux-like library for handling global state on functional style](https://github.com/Lucifier129/refer)
    * [**bobflux** - Bobflux is pure functional implementation of FLUX pattern and is fitted to Bobril](https://github.com/karelsteinmetz/bobflux)
+   * [**mobx** - Simple, scalable state management](https://github.com/mobxjs/mobx)
 
 ---
 
