@@ -353,6 +353,8 @@
     * [**redux-autoform** - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
 
 * Frameworks
+    * [**Jumpsuit** - A powerful & efficient React framework. Jump in. Zip up. Build great apps.](https://github.com/jumpsuit/jumpsuit)
+    * [**Jumpstate** - Simple and powerful state management for Redux](https://github.com/jumpsuit/jumpstate)
     * [**dva** - Front-end framework based on react, redux, react-redux, react-router and redux-saga.](https://github.com/sorrycc/dva)
     * [**Vdux** - World's smallest framework.  Stateless Virtual DOM <-> Redux](https://github.com/ashaffer/vdux)
     * [**Esex** - Full-stack Universal JavaScript Framework (Redux+RxJs)](https://github.com/esex/esex)
