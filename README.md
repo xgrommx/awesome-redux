@@ -351,6 +351,7 @@
     * [**redux-apist** - Creator API actions for redux-thunk](https://github.com/exeto/redux-apist)
     * [**reswitch** — Write reducers with less boilerplate](https://github.com/chiefGui/reswitch)
     * [**redux-autoform** - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
+    * [**redux-ship** - Composable, testable and typable side effects](https://github.com/clarus/redux-ship)
 
 * Frameworks
     * [**Jumpsuit** - A powerful & efficient React framework. Jump in. Zip up. Build great apps.](https://github.com/jumpsuit/jumpsuit)
