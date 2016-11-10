@@ -369,6 +369,7 @@
     * [**kea** - Well-readable, self-documenting and easily refactorable framework that brings your data to life! Comes with scaffolding tools](https://github.com/mariusandra/kea-logic) :bird:
     * [**Feeble** - A framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.](https://github.com/tianche/feeble)
     * [**Conventional-Redux** - A wrapper for react-redux which provides API based on convention over configuration pattern.](https://github.com/mjaneczek/conventional-redux)
+    * [**redux-react-i18n** - An i18n solution for redux/react✌🏿✊🏽🤘🏻](https://github.com/derzunov/redux-react-i18n)
 
 ---
 
