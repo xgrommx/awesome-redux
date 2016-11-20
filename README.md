@@ -11,6 +11,7 @@
 ## [Documentation of Redux(Portuguese version)](https://github.com/franzejr/redux-in-portuguese/) (Work in progress)
 ## [Documentation of Redux(Spanish version)](https://sergiodxa.gitbooks.io/redux-en-espanol/content/) (Work in progress)
 ## [Documentation of Redux(Korean version)](http://dobbit.github.io/redux/)
+## [Documentation of Redux(Sinhala|සිංහල version)](https://sandaruny.github.io/redux-sin/) (Work in progress)
 
 > Predictable state container for JavaScript apps
 
