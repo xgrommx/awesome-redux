@@ -211,6 +211,7 @@
     * [**reapop** - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
 * Middlewares
+    * [**redux-reporter** - Report actions & metadata to 3rd party providers, extremely useful for analytics and error handling (New Relic, Sentry, Adobe DTM, Keen, etc.)](https://github.com/ezekielchentnik/redux-reporter)
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
     * [**redux-actions** - Flux Standard Action utilities for Redux](https://github.com/acdlite/redux-actions)
     * [**redux-promise** - FSA-compliant promise middleware for Redux](https://github.com/acdlite/redux-promise)
