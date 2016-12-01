@@ -90,7 +90,7 @@
 * [Getting started with Redux and GraphQL](https://medium.com/@thisbejim/getting-started-with-redux-and-graphql-8384b3b25c56#.3anuh1m7x)
 * [Data Flows with Angular 2 and Redux](http://www.sitepoint.com/data-flows-angular-2-redux)
 * [Simple Routing with Redux and React](http://jamesknelson.com/simple-routing-redux-react)
-* [Redux nowadays : From actions creators to sagas](http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded)
+* [Redux nowadays : From actions creators to sagas](https://riadbenguella.com/2015/12/28/redux-nowadays-from-actions-creators-to-sagas/)
 * [Master Complex Redux Workflows with Sagas](http://konkle.us/master-complex-redux-workflows-with-sagas)
 * [Angular 2 Application Architecture - Building Flux Apps with Redux and Immutable.js](http://blog.jhades.org/angular-2-application-architecture-building-flux-like-apps-using-redux-and-immutable-js-js)
 * [React, Redux and Immutable.js: Ingredients for Efficient Web Applications](http://www.toptal.com/react/react-redux-and-immutablejs)
