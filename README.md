@@ -124,6 +124,8 @@
 * [Getting Started with Redux & Angular 2](http://blog.rangle.io/getting-started-with-redux-and-angular-2/)
 * [Universal/Isomorphic React+Redux on a Swift Web Backend](https://el-tramo.be/blog/react-swift/)
 * [Creating Reusable React-Redux Components Through Scoping](http://engineering.datadoghq.com/redux-doghouse--creating-reusable-react-redux-components-through-scoping/)
+* [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
+* [书籍：《React 与 Redux 开发实例精解》](https://github.com/lewis617/react-redux-book)
 
 ---
 
@@ -188,6 +190,7 @@
 * [**React Redux SoundCloud Client** - Seed Project for a SoundCloud Client with working Login + Extension Seed Projects](https://github.com/rwieruch/react-redux-soundcloud)
 * [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
 * [**angular2-redux-contact-list** - Simple contact list built with Angular 2, Immutable.js and Redux](https://github.com/hdjirdeh/angular2-redux-contact-list)
+* [**react-redux-seed** - 使用 React 与 Redux 实现 Universal 渲染的种子工程](https://github.com/lewis617/react-redux-seed)
 
 ---
 
@@ -276,7 +279,8 @@
     * [**redux-elm-middleware** - Elm middleware for redux](https://github.com/stoeffel/redux-elm-middleware)
     * [**redux-api-middleware** - Redux API middleware based on the real-world example](https://github.com/agraboso/redux-api-middleware)
     * [**redux-mediaquery** - Redux ActionCreator to put responsive-design breakpoints in your store](https://github.com/Yaska/redux-mediaquery)
-
+    * [**redux-amrc** - Redux async middleware and reducer creator](https://github.com/lewis617/redux-amrc)
+    
 * Tools
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
     * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder)
