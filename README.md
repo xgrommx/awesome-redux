@@ -125,7 +125,7 @@
 * [Universal/Isomorphic React+Redux on a Swift Web Backend](https://el-tramo.be/blog/react-swift/)
 * [Creating Reusable React-Redux Components Through Scoping](http://engineering.datadoghq.com/redux-doghouse--creating-reusable-react-redux-components-through-scoping/)
 * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
-* [书籍：《React 与 Redux 开发实例精解》](https://github.com/lewis617/react-redux-book)
+* [书籍：《React 与 Redux 开发实例精解》](https://lewis617.github.io/2016/11/20/r2-book/)
 
 ---
 
