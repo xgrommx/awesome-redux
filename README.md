@@ -191,6 +191,7 @@
 * [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
 * [**angular2-redux-contact-list** - Simple contact list built with Angular 2, Immutable.js and Redux](https://github.com/hdjirdeh/angular2-redux-contact-list)
 * [**react-redux-seed** - 使用 React 与 Redux 实现 Universal 渲染的种子工程](https://github.com/lewis617/react-redux-seed)
+* [**ARc** - A progressive React starter kit based on Atomic Design with redux, redux-saga and redux-form](https://arc.js.org)
 
 ---
 
