@@ -483,6 +483,7 @@
 ### [Aurelia - is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity](http://aurelia.io)
 * Examples
     * [aurelia-redux-todo - An implementation of the Redux todo demo app using Aurelia](https://github.com/voidberg/aurelia-redux-todo)
+    * [Managing State in Aurelia: How to Use Aurelia with Redux](https://www.sitepoint.com/managing-state-aurelia-with-redux/)
 
 ___
 
