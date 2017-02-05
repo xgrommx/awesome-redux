@@ -434,7 +434,7 @@
 ### [Angular 2 - One framework. Mobile and desktop](https://angular.io/)
 * Examples
     * [angular2-redux-example - Example project for using pure Redux with Angular 2 and TypeScript](https://github.com/InfomediaLtd/angular2-redux-example)
-    * [ng2-redux - Angular 2 bindings for Redux](https://github.com/wbuchwalter/ng2-redux)
+    * [@angular-redux/store - Angular 2 bindings for Redux](https://github.com/angular-redux/store)
     * [angular2-redux - Wrapper components for using Redux in an Angular2 application](https://github.com/InfomediaLtd/angular2-redux)
     * [ng2redux - Angular 2 bindings for Redux implemented with TypeScript and decorators](https://github.com/forforeach/ng2redux)
 
