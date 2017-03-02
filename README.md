@@ -364,6 +364,8 @@
     * [**reswitch** — Write reducers with less boilerplate](https://github.com/chiefGui/reswitch)
     * [**redux-autoform** - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
     * [**redux-ship** - Composable, testable and typable side effects](https://github.com/clarus/redux-ship)
+    * [**entman** - A simple library to manage normalizr entities in a Redux store](https://github.com/Drawbotics/entman)
+
 
 * Frameworks
     * [**Jumpsuit** - A powerful & efficient React framework. Jump in. Zip up. Build great apps.](https://github.com/jumpsuit/jumpsuit)
@@ -385,7 +387,6 @@
     * [**Feeble** - A framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.](https://github.com/tianche/feeble)
     * [**Conventional-Redux** - A wrapper for react-redux which provides API based on convention over configuration pattern.](https://github.com/mjaneczek/conventional-redux)
     * [**redux-react-i18n** - An i18n solution for redux/react✌🏿✊🏽🤘🏻](https://github.com/derzunov/redux-react-i18n)
-    * [**entman** - A simple library to manage normalizr entities in a Redux store](https://github.com/Drawbotics/entman)
 
 ---
 
