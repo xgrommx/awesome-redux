@@ -127,7 +127,7 @@
 * [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 * [书籍：《React 与 Redux 开发实例精解》](https://lewis617.github.io/2016/11/20/r2-book/)
 * [How to use Redux on highly scalable javascript applications?](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.irwibmm9a)
-
+* [Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux)
 ---
 
 ### Boilerplate
