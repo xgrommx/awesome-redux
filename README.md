@@ -258,6 +258,7 @@
     * [**redux-act** - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
     * [**redux-act-async** - Reducing boilerplate when creating asynchronous actions in Redux](https://github.com/FredericHeem/redux-act-async)
     * [**redux-raven-middleware** - Redux middleware for sending error reports to Sentry through raven-js](https://github.com/ngokevin/redux-raven-middleware)
+    * [**redux-raven-middleware** - Redux middleware for sending error reports along with persisted data as payload to Sentry through raven-js](https://github.com/rishantagarwal/react-redux-persist-sentry-middleware)
     * [**redux-routing** - Universal routing built on top of redux](https://github.com/callum/redux-routing)
     * [**redux-undo** - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
     * [**rn-redux-mixpanel** - Configurable Redux middleware that sends your actions & user profile data to Mixpanel](https://github.com/danscan/rn-redux-mixpanel)
