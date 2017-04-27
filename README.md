@@ -299,6 +299,7 @@
     * [**generator-reactapp** - Yeoman generator for react app with redux](https://github.com/Jackong/generator-reactapp)
     * [**generator-redux-app** - Scaffold out a redux app with counter example and react-router](https://github.com/chentsulin/generator-redux-app)
     * [**redux-loader** - A high order component for Redux. This components loads resources and passes them to the child components via props](https://github.com/sporto/redux-loader)
+    * [**asyncdataloader-react** -AsyncDataLoader is a React Higher Order Component which takes responsibility of fetching data of the Wrapped Component and offers many options like showing an interface preview of the Wrapped Component while data is being fetched, refetch data after specified time.](https://github.com/harshitkumar31/asyncdataloader-react)
     * [**redux-rest** - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
     * [**react-reach** - A library to communicate with Graphql through Redux](https://github.com/kennetpostigo/react-reach)
     * [**redux-api** - Flux REST API for redux infrastructure](https://github.com/lexich/redux-api)
