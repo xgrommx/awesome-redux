@@ -287,6 +287,7 @@
     * [**redux-mediaquery** - Redux ActionCreator to put responsive-design breakpoints in your store](https://github.com/Yaska/redux-mediaquery)
     * [**redux-amrc** - Redux async middleware and reducer creator](https://github.com/lewis617/redux-amrc)
     * [**redux-fetch-middleware** - Redux middleware that help user to treat simple request via fetch api](https://github.com/zslucky/redux-fetch-middleware)
+    * [**redux-url** - A Redux middleware for synchronizing the URL with the state](https://github.com/jedirandy/redux-url)
 
 * Tools
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
