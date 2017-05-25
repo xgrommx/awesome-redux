@@ -7,7 +7,6 @@
 ## [Documentation of Redux(Simplified Chinese version)](https://github.com/camsong/redux-in-chinese)
 ## [Documentation of Redux(Russian version)](https://rajdee.gitbooks.io/redux-in-russian/) (Work in progress)
 ## [Documentation of Redux(Traditional Chinese version)](http://chentsulin.github.io/redux/index.html)
-## [Documentation of Redux(Japanese version)](https://github.com/jposts/redux) (Work in progress)
 ## [Documentation of Redux(Portuguese version)](https://github.com/franzejr/redux-in-portuguese/) (Work in progress)
 ## [Documentation of Redux(Spanish version)](https://sergiodxa.gitbooks.io/redux-en-espanol/content/) (Work in progress)
 ## [Documentation of Redux(Korean version)](http://dobbit.github.io/redux/)
