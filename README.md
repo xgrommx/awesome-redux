@@ -370,6 +370,7 @@
     * [**redux-autoform** - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
     * [**redux-ship** - Composable, testable and typable side effects](https://github.com/clarus/redux-ship)
     * [**entman** - A simple library to manage normalizr entities in a Redux store](https://github.com/Drawbotics/entman)
+    * [**yax** - Yet another store using redux and inspired by vuex](https://github.com/d-band/yax)
 
 
 * Frameworks
