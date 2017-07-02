@@ -371,6 +371,7 @@
     * [**entman** - A simple library to manage normalizr entities in a Redux store](https://github.com/Drawbotics/entman)
     * [**yax** - Yet another store using redux and inspired by vuex](https://github.com/d-band/yax)
     * [**listate** - Library to listen/observe/watch changes of Redux store state](https://github.com/gamtiq/listate)
+    * [**redux-reducer-async** - Create redux reducers for async behaviors of multiple actions.](https://github.com/AndersDJohnson/redux-reducer-async)
 
 
 * Frameworks
