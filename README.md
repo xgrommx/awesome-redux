@@ -398,6 +398,7 @@
     * [**Conventional-Redux** - A wrapper for react-redux which provides API based on convention over configuration pattern.](https://github.com/mjaneczek/conventional-redux)
     * [**redux-react-i18n** - An i18n solution for redux/react✌🏿✊🏽🤘🏻](https://github.com/derzunov/redux-react-i18n)
     * [**redux-action-host** - Redux middleware to add the hostname of the originating computer to action metadata](https://github.com/sabrehagen/redux-action-host)
+    * [**Mirror** - A simple and powerful React framework with minimal API and zero boilerplate](https://github.com/mirrorjs/mirror)
 
 ---
 
