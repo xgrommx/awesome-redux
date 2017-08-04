@@ -291,6 +291,8 @@
     * [**redux-url** - A Redux middleware for synchronizing the URL with the state](https://github.com/jedirandy/redux-url)
     * [**redux-most** - Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming.](https://github.com/joshburgess/redux-most)
     * [**redux-cookies-middleware** - a Redux middleware which syncs a subset of your Redux store state with cookies.](https://github.com/grofers/redux-cookies-middleware/)
+    * [**redux-cycles** - Handle async actions with functional and reactive programming.](
+    https://github.com/cyclejs-community/redux-cycles)
 
 * Tools
     * [**actionware** - Redux with less boilerplate + error/busy status for every action](https://github.com/wellguimaraes/actionware)
