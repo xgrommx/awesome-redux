@@ -217,6 +217,7 @@
 * Containers
     * [**reapop** - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
     * [**react-redux-modal-provider** - Redux-powered abstract React modal state manager](https://github.com/myaskevich/react-redux-modal-provider)
+    * [**react-redux-modal-flex** - Accessible modal dialog component for React, easy to install and use with Redux](https://github.com/tronghiep92/react-redux-modal-flex)
 
 * Middlewares
 
