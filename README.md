@@ -381,6 +381,7 @@
     * [**listate** - Library to listen/observe/watch changes of Redux store state](https://github.com/gamtiq/listate)
     * [**redux-reducer-async** - Create redux reducers for async behaviors of multiple actions.](https://github.com/AndersDJohnson/redux-reducer-async)
     * [**redux-autoreducers** - Redux Auto reducers generator.](https://github.com/oxyno-zeta/redux-autoreducers)
+    * [**redux-data-structures** - Reducer factory (higher-order functions) for counters, maps, lists (queues, stacks), sets, etc.](https://redux-data-structures.js.org/)
 
 
 * Frameworks
