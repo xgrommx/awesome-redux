@@ -4,10 +4,9 @@
 
 ## [Redux](https://github.com/reactjs/redux)
 ## [Documentation of Redux](http://redux.js.org)
-## [Documentation of Redux(Simple Chinese version)](https://github.com/camsong/redux-in-chinese)
+## [Documentation of Redux(Simplified Chinese version)](https://github.com/camsong/redux-in-chinese)
 ## [Documentation of Redux(Russian version)](https://rajdee.gitbooks.io/redux-in-russian/) (Work in progress)
 ## [Documentation of Redux(Traditional Chinese version)](http://chentsulin.github.io/redux/index.html)
-## [Documentation of Redux(Japanese version)](https://github.com/jposts/redux) (Work in progress)
 ## [Documentation of Redux(Portuguese version)](https://github.com/franzejr/redux-in-portuguese/) (Work in progress)
 ## [Documentation of Redux(Spanish version)](https://sergiodxa.gitbooks.io/redux-en-espanol/content/) (Work in progress)
 ## [Documentation of Redux(Korean version)](http://dobbit.github.io/redux/)
@@ -52,6 +51,7 @@
 * [A categorized list of Redux-related addons, libraries, and utilities](https://github.com/markerikson/redux-ecosystem-links)
 * [Building the F8 2016 App (Redux, GraphQL, React Native)](http://makeitopen.com/tutorials/building-the-f8-app/planning/)
 * [The Elm Architecture in JavaScript](https://github.com/salsita/redux-elm)
+* [React Redux Workflow - Graphical Cheat Sheet](https://github.com/uanders/react-redux-cheatsheet)
 
 ---
 
@@ -170,8 +170,8 @@
 * [**React Redux Cordova Boilerplate**](https://github.com/inderps/react-redux-cordova-boilerplate)
 * [**react-boilerplate** - Performance orientated, offline-first boilerplate feat. hot-reloading, PostCSS and the best developer experience.](https://github.com/mxstbr/react-boilerplate)
 * [**react-webpack-node** - Boilerplate for an universal React + Redux/alt Flux application using Webpack running on a node express server](https://github.com/choonkending/react-webpack-node)
-* [**Hapi React Starter Kit** - Universal, Redux, Redis, Socket.io, Intl] (https://github.com/Dindaleon/hapi-react-starter-kit)
-* [**Universal Redux Template** - A clean, extensible react + redux boilerplate with universal rendering, testing and more] (https://github.com/mz026/universal-redux-template)
+* [**Hapi React Starter Kit** - Universal, Redux, Redis, Socket.io, Intl](https://github.com/Dindaleon/hapi-react-starter-kit)
+* [**Universal Redux Template** - A clean, extensible react + redux boilerplate with universal rendering, testing and more](https://github.com/mz026/universal-redux-template)
 * [**universal-js** - A universal Javascript starter kit inc. React, Redux, Redux Dev Tools, Universal Redux Router, CSS Modules, hot module reloading, Babel for ES2015+ and ESLint](https://github.com/colinmeinke/universal-js)
 * [**redux-react-material-boilerplate** - Simple boilerplate inc. React, Redux, Hot reload and Material-ui](https://github.com/WapGeaR/redux-react-material-boilerplate)
 * [**react-redux-starter** - React Redux Starter](https://github.com/exeto/react-redux-starter)
@@ -181,7 +181,7 @@
 * [**React/Redux simple CRUD** with persistent state and local async actions (add a manifest file and you get an offline webapp) ](https://github.com/cristianszwarc/react_crud_localStorage)
 * [**StarHackIt** - An React/Redux Node full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 * [**React Seed** - A barebones scalable directory structure and package.json for facilitating new React + Redux projects. No fat to trim here!](https://github.com/andrewcoelho/react-seed)
-* [**React/Redux with Auth boilerplate** - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel) :fire:] (https://github.com/WapGeaR/react-redux-boilerplate-auth)
+* [**React/Redux with Auth boilerplate** - Very simple boilerplate, good for fast creating admin panels / dashboard. Included: React, Redux, ReduxForm, React-Router, Simple Authenticate, Hot Reload and Webpack (with babel) :fire:](https://github.com/WapGeaR/react-redux-boilerplate-auth)
 * [**Docker + React/Redux + Node + PostgreSQL** - full stack boilerplate with fully dockerized workflows for development, deployment, testing](https://github.com/Producters/docker-node-react-starter)
 * [**Redux universal boilerplate** - boilerplate for react universal application building on flux architecture based on redux implementation.](https://github.com/ufocoder/redux-universal-boilerplate)
 * [**React Redux Universal Boilerplate** - An Universal ReactJS/Redux Boilerplate.](https://github.com/kiki-le-singe/react-redux-universal-boilerplate)
@@ -194,6 +194,7 @@
 * [**react-redux-seed** - 使用 React 与 Redux 实现 Universal 渲染的种子工程](https://github.com/lewis617/react-redux-seed)
 * [**ARc** - A progressive React starter kit based on Atomic Design with redux, redux-saga and redux-form](https://arc.js.org)
 * [**edux** - fast Redux without constants and switches. Actions and reducers are generated from single source.](https://github.com/dogada/edux)
+* [**fast-redux** - Redux extension with O(1) speed and dynamic importing of reducers/actions.](https://github.com/dogada/fast-redux)
 
 ---
 
@@ -216,9 +217,10 @@
 * Containers
     * [**reapop** - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
     * [**react-redux-modal-provider** - Redux-powered abstract React modal state manager](https://github.com/myaskevich/react-redux-modal-provider)
+    * [**react-redux-modal-flex** - Accessible modal dialog component for React, easy to install and use with Redux](https://github.com/tronghiep92/react-redux-modal-flex)
 
 * Middlewares
-   
+
    * [**redux-cheerio** - Make HTTP requests and then parse the responses with jQuery selectors using Cheerio](https://github.com/therewillbecode/redux-cheerio)
     * [**redux-reporter** - Report actions & metadata to 3rd party providers, extremely useful for analytics and error handling (New Relic, Sentry, Adobe DTM, Keen, etc.)](https://github.com/ezekielchentnik/redux-reporter)
     * [**redux-transduce** - Transducer utilities for Redux](https://github.com/acdlite/redux-transduce)
@@ -258,6 +260,7 @@
     * [**redux-act** - An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act)
     * [**redux-act-async** - Reducing boilerplate when creating asynchronous actions in Redux](https://github.com/FredericHeem/redux-act-async)
     * [**redux-raven-middleware** - Redux middleware for sending error reports to Sentry through raven-js](https://github.com/ngokevin/redux-raven-middleware)
+    * [**react-redux-persist-sentry-middleware** - Redux middleware for sending error reports along with persisted data as payload to Sentry through raven-js](https://github.com/rishantagarwal/react-redux-persist-sentry-middleware)
     * [**redux-routing** - Universal routing built on top of redux](https://github.com/callum/redux-routing)
     * [**redux-undo** - Simple undo/redo functionality for redux state containers](https://github.com/omnidan/redux-undo)
     * [**rn-redux-mixpanel** - Configurable Redux middleware that sends your actions & user profile data to Mixpanel](https://github.com/danscan/rn-redux-mixpanel)
@@ -287,9 +290,16 @@
     * [**redux-mediaquery** - Redux ActionCreator to put responsive-design breakpoints in your store](https://github.com/Yaska/redux-mediaquery)
     * [**redux-amrc** - Redux async middleware and reducer creator](https://github.com/lewis617/redux-amrc)
     * [**redux-fetch-middleware** - Redux middleware that help user to treat simple request via fetch api](https://github.com/zslucky/redux-fetch-middleware)
+    * [**redux-url** - A Redux middleware for synchronizing the URL with the state](https://github.com/jedirandy/redux-url)
+    * [**redux-most** - Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming.](https://github.com/joshburgess/redux-most)
+    * [**redux-cookies-middleware** - a Redux middleware which syncs a subset of your Redux store state with cookies.](https://github.com/grofers/redux-cookies-middleware/)
+    * [**redux-cycles** - Handle async actions with functional and reactive programming.](
+    https://github.com/cyclejs-community/redux-cycles)
     * [**axios-promise-redux-middleware** - This is a tiny redux middleware which allows you to make http requests(using axios) by dispatching actions](https://www.npmjs.com/package/axios-promise-redux-middleware) 
 
+
 * Tools
+    * [**actionware** - Redux with less boilerplate + error/busy status for every action](https://github.com/wellguimaraes/actionware)
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
     * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder)
     * [**redux-devtools** - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
@@ -300,6 +310,7 @@
     * [**generator-reactapp** - Yeoman generator for react app with redux](https://github.com/Jackong/generator-reactapp)
     * [**generator-redux-app** - Scaffold out a redux app with counter example and react-router](https://github.com/chentsulin/generator-redux-app)
     * [**redux-loader** - A high order component for Redux. This components loads resources and passes them to the child components via props](https://github.com/sporto/redux-loader)
+    * [**asyncdataloader-react** -AsyncDataLoader is a React Higher Order Component which takes responsibility of fetching data of the Wrapped Component and offers many options like showing an interface preview of the Wrapped Component while data is being fetched, refetch data after specified time.](https://github.com/harshitkumar31/asyncdataloader-react)
     * [**redux-rest** - Automatically create Flux action constants, action creators and Redux reducers for your REST API](https://github.com/Kvoti/redux-rest)
     * [**react-reach** - A library to communicate with Graphql through Redux](https://github.com/kennetpostigo/react-reach)
     * [**redux-api** - Flux REST API for redux infrastructure](https://github.com/lexich/redux-api)
@@ -368,6 +379,10 @@
     * [**redux-autoform** - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
     * [**redux-ship** - Composable, testable and typable side effects](https://github.com/clarus/redux-ship)
     * [**entman** - A simple library to manage normalizr entities in a Redux store](https://github.com/Drawbotics/entman)
+    * [**yax** - Yet another store using redux and inspired by vuex](https://github.com/d-band/yax)
+    * [**listate** - Library to listen/observe/watch changes of Redux store state](https://github.com/gamtiq/listate)
+    * [**redux-reducer-async** - Create redux reducers for async behaviors of multiple actions.](https://github.com/AndersDJohnson/redux-reducer-async)
+    * [**redux-autoreducers** - Redux Auto reducers generator.](https://github.com/oxyno-zeta/redux-autoreducers)
 
 
 * Frameworks
@@ -390,6 +405,8 @@
     * [**Feeble** - A framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.](https://github.com/tianche/feeble)
     * [**Conventional-Redux** - A wrapper for react-redux which provides API based on convention over configuration pattern.](https://github.com/mjaneczek/conventional-redux)
     * [**redux-react-i18n** - An i18n solution for redux/react✌🏿✊🏽🤘🏻](https://github.com/derzunov/redux-react-i18n)
+    * [**redux-action-host** - Redux middleware to add the hostname of the originating computer to action metadata](https://github.com/sabrehagen/redux-action-host)
+    * [**Mirror** - A simple and powerful React framework with minimal API and zero boilerplate](https://github.com/mirrorjs/mirror)
 
 ---
 
