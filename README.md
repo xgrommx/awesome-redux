@@ -1,5 +1,52 @@
 # Awesome Redux [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome Redux *](#awesome-redux-)
+  - [Redux](#redux)
+  - [Documentation of Redux](#documentation-of-redux)
+  - [Documentation of Redux(Simplified Chinese version)](#documentation-of-reduxsimplified-chinese-version)
+  - [Documentation of Redux(Russian version) (Work in progress)](#documentation-of-reduxrussian-version-work-in-progress)
+  - [Documentation of Redux(Traditional Chinese version)](#documentation-of-reduxtraditional-chinese-version)
+  - [Documentation of Redux(Portuguese version) (Work in progress)](#documentation-of-reduxportuguese-version-work-in-progress)
+  - [Documentation of Redux(Spanish version) (Work in progress)](#documentation-of-reduxspanish-version-work-in-progress)
+  - [Documentation of Redux(Korean version)](#documentation-of-reduxkorean-version)
+  - [Documentation of Redux(Sinhala|සිංහල version) (Work in progress)](#documentation-of-reduxsinhala%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD-version-work-in-progress)
+  - [Marks](#marks)
+    - [Presentations](#presentations)
+    - [Resources](#resources)
+    - [Articles And Tutorials](#articles-and-tutorials)
+    - [Boilerplate](#boilerplate)
+    - [React Native - A framework for building native apps using React](#react-native---a-framework-for-building-native-apps-using-react)
+    - [React - A JavaScript library for building user interfaces](#react---a-javascript-library-for-building-user-interfaces)
+    - [Examples](#examples)
+    - [Similar libraries](#similar-libraries)
+    - [Deku - Functional view library for building UI components as an alternative to React](#deku---functional-view-library-for-building-ui-components-as-an-alternative-to-react)
+    - [Incremental DOM - Incremental DOM is a library for building up DOM trees and updating them in-place when data changes](#incremental-dom---incremental-dom-is-a-library-for-building-up-dom-trees-and-updating-them-in-place-when-data-changes)
+    - [WinJS - Windows Library for JavaScript](#winjs---windows-library-for-javascript)
+    - [Angular - HTML enhanced for web apps](#angular---html-enhanced-for-web-apps)
+    - [Angular 2 - One framework. Mobile and desktop](#angular-2---one-framework-mobile-and-desktop)
+    - [Vue - A library for building modern web interfaces](#vue---a-library-for-building-modern-web-interfaces)
+    - [Polymer - Build modern apps using web components](#polymer---build-modern-apps-using-web-components)
+    - [Ember - A framework for creating ambitious web applications](#ember---a-framework-for-creating-ambitious-web-applications)
+    - [Meteor - Build apps that are a delight to use, faster than you ever thought possible](#meteor---build-apps-that-are-a-delight-to-use-faster-than-you-ever-thought-possible)
+    - [Mithril - A Javascript Framework for Building Brilliant Applications](#mithril---a-javascript-framework-for-building-brilliant-applications)
+    - [Backbone - Give your JS App some Backbone with Models, Views, Collections, and Events](#backbone---give-your-js-app-some-backbone-with-models-views-collections-and-events)
+    - [Aurelia - is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity](#aurelia---is-a-next-gen-javascript-client-framework-for-mobile-desktop-and-web-that-leverages-simple-conventions-to-empower-your-creativity)
+    - [Riot - A React-like user interface micro-library](#riot---a-react-like-user-interface-micro-library)
+    - [Electron - Build cross platform desktop apps with web technologies](#electron---build-cross-platform-desktop-apps-with-web-technologies)
+    - [A-Frame - A web framework for building VR experiences](#a-frame---a-web-framework-for-building-vr-experiences)
+    - [Chrome Extensions](#chrome-extensions)
+  - [Ruby on Rails Resources](#ruby-on-rails-resources)
+  - [Other languages](#other-languages)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+
 > List of repositories which use Redux
 
 ## [Redux](https://github.com/reactjs/redux)
