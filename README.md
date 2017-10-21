@@ -242,6 +242,7 @@
 * [**ARc** - A progressive React starter kit based on Atomic Design with redux, redux-saga and redux-form](https://arc.js.org)
 * [**edux** - fast Redux without constants and switches. Actions and reducers are generated from single source.](https://github.com/dogada/edux)
 * [**fast-redux** - Redux extension with O(1) speed and dynamic importing of reducers/actions.](https://github.com/dogada/fast-redux)
+* [**zero-boilerplate-redux** - An example real-world Redux CRUD application with no boilerplate](https://github.com/jmeas/zero-boilerplate-redux)
 
 ---
 
@@ -428,6 +429,7 @@
     * [**listate** - Library to listen/observe/watch changes of Redux store state](https://github.com/gamtiq/listate)
     * [**redux-reducer-async** - Create redux reducers for async behaviors of multiple actions.](https://github.com/AndersDJohnson/redux-reducer-async)
     * [**redux-autoreducers** - Redux Auto reducers generator.](https://github.com/oxyno-zeta/redux-autoreducers)
+    * [**redux-resource** - Lightweight remote resource management for Redux.](https://github.com/jmeas/redux-resource)
 
 
 * Frameworks
