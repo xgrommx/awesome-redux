@@ -345,6 +345,8 @@
     * [**redux-cookies-middleware** - a Redux middleware which syncs a subset of your Redux store state with cookies.](https://github.com/grofers/redux-cookies-middleware/)
     * [**redux-cycles** - Handle async actions with functional and reactive programming.](
     https://github.com/cyclejs-community/redux-cycles)
+    * [**axios-promise-redux-middleware** - This is a tiny redux middleware which allows you to make http requests(using axios) by dispatching actions](https://www.npmjs.com/package/axios-promise-redux-middleware) 
+
 
 * Tools
     * [**actionware** - Redux with less boilerplate + error/busy status for every action](https://github.com/wellguimaraes/actionware)
