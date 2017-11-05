@@ -15,6 +15,7 @@
   - [Documentation of Redux(Spanish version) (Work in progress)](#documentation-of-reduxspanish-version-work-in-progress)
   - [Documentation of Redux(Korean version)](#documentation-of-reduxkorean-version)
   - [Documentation of Redux(Sinhala|සිංහල version) (Work in progress)](#documentation-of-reduxsinhala%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD-version-work-in-progress)
+  - [Documentation of Redux(Japanese|日本語 version) (Work in progress)](#documentation-of-reduxjapanese%E6%97%A5%E6%9C%AC%E8%AA%9E-version-work-in-progress)
   - [Marks](#marks)
     - [Presentations](#presentations)
     - [Resources](#resources)
@@ -58,6 +59,7 @@
 ## [Documentation of Redux(Spanish version)](https://sergiodxa.gitbooks.io/redux-en-espanol/content/) (Work in progress)
 ## [Documentation of Redux(Korean version)](http://dobbit.github.io/redux/)
 ## [Documentation of Redux(Sinhala|සිංහල version)](https://sandaruny.github.io/redux-sin/) (Work in progress)
+## [Documentation of Redux(Japanese|日本語 version)](https://0-to-1.github.io/redux/) (Work in progress)
 
 > Predictable state container for JavaScript apps
 
