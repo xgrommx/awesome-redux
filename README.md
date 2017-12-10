@@ -347,7 +347,7 @@
     * [**redux-cookies-middleware** - a Redux middleware which syncs a subset of your Redux store state with cookies.](https://github.com/grofers/redux-cookies-middleware/)
     * [**redux-cycles** - Handle async actions with functional and reactive programming.](
     https://github.com/cyclejs-community/redux-cycles)
-    * [**axios-promise-redux-middleware** - This is a tiny redux middleware which allows you to make http requests(using axios) by dispatching actions](https://www.npmjs.com/package/axios-promise-redux-middleware) 
+    * [**axios-promise-redux-middleware** - This is a tiny redux middleware which allows you to make http requests(using axios) by dispatching actions](https://www.npmjs.com/package/axios-promise-redux-middleware)
 
 
 * Tools
@@ -414,6 +414,7 @@
     * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm)
     * [**redux-bacon** - Utilities for attaching Bacon.js to Redux](https://github.com/aparticka/redux-bacon)
     * [**rereduce** - Reducer library for Redux](https://github.com/slorber/rereduce)
+    * [**redoodle** - Enhances Redux integration with TypeScript with Typed Actions and typesafe reducers.](https://github.com/palantir/redoodle)
     * [**redux-decorators** - A ridiculously good syntax for working with Redux and TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere](https://github.com/KarlPurk/redux-decorators)
     * [**redux-test-reducer** - Simple and clean testing mechanism for Redux reducers](https://github.com/amsardesai/redux-test-reducer)
     * [**redux-devtools-inspector** - Another Redux DevTools Monitor](https://github.com/alexkuz/redux-devtools-inspector)
