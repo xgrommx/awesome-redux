@@ -285,7 +285,7 @@
     * [**redux-async-initial-state** - Set initial Redux state asynchronously](https://github.com/KELiON/redux-async-initial-state)
     * [**redux-await** - Manage async redux actions sanely](https://github.com/kolodny/redux-await)
     * [**redux-rx** - RxJS utilities for Redux](https://github.com/acdlite/redux-rx)
-    * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/faassen/reselect)
+    * [**reselect** - Selector library for Redux like in NuclearJS](https://github.com/reactjs/reselect)
     * [**react-redux** - React bindings for Redux](https://github.com/rackt/react-redux)
     * [**redux-react-router** - Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-react-router)
     * [**redux-promise-middleware** - Redux middleware for resolving and rejecting promises](https://github.com/pburtchaell/redux-promise-middleware)
