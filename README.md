@@ -410,6 +410,7 @@
     * [**remote-redux-devtools** - Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps](https://github.com/zalmoxisus/remote-redux-devtools)
     * [**redux-devtools-dispatch** - Dispatch your actions manually to test if your app reacts well](https://github.com/YoruNoHikage/redux-devtools-dispatch)
     * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop)
+    * [**redux-data-fx** - Declarative side effects for Redux](https://github.com/matthieu-beteille/redux-data-fx)
     * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm)
     * [**redux-bacon** - Utilities for attaching Bacon.js to Redux](https://github.com/aparticka/redux-bacon)
     * [**rereduce** - Reducer library for Redux](https://github.com/slorber/rereduce)
