@@ -462,6 +462,7 @@
     * [**redux-react-i18n** - An i18n solution for redux/react✌🏿✊🏽🤘🏻](https://github.com/derzunov/redux-react-i18n)
     * [**redux-action-host** - Redux middleware to add the hostname of the originating computer to action metadata](https://github.com/sabrehagen/redux-action-host)
     * [**Mirror** - A simple and powerful React framework with minimal API and zero boilerplate](https://github.com/mirrorjs/mirror)
+    * [**Rematch** - Redux best practices without the boilerplate](https://github.com/rematch/rematch)
 
 ---
 
