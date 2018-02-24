@@ -351,6 +351,7 @@
 
 
 * Tools
+    * [**actiontyper** - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
     * [**actionware** - Redux with less boilerplate + error/busy status for every action](https://github.com/wellguimaraes/actionware)
     * [**entities-reducer** - High order reducer to handle updates to entities from normalizr actions](https://github.com/kwelch/entities-reducer)
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
