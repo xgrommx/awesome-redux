@@ -440,6 +440,7 @@
     * [**redux-reducer-async** - Create redux reducers for async behaviors of multiple actions.](https://github.com/AndersDJohnson/redux-reducer-async)
     * [**redux-autoreducers** - Redux Auto reducers generator.](https://github.com/oxyno-zeta/redux-autoreducers)
     * [**redux-resource** - Lightweight remote resource management for Redux.](https://github.com/jmeas/redux-resource)
+    * [**redux-bees** - A nice, declarative way of managing JSON API calls with Redux.](https://github.com/cantierecreativo/redux-bees)
 
 
 * Frameworks
