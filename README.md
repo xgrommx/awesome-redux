@@ -415,6 +415,7 @@
     * [**redux-loop** - Sequence your effects naturally and purely by returning them from your reducers](https://github.com/raisemarketplace/redux-loop)
     * [**redux-data-fx** - Declarative side effects for Redux](https://github.com/matthieu-beteille/redux-data-fx)
     * [**redux-orm** - A small, simple and immutable ORM to manage data in your Redux store](https://github.com/tommikaikkonen/redux-orm)
+    * [**blue-chip** - Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use](https://github.com/mfpiccolo/blue-chip)
     * [**redux-bacon** - Utilities for attaching Bacon.js to Redux](https://github.com/aparticka/redux-bacon)
     * [**rereduce** - Reducer library for Redux](https://github.com/slorber/rereduce)
     * [**redoodle** - Enhances Redux integration with TypeScript with Typed Actions and typesafe reducers.](https://github.com/palantir/redoodle)
