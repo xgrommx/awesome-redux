@@ -192,6 +192,7 @@
 * [**react-boilerplate** - React + Typescript + Sass boilerplate](https://github.com/Keats/react-boilerplate)
 * [**react-redux-scaffold** - Combination of redux, react-router and ES6+ support](https://github.com/lcjnil/react-redux-scaffold)
 * [**simple-redux-boilerplate** - Simple and guided React, Redux boilerplate w/ Transform HMR! :fire:](https://github.com/tsaiDavid/simple-redux-boilerplate)
+* [**stapp** - A Frontend boilerplate for High productivity :fire:](https://github.com/theaidem/stapp)
 * [**reactv** - React Redux example](https://github.com/Amorino/reactv)
 * [**redux-boilerplate** - Boilerplate for Redux](https://github.com/ellbee/redux-boilerplate)
 * [**react-redux-starter-kit** - Get started with React, Redux, and React-Router.](https://github.com/davezuko/react-redux-starter-kit)
