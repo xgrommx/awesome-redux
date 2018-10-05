@@ -349,6 +349,7 @@
     https://github.com/cyclejs-community/redux-cycles)
     * [**axios-promise-redux-middleware** - This is a tiny redux middleware which allows you to make http requests(using axios) by dispatching actions](https://www.npmjs.com/package/axios-promise-redux-middleware)
     * [**redux-callbag** - Redux middleware for action side effects with callbag + Extremely lightweight and highly scalable](https://github.com/janryWang/redux-callbag)
+    * [**@reactive-crystal/redux-websocket** - Redux Websocket middleware, reducer and protocol router. ](https://www.npmjs.com/package/@reactive-crystal/redux-websocket)
 
 
 * Tools
