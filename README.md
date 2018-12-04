@@ -83,6 +83,7 @@
 ### Resources
 
 * [Many tools and middlewares](https://github.com/redux-effects)
+* [Programming Community Curated Resources For Learning Redux](https://hackr.io/tutorials/learn-redux)
 * [Redux offline docs](https://github.com/paulwittmann/redux-offline-docs)
 * [Flux challenge](https://github.com/staltz/flux-challenge)
 * [Sound Redux - a simple Soundcloud client](https://github.com/andrewngu/sound-redux)
