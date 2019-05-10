@@ -180,6 +180,7 @@
 * [AngularJS to React/Redux, a Guide for AngularJS Experts Looking to Learn React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux)
 * [Redux in Action](https://www.manning.com/books/redux-in-action)
 * [Redux in Motion](https://www.manning.com/livevideo/redux-in-motion)
+* [How We Use Redux and Redux-Observable with Vue](https://snipcart.com/blog/redux-vue)
 ---
 
 ### Boilerplate
