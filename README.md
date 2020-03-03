@@ -180,6 +180,8 @@
 * [AngularJS to React/Redux, a Guide for AngularJS Experts Looking to Learn React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux)
 * [Redux in Action](https://www.manning.com/books/redux-in-action)
 * [Redux in Motion](https://www.manning.com/livevideo/redux-in-motion)
+* [Learn Redux by coding a Mini-Redux](https://blog.jakoblind.no/learn-redux-by-coding-a-mini-redux/)
+* [How We Use Redux and Redux-Observable with Vue](https://snipcart.com/blog/redux-vue)
 ---
 
 ### Boilerplate
@@ -448,6 +450,7 @@
     * [**redux-bees** - A nice, declarative way of managing JSON API calls with Redux.](https://github.com/cantierecreativo/redux-bees)
     * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests)
     * [**redux-browser-extension-sync** - Redux state synchronization between browser extension components (background/popup etc.). Works in Chrome, Firefox and Opera.](https://github.com/perry-mitchell/redux-browser-extension-sync)
+    * [**encaps** - a library to create independent, reusable and extensible modules for redux applications.](https://github.com/megazazik/encaps)
 
 
 * Frameworks
@@ -476,6 +479,7 @@
     * [**Rematch** - Redux best practices without the boilerplate](https://github.com/rematch/rematch)
     * [**Easy Peasy** - Easy peasy redux-powered state management](https://github.com/ctrlplusb/easy-peasy)
     * [**redux-ts-utils** - Everything you need to create type-safe applications with Redux with a strong emphasis on simplicity](https://github.com/knpwrs/redux-ts-utils)
+    * [**Rechyons** - makes redux no longer verbose, allows you use redux without writing actions and reducers, and still keep immutable](https://github.com/ZhouHansen/rechyons)
 
 ---
 
