@@ -20,6 +20,8 @@
         * [Redux + Datascript](https://github.com/jlongster/redux-experiments)
     * [RxJS](https://github.com/Reactive-Extensions/RxJS)
         * [Thisless React](https://github.com/jas-chen/thisless-react) - Reactive React application flow with React, RxJS and Redux
+    * [Electron](https://github.com/electron/electron)
+        * [unsplash-wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Unsplash cross-platform desktop application built React and Redux
     * [https://github.com/caljrimmer/isomorphic-redux-app](https://github.com/caljrimmer/isomorphic-redux-app)
     * [https://github.com/jadekler/git-js-booksearch](https://github.com/jadekler/git-js-booksearch)
     * [Redux and React Router Example App](https://github.com/knowbody/redux-react-router-example-app)
