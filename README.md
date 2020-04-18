@@ -360,6 +360,7 @@
 * Tools
     * [**actiontyper** - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
     * [**actionware** - Redux with less boilerplate + error/busy status for every action](https://github.com/wellguimaraes/actionware)
+    * [**normalized-reducer** - Higher order reducer for managing normalized relational state, integrates with normalizr](https://github.com/brietsparks/normalized-reducer)    
     * [**entities-reducer** - High order reducer to handle updates to entities from normalizr actions](https://github.com/kwelch/entities-reducer)
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
     * [**redux-test-recorder** - Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app](https://github.com/conorhastings/redux-test-recorder)
