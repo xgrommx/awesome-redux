@@ -251,6 +251,7 @@
 * [**edux** - fast Redux without constants and switches. Actions and reducers are generated from single source.](https://github.com/dogada/edux)
 * [**fast-redux** - Redux extension with O(1) speed and dynamic importing of reducers/actions.](https://github.com/dogada/fast-redux)
 * [**zero-boilerplate-redux** - An example real-world Redux CRUD application with no boilerplate](https://github.com/jmeas/zero-boilerplate-redux)
+* [**react-redux-saga-boilerplate** - Starter kit with react-router, react-helmet, redux, redux-saga and styled-components](https://github.com/gilbarbara/react-redux-saga-boilerplate)
 
 ---
 
