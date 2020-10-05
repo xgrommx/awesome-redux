@@ -452,6 +452,7 @@
     * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests)
     * [**redux-browser-extension-sync** - Redux state synchronization between browser extension components (background/popup etc.). Works in Chrome, Firefox and Opera.](https://github.com/perry-mitchell/redux-browser-extension-sync)
     * [**encaps** - a library to create independent, reusable and extensible modules for redux applications.](https://github.com/megazazik/encaps)
+    * [**redux-async-adapter** - a library to handle asynchronous loading and error states designed to work with redux-toolkit](https://github.com/Pixeladed/redux-async-adapter)
 
 
 * Frameworks
