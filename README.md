@@ -128,7 +128,6 @@
 * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.8k7536uqu)
 * [Join The Dark Side Of The Flux: Responding to Actions with Actors](http://jamesknelson.com/join-the-dark-side-of-the-flux-responding-to-actions-with-actors)
 * [Can I dispatch multiple actions from Redux action creators?](http://jamesknelson.com/can-i-dispatch-multiple-actions-from-redux-action-creators)
-* [Understanding Redux (or, How I Fell in Love with a JavaScript State Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
 * [Your First Immutable React & Redux App](http://reactjsnews.com/your-first-redux-app)
 * [Getting Started with Redux - Egghead's video lessons from Dan Abramov](https://egghead.io/series/getting-started-with-redux)
 * [Redux Testing Video Lessons - a few short Egghead video lessons (some free, some require a subscription)](https://egghead.io/series/react-testing-cookbook)
