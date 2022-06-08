@@ -182,6 +182,7 @@
 * [Redux in Motion](https://www.manning.com/livevideo/redux-in-motion)
 * [Learn Redux by coding a Mini-Redux](https://blog.jakoblind.no/learn-redux-by-coding-a-mini-redux/)
 * [How We Use Redux and Redux-Observable with Vue](https://snipcart.com/blog/redux-vue)
+* [Introduction to Redux Saga](https://www.loginradius.com/blog/async/introduction-to-redux-saga/)
 ---
 
 ### Boilerplate
