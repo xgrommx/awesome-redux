@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome Redux *](#awesome-redux-)
+- [Awesome Redux ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-redux-)
   - [Redux](#redux)
   - [Documentation of Redux](#documentation-of-redux)
   - [Documentation of Redux(Simplified Chinese version)](#documentation-of-reduxsimplified-chinese-version)
@@ -14,12 +14,13 @@
   - [Documentation of Redux(Portuguese version) (Work in progress)](#documentation-of-reduxportuguese-version-work-in-progress)
   - [Documentation of Redux(Spanish version) (Work in progress)](#documentation-of-reduxspanish-version-work-in-progress)
   - [Documentation of Redux(Korean version)](#documentation-of-reduxkorean-version)
-  - [Documentation of Redux(Sinhala|සිංහල version) (Work in progress)](#documentation-of-reduxsinhala%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD-version-work-in-progress)
-  - [Documentation of Redux(Japanese|日本語 version) (Work in progress)](#documentation-of-reduxjapanese%E6%97%A5%E6%9C%AC%E8%AA%9E-version-work-in-progress)
+  - [Documentation of Redux(Sinhala|සිංහල version) (Work in progress)](#documentation-of-reduxsinhalaසිංහල-version-work-in-progress)
+  - [Documentation of Redux(Japanese|日本語 version) (Work in progress)](#documentation-of-reduxjapanese日本語-version-work-in-progress)
   - [Marks](#marks)
     - [Presentations](#presentations)
     - [Resources](#resources)
     - [Articles And Tutorials](#articles-and-tutorials)
+  - [* Introduction to Redux Saga](#-introduction-to-redux-saga)
     - [Boilerplate](#boilerplate)
     - [React Native - A framework for building native apps using React](#react-native---a-framework-for-building-native-apps-using-react)
     - [React - A JavaScript library for building user interfaces](#react---a-javascript-library-for-building-user-interfaces)
@@ -253,6 +254,8 @@
 * [**fast-redux** - Redux extension with O(1) speed and dynamic importing of reducers/actions.](https://github.com/dogada/fast-redux)
 * [**zero-boilerplate-redux** - An example real-world Redux CRUD application with no boilerplate](https://github.com/jmeas/zero-boilerplate-redux)
 * [**cra-template-redux-auth-starter** - A Redux auth starter boilerplate for CRA](https://github.com/Nilanth/cra-template-redux-auth-starter)
+* [**configure-react** - A CLI Application that configure react with redux, react-router, axios All UI-framework, etc with proper folder structure](https://github.com/shaantanu9/configure-react)
+  
 
 ---
 
