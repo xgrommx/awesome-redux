@@ -451,7 +451,7 @@
     * [**redux-autoreducers** - Redux Auto reducers generator.](https://github.com/oxyno-zeta/redux-autoreducers)
     * [**redux-resource** - Lightweight remote resource management for Redux.](https://github.com/jmeas/redux-resource)
     * [**redux-bees** - A nice, declarative way of managing JSON API calls with Redux.](https://github.com/cantierecreativo/redux-bees)
-    * [**redux-saga-requests** - Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API.](https://github.com/klis87/redux-saga-requests)
+    * [**redux-requests** - Declarative AJAX requests and automatic network state management for Redux](https://github.com/klis87/redux-requests)
     * [**redux-browser-extension-sync** - Redux state synchronization between browser extension components (background/popup etc.). Works in Chrome, Firefox and Opera.](https://github.com/perry-mitchell/redux-browser-extension-sync)
     * [**encaps** - a library to create independent, reusable and extensible modules for redux applications.](https://github.com/megazazik/encaps)
 
