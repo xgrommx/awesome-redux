@@ -481,7 +481,6 @@
     * [**Mirror** - A simple and powerful React framework with minimal API and zero boilerplate](https://github.com/mirrorjs/mirror)
     * [**Rematch** - Redux best practices without the boilerplate](https://github.com/rematch/rematch)
     * [**Easy Peasy** - Easy peasy redux-powered state management](https://github.com/ctrlplusb/easy-peasy)
-    * [**redux-ts-utils** - Everything you need to create type-safe applications with Redux with a strong emphasis on simplicity](https://github.com/knpwrs/redux-ts-utils)
     * [**Rechyons** - makes redux no longer verbose, allows you use redux without writing actions and reducers, and still keep immutable](https://github.com/ZhouHansen/rechyons)
 
 ---
